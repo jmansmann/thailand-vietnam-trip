@@ -14,7 +14,7 @@ Research snapshot: 2026-10-20. All prices are approximate **USD per person** unl
 ### Hotels and room setup for five
 
 - Suggested setup: **two rooms for two plus one single** (or a suite and connecting twin room). Confirm rollaway availability, price and bedding before booking.
-- **Mandarin Oriental, Bangkok** (Bang Rak / riverfront): iconic riverside luxury. Budget **~$700–1,500+ per room/night** at peak.
+- **Mandarin Oriental, Bangkok** (Bang Rak / riverfront): established riverside luxury hotel. Budget **~$700–1,500+ per room/night** at peak.
 - **Rosewood Bangkok** (Ploenchit): central luxury; budget **~$500–1,200+ per room/night**.
 - **The Sukhothai Bangkok** (Sathorn): garden-style luxury; budget **~$350–900+ per room/night**.
 - **Capella Bangkok** (riverfront) and **Kimpton Maa-Lai** (Lumphini/Chit Lom) are comparison candidates; check live availability, official rates, and room configurations.
@@ -54,7 +54,7 @@ Research snapshot: 2026-10-20. All prices are approximate **USD per person** unl
 |---|---:|---:|---|
 | Ayutthaya day trip | ~1.5–2 hr each way; full day | ~$40–130 | Excellent historic contrast; manageable by private van/guide. Train is cheaper but adds transfers and heat. |
 | Damnoen Saduak + Maeklong Railway Market | 10–12 hr | ~$70–160 | Memorable early market combo; long drive, tourist-heavy, and tied to train times. Use a private driver and confirm the market / train schedule. |
-| Stay in Bangkok | Full day | ~$20–150 depending on activity | Chatuchak, museums, canal tour, Chinatown, and a relaxed meal. Strong option with only three nights. |
+| Stay in Bangkok | Full day | ~$20–150 depending on activity | Chatuchak, museums, canal tour, Chinatown, and dinner in the city. Strong option with only three nights. |
 | Kanchanaburi / Erawan overnight | 2–3 days | ~$180–450 | WWII history plus waterfalls; distance and multi-stop logistics make it a poor fit for this short stay. |
 | Khao Yai overnight | 2–3 days | ~$250–600 | National-park hikes and wildlife; needs a car/guide and overnight accommodation. More valuable than a rushed day trip. |
 | Pattaya / Ko Samet | 1–2 days | ~$100–300 | Skip on this itinerary: Pattaya prioritizes another beach/nightlife mix, while Ko Samet adds transfers for a brief visit. Phuket already covers the beach leg. |

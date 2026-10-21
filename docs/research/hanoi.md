@@ -44,7 +44,7 @@ Research snapshot: 2026-10-20. Prices are planning estimates in **USD per person
 - Hanoi specialties: **pho, bun cha, cha ca, banh mi, egg coffee, and bia hoi**.
 - Named shortlist: **Bun Cha Huong Lien**, **Pho Gia Truyen Bat Dan**, **Cha Ca Thang Long**, **Cafe Giang**, and bia hoi around **Ta Hien**. Branches, hours, and current opening days can change; check before crossing town.
 - A **motorbike street-food tour with professional drivers** is a good way to cover more stalls without self-driving; budget **~$35–80 pp**, 3–4 hr. Ask whether helmets, hotel pickup, drinks, and tastings are included.
-- A **market-visit cooking class** is a gentler alternative; budget **~$35–90 pp**, 3–5 hr.
+- A **market-visit cooking class** is another option; budget **~$35–90 pp**, 3–5 hr.
 - Upscale dinner candidates: **Gia** and **Tầm Vị** for Vietnamese cooking; **French Grill** for a western celebratory meal. Budget **~$60–200 pp** before wine; reservation, menu, and holiday surcharge **verify**.
 - For bars: Ta Hien is lively and casual; rooftops and craft-cocktail bars suit the group better than adding another full club night. Venues change; check locally.
 
@@ -78,11 +78,11 @@ Research snapshot: 2026-10-20. Prices are planning estimates in **USD per person
 
 | Date | Plan | Reason |
 |---|---|---|
-| Mon Jan 4 | Arrive Hanoi afternoon; check in; gentle Old Quarter / lake loop; nearby dinner. | Low-risk arrival day; avoid a long transfer after arrival. |
+| Mon Jan 4 | Arrive Hanoi afternoon; check in; short Old Quarter / lake loop; nearby dinner. | Low-risk arrival day; avoid a long transfer after arrival. |
 | Tue Jan 5 | Hanoi sights and food activity. | Gives a full city day before the rural / cruise legs. Check Mausoleum availability. |
 | Wed Jan 6 | Private Ninh Binh day trip: Tràng An boat, Hang Múa, late lunch, Hanoi return. | Keeps the requested order while grouping sights geographically. |
 | Thu Jan 7 | Transfer to Lan Ha Bay; board around noon; kayak; sleep aboard. | Avoids a long land day after Ninh Binh. |
-| Fri Jan 8 | Breakfast / kayak; disembark 11:00–11:30; Hanoi return 14:00–15:00; Friday walking street / farewell dinner. | Allows a relaxed final evening and recovery buffer. |
+| Fri Jan 8 | Breakfast / kayak; disembark 11:00–11:30; Hanoi return 14:00–15:00; Friday walking street / farewell dinner. | Leaves time for dinner and rest before departure day. |
 | Sat Jan 9 | Check out and go to HAN for NYC departure. | Keep a generous airport buffer; confirm pickup and terminal. |
 
 Alternative swap: move Hanoi's main sightseeing to Jan 5–6 and do Ninh Binh Jan 5 / Hanoi Jan 6 only if the Mausoleum calendar or another closure makes the current order worse. Current order is simpler.

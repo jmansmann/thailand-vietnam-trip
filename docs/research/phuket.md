@@ -10,7 +10,7 @@ Research snapshot: 2026-10-20. Prices are planning estimates in **USD per person
 | **Surin** | Polished, upscale, close to Kamala and Catch; good if beach access is the priority. | Small village, fewer everyday options and limited nightlife beyond beach venues. HKT transfer roughly 30–45 min. |
 | **Bang Tao / Laguna** | Long beach, resort services, several restaurants and larger villas; Catch is at the south end of the bay. | Sprawling area; a car or resort shuttle is often needed. HKT transfer roughly 25–40 min; Patong is farther than from Kamala. |
 | **Patong** | Best walkable nightlife, dining and broad hotel choice; Bangla Road is on foot. | Busy and commercial, less restorative after the long-haul arrival. Around 35–45 min from HKT. |
-| **Kata** | Attractive beach, relaxed restaurants and some nightlife. | South of the other options, so boat-marina and Bang Tao-club transfers take longer. Around 45–60 min from HKT. |
+| **Kata** | Attractive beach, restaurants and some nightlife. | South of the other options, so boat-marina and Bang Tao-club transfers take longer. Around 45–60 min from HKT. |
 
 ### Lodging for five
 
@@ -53,7 +53,7 @@ Keep **all three Phuket nights (Dec 29, 30, and 31) at the same property**. Do n
 
 - Southern Thai dishes to try: **massaman curry, khanom jeen with curry, gaeng tai pla, moo hong (Phuket-style braised pork), fresh seafood, roti with curry**, and local Hokkien noodles.
 - Old Town shortlist: **Raya** (southern Thai; crab curry / mee hoon), **Blue Elephant Phuket** (upscale Thai in a historic mansion), and **Kra Jok See** (book ahead; lively late dinner). Confirm holiday openings and reservations.
-- Kamala is mostly relaxed beach bars and restaurants. **Bangla Road, Patong** is the main late-night strip; make it one optional night, not the sleep base. Catch is the closest beach-club option to the planned base. Old Town offers cocktail bars and a more local evening.
+- Kamala has beach bars and restaurants. **Bangla Road, Patong** is the main late-night strip; make it one optional night, not the sleep base. Catch is the closest beach-club option to the planned base. Old Town offers cocktail bars and a more local evening.
 
 ## Getting around
 

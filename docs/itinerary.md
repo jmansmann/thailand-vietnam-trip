@@ -55,7 +55,7 @@
 - **Morning:** Breakfast at the hotel, then go to Chatuchak Weekend Market near opening while it is cooler. Set a meeting point and time in case anyone splits off.
 - **Afternoon:** Lunch from Chatuchak's market stalls; return to the hotel for a break, then choose a nearby museum, massage, or pool.
 - **Evening:** Explore Yaowarat street food and sit down at **T&K Seafood** if the queue is reasonable; keep the group together crossing traffic.
-- **Chill alternative:** Skip the market and do a relaxed brunch, Jim Thompson House, and a long Chinatown dinner.
+- **Chill alternative:** Skip the market, have brunch, visit Jim Thompson House, and keep Chinatown for dinner.
 - **Estimate:** **$200–500 pp** including lodging, local transport, food, admissions, and modest shopping.
 - **Booking notes:** Chatuchak normally operates on weekends; verify the Jan 2 schedule and current hours. No pre-booked tour required.
 
@@ -68,7 +68,7 @@
 - **Estimate:** **$250–800 pp** including lodging, local transport, temple admissions, meals, and optional evening activity.
 - **Booking notes:** Check official hours and closures at the entrance; reject “the palace is closed” touts unless confirmed by the palace itself.
 
-### Mon Jan 4 — Bangkok → Hanoi; gentle arrival afternoon
+### Mon Jan 4 — Bangkok → Hanoi; arrival afternoon
 
 - **Morning:** Breakfast at the Bangkok hotel, check out, and transfer to the airport for the scheduled flight (flight research excluded). Carry travel documents and Vietnam entry approval offline.
 - **Afternoon:** Arrive HAN, use a pre-arranged hotel transfer or app car to the Old Quarter / Hoan Kiem. Check in and rest.
@@ -231,7 +231,7 @@
 2. NYE: Catch, another verified beach club, or villa dinner plus a local countdown?
 3. Dec 30: Phang Nga canoeing (recommended), Phi Phi, private speedboat, or fishing?
 4. Bangkok: stay in the city or take an Ayutthaya / floating-market day? Any interest in a Kanchanaburi or Khao Yai overnight, knowing it would replace city time?
-5. Bangkok tasting menu: Le Du, Nusara, Potong, or skip in favor of a relaxed shared meal?
+5. Bangkok tasting menu: Le Du, Nusara, Potong, or skip in favor of a shared Thai dinner?
 6. Vietnam day order: keep Jan 5 Hanoi / Jan 6 Ninh Binh, or swap if the Mausoleum or another closure makes that better?
 7. Ninh Binh: day trip (recommended) or add a Tam Coc night?
 8. Lan Ha: Heritage Line Ginger, Orchid Premium, or Orchid Classic? What cabin layout fits five separate beds?

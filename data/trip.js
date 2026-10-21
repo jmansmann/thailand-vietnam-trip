@@ -1,7 +1,7 @@
 window.TRIP = {
   meta: {
     title: "Thailand + Vietnam",
-    subtitle: "A first trip to Southeast Asia for five",
+    subtitle: "Thailand and Vietnam trip for five friends",
     startDate: "2026-12-29",
     endDate: "2027-01-09",
     departureDate: "2026-12-27",
@@ -19,7 +19,7 @@ window.TRIP = {
       legId: "phuket",
       name: "Phuket",
       dateRange: "Dec 29–Jan 1 · 3 nights",
-      overview: "A gentle arrival in Kamala, one Andaman boat day, then NYE. Keep the same Phuket property for all three nights.",
+      overview: "Arrive in Kamala, take one Andaman boat day, then choose an NYE plan. Keep the same Phuket property for all three nights.",
       highlights: ["Kamala base and pool / beach recovery", "Phang Nga Bay canoeing or another group-selected boat day", "NYE venue remains a group choice"],
       sections: [
         { title: "One Phuket base", body: "The plan keeps all three nights (Dec 29, 30, and 31) in the same Kamala property. There is no Phuket overnight excursion. Confirm five separate beds and any peak-season minimum stay." },
@@ -36,7 +36,7 @@ window.TRIP = {
       highlights: ["Chatuchak Weekend Market on Jan 2", "Grand Palace, Wat Pho, and Wat Arun", "Bangkok day-trip and tasting-menu choices stay open"],
       sections: [
         { title: "Getting around", body: "Use BTS / MRT for cross-city trips, riverboats for the historic riverfront, and app cars or metered taxis for five travelers. Leave extra time for road traffic and confirm whether an airport trip is from BKK or DMK." },
-        { title: "Food and evenings", body: "Yaowarat is the Chinatown street-food evening. Choose among Le Du, Nusara, Potong, or a more relaxed shared meal. Rooftops include Vertigo, Octave, Sky Bar, and Tichuca; confirm dress code and minimum spend." },
+        { title: "Food and evenings", body: "Yaowarat is the Chinatown street-food evening. Choose among Le Du, Nusara, Potong, or a shared Thai dinner. Rooftops include Vertigo, Octave, Sky Bar, and Tichuca; confirm dress code and minimum spend." },
         { title: "Nearby day trips", body: "Ayutthaya is the most practical history day. Floating + railway markets are a long morning-to-evening outing. Kanchanaburi / Erawan and Khao Yai need an overnight and would replace Bangkok time." },
       ],
     },
@@ -45,7 +45,7 @@ window.TRIP = {
       legId: "hanoi",
       name: "Hanoi",
       dateRange: "Jan 4–9 · 4 hotel nights + cruise night",
-      overview: "Use an Old Quarter / Hoan Kiem hotel as a base for a gentle arrival, Hanoi culture and food, then a Ninh Binh day trip and Lan Ha Bay cruise.",
+      overview: "Base in Old Quarter / Hoan Kiem for Hanoi sights and food, plus a Ninh Binh day trip and Lan Ha Bay cruise.",
       highlights: ["Hoan Kiem Lake, Old Quarter, and historic sights", "Ninh Binh day trip on Jan 6", "Lan Ha Bay cruise on Jan 7–8; keep the Hanoi room if the rate works"],
       sections: [
         { title: "Hanoi city", body: "Hoan Kiem Lake, Temple of Literature, Hoa Lo Prison, water puppets, and Tran Quoc Pagoda are options. Check Mausoleum and museum opening days, Train Street access, and the Friday walking-street schedule." },
@@ -145,7 +145,7 @@ window.TRIP = {
             pricePerNight: "$700–1,500+ per room/night (planning estimate)",
             perPerson: "$420–900+ pp for three nights in a three-room setup (estimate)",
             url: "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
-            pros: ["Iconic riverside service", "Boat access"],
+            pros: ["Riverside location", "Boat access"],
             cons: ["High rates", "Not on the BTS interchange"],
           },
           {
@@ -194,7 +194,7 @@ window.TRIP = {
             pricePerNight: "$450–1,000+ per room/night (planning estimate)",
             perPerson: "$360–800+ pp for four hotel nights in three rooms (estimate)",
             url: "https://www.sofitel-legend-metropole-hanoi.com/",
-            pros: ["Historic luxury, central location", "Multiple dining options"],
+            pros: ["Historic property in the French Quarter", "Multiple dining options"],
             cons: ["Premium price; confirm individual beds"],
           },
           {
@@ -225,7 +225,7 @@ window.TRIP = {
     {
       date: "2026-12-29", weekday: "Tuesday", legId: "phuket", stopId: "phuket",
       title: "Land, reset, and settle into Kamala",
-      summary: "Keep the first day deliberately gentle after the long-haul arrival.",
+      summary: "Keep the first day light after the long-haul arrival.",
       costPP: [350, 950],
       items: [
         { time: "morning", title: "HKT arrival and pre-booked van", desc: "Land around 08:00; arrange bag drop or early check-in at the one Phuket property for all three nights.", placeId: "phuket-airport", tags: ["transport", "chill"], booking: "required", costPP: [20, 50] },
@@ -280,7 +280,7 @@ window.TRIP = {
         { time: "afternoon", title: "Hotel break and a flexible afternoon", desc: "Return to Asok. Choose a massage, pool, or a nearby museum rather than stacking another cross-city trip.", placeId: "sukhumvit", tags: ["chill"], booking: "walk-in", costPP: [20, 100] },
         { time: "evening", title: "Yaowarat street food", desc: "Try a mix of food stalls and T&K Seafood if the queue is reasonable. Keep the group together across traffic.", placeId: "yaowarat", tags: ["food", "culture"], booking: "walk-in", costPP: [25, 150] },
       ],
-      alt: "Skip Chatuchak; have a relaxed brunch, visit Jim Thompson House, and keep Chinatown for dinner.",
+      alt: "Skip Chatuchak; have brunch, visit Jim Thompson House, and keep Chinatown for dinner.",
     },
     {
       date: "2027-01-03", weekday: "Sunday", legId: "bangkok", stopId: "bangkok",
@@ -292,12 +292,12 @@ window.TRIP = {
         { time: "afternoon", title: "Wat Pho, river ferry, Wat Arun", desc: "Lunch around Tha Tien, cross by public ferry, then return to Asok for a rest.", placeId: "wat-pho", tags: ["temple", "culture"], booking: "walk-in", costPP: [15, 60] },
         { time: "evening", title: "Dinner choice: Le Du or a shared Thai meal", desc: "Le Du, Nusara, or Potong are tasting-menu candidates; book when dates open. Rooftop / Muay Thai is optional, schedule verify.", placeId: "sukhumvit", tags: ["food", "nightlife"], booking: "required", costPP: [60, 400] },
       ],
-      alt: "Grand Palace and Wat Pho only, riverboat ride, then relaxed dinner near the hotel.",
+      alt: "Grand Palace and Wat Pho only, riverboat ride, then dinner near the hotel.",
     },
     {
       date: "2027-01-04", weekday: "Monday", legId: "hanoi", stopId: "hanoi",
       title: "Fly to Hanoi and settle in",
-      summary: "Keep the first Hanoi afternoon gentle and near the hotel.",
+      summary: "Keep the first Hanoi afternoon near the hotel.",
       costPP: [220, 650],
       items: [
         { time: "morning", title: "Check out and transfer to airport", desc: "Carry Vietnam entry approval and travel documents offline. Flight research is out of scope.", placeId: "bangkok", tags: ["transport"], booking: "required", costPP: [20, 70] },
@@ -436,7 +436,7 @@ window.TRIP = {
         { id: "le-du", name: "Le Du", pros: ["Modern Thai tasting menu"], cons: ["High demand; menu and price verify"], costPP: [150, 300], effort: "High", recommended: true },
         { id: "nusara", name: "Nusara", pros: ["Thai-focused, distinctive setting"], cons: ["Limited seats; menu and release timing verify"], costPP: [150, 300], effort: "High", recommended: false },
         { id: "potong", name: "Potong", pros: ["Thai-Chinese menu in historic shophouse"], cons: ["Adventurous and high-demand"], costPP: [150, 350], effort: "High", recommended: false },
-        { id: "relaxed-dinner", name: "Relaxed shared Thai dinner", pros: ["Flexible, social, less formal"], cons: ["Not a tasting-menu night"], costPP: [30, 100], effort: "Low", recommended: false },
+        { id: "shared-dinner", name: "Shared Thai dinner", pros: ["Flexible, social, less formal"], cons: ["Not a tasting-menu night"], costPP: [30, 100], effort: "Low", recommended: false },
       ],
     },
     {

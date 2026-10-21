@@ -141,7 +141,7 @@
       ${renderHero({ overview: true })}
       <section class="section" aria-labelledby="at-a-glance-title">
         <div class="section-heading">
-          <div><p class="section-kicker">At a glance</p><h2 id="at-a-glance-title">Three bases, one memorable first trip</h2></div>
+          <div><p class="section-kicker">At a glance</p><h2 id="at-a-glance-title">Trip overview</h2></div>
           <p>${escapeHtml(trip.quickSummary)}</p>
         </div>
         <div class="grid grid-3">${renderLegCards()}</div>
@@ -150,7 +150,7 @@
         <article class="panel">
           <p class="section-kicker">Budget range · flights excluded</p>
           <h2>$${trip.budget.total[0].toLocaleString("en-US")}–$${trip.budget.total[1].toLocaleString("en-US")} pp</h2>
-          <p class="muted">The spread is driven mostly by Phuket NYE lodging and whether the group chooses private boats, premium cabins, and a tasting menu.</p>
+          <p class="muted">The range depends mainly on Phuket NYE lodging, private boats, cruise cabin choice, and dining.</p>
           <a class="inline-link" href="essentials.html#budget">See budget assumptions <span aria-hidden="true">→</span></a>
         </article>
         <article class="panel">
@@ -167,8 +167,8 @@
         <div class="panel">${renderQuickDays()}</div>
       </section>
       <section class="section grid grid-2" aria-label="Next steps">
-        <article class="panel"><p class="section-kicker">Book first</p><h2>Protect the scarce bookings</h2><ul class="link-list">${critical.map((item) => `<li><strong>${escapeHtml(item.item)}</strong><br><span class="muted small">${escapeHtml(item.bookBy)} · ${escapeHtml(item.why)}</span></li>`).join("")}</ul></article>
-        <article class="panel"><p class="section-kicker">A note for the group</p><h2>Recommendations are starting points</h2><p class="muted">All trip choices remain open. The Decisions page is a discussion guide only; nothing is selected or submitted on the site.</p><div class="button-row"><a class="button" href="details.html">Browse the three stops</a><a class="button button-secondary" href="decisions.html">Review decisions</a></div></article>
+        <article class="panel"><p class="section-kicker">Book first</p><h2>Booking priorities</h2><ul class="link-list">${critical.map((item) => `<li><strong>${escapeHtml(item.item)}</strong><br><span class="muted small">${escapeHtml(item.bookBy)} · ${escapeHtml(item.why)}</span></li>`).join("")}</ul></article>
+        <article class="panel"><p class="section-kicker">For the group</p><h2>Decisions remain open</h2><p class="muted">The stop pages show short decision notes. The Decisions page lists each option for the group to discuss; nothing is selected or submitted on the site.</p><div class="button-row"><a class="button" href="details.html">Browse the three stops</a><a class="button button-secondary" href="decisions.html">Review decisions</a></div></article>
       </section>`;
     renderCountdown();
   }
