@@ -1,16 +1,16 @@
 # Thailand + Vietnam itinerary draft
 
-**For review — 2026-10-20.** Five travelers; flights excluded from the budget. Every price below is a rough **USD per-person estimate** unless labeled per room / group. Prices are not quotes; NYE, holiday hours, visa rules, and all other time-sensitive details are **(verify)** before booking.
+**For review — 2026-10-21.** Five travelers; flights excluded from the budget. Every price below is a rough **USD per-person estimate** unless labeled per room / group. Prices are not quotes; NYE, holiday hours, visa rules, and all other time-sensitive details are **(verify)** before booking.
 
 ## Summary
 
 | Stop | Nights | Dates | Base | Stay recommendation |
 |---|---:|---|---|---|
 | Phuket | 3 | Dec 29–Jan 1 | Kamala | One property for all three nights, with five separate beds confirmed. Group decision stays open: pool villa vs. hotel, with Andara Resort & Villas as a named hotel option. |
-| Bangkok | 3 | Jan 1–4 | Sukhumvit / Asok | Three rooms or suite + connecting twin room; choose rail access and quiet rooms. |
-| Hanoi | 5 total (4 hotel + 1 cruise) | Jan 4–9 | Old Quarter / Hoan Kiem | Three rooms or connecting rooms; retain the Hanoi room during cruise night if the rate is reasonable. One night aboard a Lan Ha Bay cruise. |
+| Bangkok | 4 | Jan 1–5 | Sukhumvit / Asok | Four hotel nights; three rooms or suite + connecting twin room; choose rail access and quiet rooms. |
+| Hanoi | 4 total (3 hotel + 1 cruise) | Jan 5–9 | Old Quarter / Hoan Kiem | Three hotel nights plus one night aboard a Lan Ha Bay cruise. Keeping the Hanoi room during the cruise adds a hotel-night charge. |
 
-**Route:** Phuket → Bangkok → Hanoi → Lan Ha Bay → Hanoi. All three Phuket nights are at the same Kamala property; there is no Phuket overnight excursion. No other city/base changes are recommended beyond the scheduled cruise night. The Hanoi order stays as decided: city day, Ninh Binh day trip, then Lan Ha cruise.
+**Route:** Phuket → Bangkok → Hanoi → Lan Ha Bay → Hanoi. All three Phuket nights are at the same Kamala property; there is no Phuket overnight excursion. Jan 4 is an extra full Bangkok day; travel to Hanoi moves to Jan 5. Ninh Binh remains Jan 6 and the Lan Ha cruise Jan 7–8. This leaves Hanoi without a full city-sightseeing day: allow only a short arrival-evening walk on Jan 5 and a flexible return evening on Jan 8, or trade one planned activity for more Hanoi time.
 
 ## Day by day
 
@@ -41,14 +41,14 @@
 - **Estimate:** **$500–1,800 pp** including lodging, food, event/table spend, and return transport. The event range is a planning allowance, not an announced NYE price.
 - **Booking notes:** Secure refundable lodging first, then official NYE tickets / table and transport. Keep ticket, ID, pickup location, and post-midnight plan offline.
 
-### Fri Jan 1 — Late morning recovery; afternoon Phuket → Bangkok
+### Fri Jan 1 — Late morning recovery; FD4113 Phuket → Bangkok
 
 - **Morning:** Late breakfast at the villa, hydrate, pack, and check out. Do not schedule a beach excursion after NYE.
-- **Afternoon:** Domestic transfer to Bangkok (flight details are out of scope); pre-book a car/van from the airport to the Asok hotel.
-- **Evening:** Easy dinner at **Thipsamai** if the group has energy and arrival timing works; otherwise eat at the hotel. Optional rooftop drink only with a confirmed booking.
+- **16:25–18:10:** Confirmed flight **FD4113**, Phuket → Bangkok (local times). The airport endpoints were not provided; confirm them before arranging rides. Pre-book a car/van from the Bangkok arrival airport to the Asok hotel.
+- **Evening:** Land at 18:10; try **Thipsamai** only if the transfer and check-in leave enough time. Otherwise eat at the hotel. Optional rooftop drink only with a confirmed booking.
 - **Chill alternative:** Room service, pool, or an early night.
-- **Estimate:** **$250–700 pp** including lodging, meals, and ground transport; domestic airfare excluded.
-- **Booking notes:** Confirm hotel check-in, bed setup, and which Bangkok airport the inbound flight uses. Leave a generous buffer because BKK and DMK are separate airports.
+- **Estimate:** **$250–700 pp** including lodging, meals, and ground transport; airfare excluded.
+- **Booking notes:** Confirm FD4113's Phuket and Bangkok airport endpoints, hotel check-in, bed setup, and airport pickup. BKK and DMK are separate airports.
 
 ### Sat Jan 2 — Chatuchak, then Chinatown dinner
 
@@ -68,23 +68,24 @@
 - **Estimate:** **$250–800 pp** including lodging, local transport, temple admissions, meals, and optional evening activity.
 - **Booking notes:** Check official hours and closures at the entrance; reject “the palace is closed” touts unless confirmed by the palace itself.
 
-### Mon Jan 4 — Bangkok → Hanoi; arrival afternoon
+### Mon Jan 4 — Full Bangkok day: city time or day trip
 
-- **Morning:** Breakfast at the Bangkok hotel, check out, and transfer to the airport for the scheduled flight (flight research excluded). Carry travel documents and Vietnam entry approval offline.
-- **Afternoon:** Arrive HAN, use a pre-arranged hotel transfer or app car to the Old Quarter / Hoan Kiem. Check in and rest.
-- **Evening:** Short Hoan Kiem Lake loop, egg coffee at **Cafe Giang**, and an early **Bun Cha Huong Lien** dinner if arrival timing works.
-- **Chill alternative:** Stay in, order a simple meal, and adjust sleep after travel.
+- **Morning:** Keep the Bangkok day-trip choice open: stay in the city, visit Ayutthaya, or take the floating + railway market outing. Kanchanaburi and Khao Yai need an overnight and do not fit this day.
+- **Afternoon:** If staying in Bangkok, consider a Thonburi canal tour, Jim Thompson House, Golden Mount, or a hotel break and massage. Confirm hours and transfer times.
+- **Evening:** Dinner near Asok or an optional rooftop drink; keep the evening flexible after a full day out.
+- **Chill alternative:** Late breakfast, pool, massage, and an easy dinner without a fixed itinerary.
+- **Estimate:** **$200–800 pp** including Bangkok lodging, meals, local transport and optional activity; any domestic or international airfare is excluded.
+- **Booking notes:** Book day-trip transport if the group chooses one. Bangkok hotel checkout and airport transfer move to Jan 5.
+
+### Tue Jan 5 — VJ902 Bangkok Suvarnabhumi → Hanoi; settle in
+
+- **Morning:** Check out of the Bangkok hotel and transfer to Suvarnabhumi (BKK). Leave a traffic buffer; keep travel documents and Vietnam entry approval accessible.
+- **15:05–17:00:** Confirmed flight **VJ902**, Bangkok Suvarnabhumi (BKK) → Noi Bai (HAN), local times.
+- **After 17:00:** Arrive at HAN, use a pre-arranged transfer or app car to the Old Quarter / Hoan Kiem, check in and rest.
+- **Evening:** Take a short Hoan Kiem Lake loop and choose a nearby dinner if arrival, immigration, and hotel check-in timing allow. Otherwise eat near the hotel.
+- **Chill alternative:** Hotel dinner and an early night before the Ninh Binh departure.
 - **Estimate:** **$220–650 pp** including Hanoi lodging, meals, airport transfer and local transport; airfare excluded.
-- **Booking notes:** Confirm Hanoi hotel late arrival and the correct Hanoi airport pickup point. Vietnam e-visa requirements are **verify**; see practicals.
-
-### Tue Jan 5 — Hanoi history and a guided food evening
-
-- **Morning:** Breakfast at **Pho Gia Truyen Bat Dan**, then Hoan Kiem Lake / Ngoc Son Temple and the Temple of Literature. If the Ho Chi Minh Mausoleum is open and the group wants it, swap it in after checking schedule and dress/security rules.
-- **Afternoon:** Lunch at **Cha Ca Thang Long**, then Hoa Lo Prison or the Vietnam Museum of Ethnology (the latter requires a car and more time). Build in a rest stop.
-- **Evening:** Small-group motorbike street-food tour with professional drivers, or a market-visit cooking class. Finish with egg coffee at **Cafe Giang** if it fits the tour. Choose one activity rather than stacking both.
-- **Chill alternative:** Old Quarter wander, coffee tasting, and a water-puppet show.
-- **Estimate:** **$180–500 pp** including lodging, admissions, meals and one guided food activity.
-- **Booking notes:** Confirm attraction hours, any Monday/Friday Mausoleum closure, tour pickup, helmet / driver inclusion, and cancellation policy.
+- **Booking notes:** Confirm hotel check-in and Hanoi airport pickup. Vietnam e-visa requirements are **verify**; see practicals.
 
 ### Wed Jan 6 — Ninh Binh: Tràng An boat and Hang Múa
 
@@ -104,7 +105,7 @@
 - **Estimate:** **$400–950 pp** including cruise, meals, transfer, and Hanoi hotel night if retained. Do not double-count the lodging line if cruise package pricing already includes it.
 - **Booking notes:** Cruise is a top-priority booking. Compare Heritage Line Ginger and Orchid Premium / Classic. Confirm the actual vessel, pickup/drop-off, cabin plan, inclusions, port fees, weather policy, and timely return.
 
-### Fri Jan 8 — Morning kayak, return to Hanoi, weekend walking street
+### Fri Jan 8 — Morning kayak, return to Hanoi, farewell evening
 
 - **Morning:** Optional early tai chi / kayak and breakfast in the ship's dining room; disembark about 11:00–11:30.
 - **Afternoon:** Return to Hanoi, expected around 14:00–15:00; check into the retained room or collect stored luggage. Rest and shower.
@@ -152,7 +153,7 @@
 
 | Choice | Pros | Cons | Cost pp | Effort |
 |---|---|---|---:|---|
-| Stay in Bangkok (recommended) | Chatuchak, temples, Chinatown, canals, rooftops; preserves rest and dining time. | Misses nearby historic countryside. | ~$40–180/day | Low. |
+| Stay in Bangkok (recommended) | Use the extra Jan 4 for canals, museums, a slower city day, and dining. | Misses nearby historic countryside. | ~$40–180/day, plus lodging | Low. |
 | Ayutthaya day trip | Strong history, reachable as a day trip; private guide simplifies route. | Full hot day, early start and 3+ hr combined transit. | ~$40–130 | Medium. |
 | Floating + railway markets | Atmospheric morning, a very different day out. | Long drive and timed train stop; tourist-focused market. | ~$70–160 | Medium/high. |
 | Kanchanaburi / Erawan overnight | WWII history and nature. | Adds 2–3 days / hotel transfer; would displace Bangkok days. | ~$180–450 | High. |
@@ -166,12 +167,12 @@
 | **Nusara** | Thai-focused fine dining and a distinctive setting. | Limited seats; release timing and menu **verify**. | ~$150–300+ | High. |
 | **Potong** | Thai-Chinese menu in a historic shophouse. | More adventurous menu and high demand. | ~$150–350+ | High. |
 
-### Vietnam order
+### Vietnam order and city time
 
 | Choice | Pros | Cons | Cost pp | Effort |
 |---|---|---|---:|---|
-| **Current order: Hanoi → Ninh Binh day trip → Lan Ha cruise (recommended)** | Keeps the hotel base stable; cruise begins after the inland day; returns Friday in time for walking street. | Jan 6 is a long day and Hanoi weather can be cold / misty. | Built into main budget | Medium. |
-| Swap Ninh Binh to Jan 5; Hanoi museums / Mausoleum Jan 6 | Could align better with Mausoleum calendar or attraction closures. | Must confirm Jan 6 availability and may compress the city day. | Similar | Medium. |
+| **Current order: Hanoi arrival → Ninh Binh day trip → Lan Ha cruise (recommended)** | Keeps the Hanoi base stable and retains both north-Vietnam excursions. | No full city day; Hanoi time is limited to Jan 5 and Jan 8 evenings. | Built into main budget | Medium. |
+| Trade Ninh Binh or the cruise for a Hanoi sightseeing day | Creates time for central sights, museums, and a food activity. | Gives up one major planned experience; group must choose which matters less. | Similar, depending on choice | Medium. |
 
 ### Ninh Binh visit
 
@@ -199,7 +200,7 @@
 
 | Category | Low | High | Assumptions |
 |---|---:|---:|---|
-| Lodging | $2,100 | $6,000 | Phuket 3 villa nights divided by five; Bangkok 3 nights in three premium rooms; Hanoi 4 hotel nights in a three-room setup; 1 cruise cabin/night. Holiday inventory and bed configuration dominate the spread. |
+| Lodging | $2,100 | $6,000 | Phuket 3 villa nights divided by five; Bangkok 4 hotel nights in three rooms; Hanoi 3 hotel nights in a three-room setup; 1 cruise night. Keeping a Hanoi room during the cruise adds a hotel night. Holiday inventory and bed configuration dominate the spread. |
 | Food & drink | $650 | $1,800 | Mostly local restaurants, cafés, one upscale dinner, and a moderate number of cocktails. |
 | Activities / tours | $550 | $1,700 | One Phuket full-day boat, Bangkok sights / optional Muay Thai or Ayutthaya, Ninh Binh private vehicle, and Lan Ha cruise. Excludes extra shopping. |
 | NYE | $150 | $1,000 | Planning reserve for ticket / dinner or table package; no 2026 published price was verified. |
@@ -232,7 +233,7 @@
 3. Dec 30: Phang Nga canoeing (recommended), Phi Phi, private speedboat, or fishing?
 4. Bangkok: stay in the city or take an Ayutthaya / floating-market day? Any interest in a Kanchanaburi or Khao Yai overnight, knowing it would replace city time?
 5. Bangkok tasting menu: Le Du, Nusara, Potong, or skip in favor of a shared Thai dinner?
-6. Vietnam day order: keep Jan 5 Hanoi / Jan 6 Ninh Binh, or swap if the Mausoleum or another closure makes that better?
+6. Is the compact Hanoi schedule (arrival Jan 5, Ninh Binh Jan 6, cruise Jan 7–8) enough, or should one planned activity be traded for a full city-sightseeing day?
 7. Ninh Binh: day trip (recommended) or add a Tam Coc night?
 8. Lan Ha: Heritage Line Ginger, Orchid Premium, or Orchid Classic? What cabin layout fits five separate beds?
 9. Sa Pa: skip for this trip (recommended) or trade away one of Hanoi/Ninh Binh/Lan Ha days?

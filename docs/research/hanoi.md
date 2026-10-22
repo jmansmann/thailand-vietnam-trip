@@ -17,11 +17,11 @@ Research snapshot: 2026-10-20. Prices are planning estimates in **USD per person
 - **Capella Hanoi** (Hoan Kiem / French Quarter): boutique-luxury shortlist; budget **~$500–1,200+ per room/night**. Official site was not retrievable in this pass.
 - **Hotel de l'Opera Hanoi** (near Hoan Kiem / Opera House): upscale alternative; budget **~$180–400 per room/night**.
 - **La Siesta Premium Hang Be** (Old Quarter): boutique option; budget **~$150–350 per room/night**.
-- Rates are planning ranges, not live quotes. Confirm bed type, room count, breakfast, taxes, and Jan 4–9 availability.
+- Rates are planning ranges, not live quotes. Confirm bed type, room count, breakfast, taxes, and Jan 5–9 availability.
 
 ### Cruise-night room: keep or check out?
 
-- **Keep the Hanoi room** if cost allows: leave luggage, return to a familiar room after disembarkation, and reduce same-day airport stress on Jan 9.
+- **Keep the Hanoi room on the cruise night** if cost allows: leave luggage and return to a familiar room after disembarkation. This adds a hotel-night charge on top of the cruise night.
 - **Check out and store bags** if the hotel securely holds luggage and the extra-night rate is high. Get the storage arrangement in writing and a backup plan if the cruise is delayed.
 - Jan 8 returns to Hanoi around 14:00–15:00 in the base plan, leaving a comfortable but not huge buffer before the Jan 9 flight.
 
@@ -70,22 +70,21 @@ Research snapshot: 2026-10-20. Prices are planning estimates in **USD per person
 
 ## Other overnight ideas
 
-- **Sa Pa:** Overnight train / transfer or long bus each way; beautiful highlands but needs several days to be worthwhile. Skip with five Hanoi nights.
-- **Ha Giang Loop:** Roughly 6–7 hr each way to Ha Giang town plus a multi-day mountain loop; too long and unsafe to compress into Jan 4–9. Do not self-ride without experience and valid paperwork.
+- **Sa Pa:** Overnight train / transfer or long bus each way; beautiful highlands but needs several days to be worthwhile. Skip with four Hanoi nights.
+- **Ha Giang Loop:** Roughly 6–7 hr each way to Ha Giang town plus a multi-day mountain loop; too long and unsafe to compress into Jan 5–9. Do not self-ride without experience and valid paperwork.
 - **Mai Chau / Pu Luong:** Rural homestay and walking, but transfer time is material. Better substitution only if dropping Ninh Binh or the bay cruise.
 
-## Suggested Vietnam order (Jan 4–9)
+## Suggested Vietnam order (Jan 5–9)
 
 | Date | Plan | Reason |
 |---|---|---|
-| Mon Jan 4 | Arrive Hanoi afternoon; check in; short Old Quarter / lake loop; nearby dinner. | Low-risk arrival day; avoid a long transfer after arrival. |
-| Tue Jan 5 | Hanoi sights and food activity. | Gives a full city day before the rural / cruise legs. Check Mausoleum availability. |
-| Wed Jan 6 | Private Ninh Binh day trip: Tràng An boat, Hang Múa, late lunch, Hanoi return. | Keeps the requested order while grouping sights geographically. |
+| Tue Jan 5 | Travel from Bangkok; arrive Hanoi afternoon; check in; short Old Quarter / lake loop and nearby dinner. | Keep the arrival evening flexible; confirm hotel and airport transfer. |
+| Wed Jan 6 | Private Ninh Binh day trip: Tràng An boat, Hang Múa, late lunch, Hanoi return. | Keeps the requested day trip before the cruise, but leaves no full Hanoi city day. |
 | Thu Jan 7 | Transfer to Lan Ha Bay; board around noon; kayak; sleep aboard. | Avoids a long land day after Ninh Binh. |
-| Fri Jan 8 | Breakfast / kayak; disembark 11:00–11:30; Hanoi return 14:00–15:00; Friday walking street / farewell dinner. | Leaves time for dinner and rest before departure day. |
+| Fri Jan 8 | Breakfast / kayak; disembark 11:00–11:30; Hanoi return 14:00–15:00; flexible farewell dinner / walking street. | Allow time for a meal and rest before departure day; avoid fixed afternoon plans. |
 | Sat Jan 9 | Check out and go to HAN for NYC departure. | Keep a generous airport buffer; confirm pickup and terminal. |
 
-Alternative swap: move Hanoi's main sightseeing to Jan 5–6 and do Ninh Binh Jan 5 / Hanoi Jan 6 only if the Mausoleum calendar or another closure makes the current order worse. Current order is simpler.
+The added Bangkok night shifts the Hanoi arrival to Jan 5 and removes the full Hanoi sightseeing day. If a full day in Hanoi matters more than one excursion, the group should choose whether to replace the Ninh Binh day trip or the Lan Ha cruise; those activities cannot both move within Jan 5–9 without conflicting with the Jan 9 departure.
 
 ## Places
 
@@ -107,7 +106,7 @@ Alternative swap: move Hanoi's main sightseeing to Jan 5–6 and do Ninh Binh Ja
 - Lan Ha cruise ship, cabin configuration for five, pickup/drop-off, dock, included fees, weather cancellation terms, and Jan 2027 schedule.
 - Tràng An route, current boat price, Hang Múa ticket, car/guide quote, traffic and attraction hours.
 - Ho Chi Minh Mausoleum calendar, Train Street access policy, water-puppet performance, museums, and walking-street holiday schedule.
-- Keep Hanoi hotel through Jan 8 unless secure luggage storage and savings justify checking out.
+- Book Hanoi hotel for Jan 5–7 and Jan 8–9 (three nights total) if checking out for the cruise. Keeping the room for Jan 7 adds a hotel-night charge; otherwise arrange secure luggage storage.
 - Confirm hotel bed setup, quiet rooms, late check-in and final-night availability.
 
 ## Sources

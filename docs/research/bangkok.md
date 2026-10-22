@@ -18,7 +18,7 @@ Research snapshot: 2026-10-20. All prices are approximate **USD per person** unl
 - **Rosewood Bangkok** (Ploenchit): central luxury; budget **~$500–1,200+ per room/night**.
 - **The Sukhothai Bangkok** (Sathorn): garden-style luxury; budget **~$350–900+ per room/night**.
 - **Capella Bangkok** (riverfront) and **Kimpton Maa-Lai** (Lumphini/Chit Lom) are comparison candidates; check live availability, official rates, and room configurations.
-- These are planning allowances, not live quotes. Jan 1–4 rates should be checked with refundable bookings first.
+- These are planning allowances, not live quotes. Jan 1–5 rates should be checked with refundable bookings first.
 
 ## Sights and neighborhoods
 
@@ -54,12 +54,12 @@ Research snapshot: 2026-10-20. All prices are approximate **USD per person** unl
 |---|---:|---:|---|
 | Ayutthaya day trip | ~1.5–2 hr each way; full day | ~$40–130 | Excellent historic contrast; manageable by private van/guide. Train is cheaper but adds transfers and heat. |
 | Damnoen Saduak + Maeklong Railway Market | 10–12 hr | ~$70–160 | Memorable early market combo; long drive, tourist-heavy, and tied to train times. Use a private driver and confirm the market / train schedule. |
-| Stay in Bangkok | Full day | ~$20–150 depending on activity | Chatuchak, museums, canal tour, Chinatown, and dinner in the city. Strong option with only three nights. |
+| Stay in Bangkok | Full day | ~$20–150 depending on activity | Use Jan 4 for museums, a canal tour, a slower city day, and dinner in the city. |
 | Kanchanaburi / Erawan overnight | 2–3 days | ~$180–450 | WWII history plus waterfalls; distance and multi-stop logistics make it a poor fit for this short stay. |
 | Khao Yai overnight | 2–3 days | ~$250–600 | National-park hikes and wildlife; needs a car/guide and overnight accommodation. More valuable than a rushed day trip. |
 | Pattaya / Ko Samet | 1–2 days | ~$100–300 | Skip on this itinerary: Pattaya prioritizes another beach/nightlife mix, while Ko Samet adds transfers for a brief visit. Phuket already covers the beach leg. |
 
-**Recommendation:** Keep Jan 2–3 in Bangkok. Choose Ayutthaya only if the group votes for an out-of-city history day; do not add Kanchanaburi or Khao Yai to the base itinerary.
+**Recommendation:** Keep Jan 2–3 for the planned market and historic-core days. Use the extra Jan 4 for a city day or choose Ayutthaya / the floating + railway markets; do not add Kanchanaburi or Khao Yai to the base itinerary.
 
 ## Getting around
 
@@ -85,7 +85,7 @@ Research snapshot: 2026-10-20. All prices are approximate **USD per person** unl
 
 ## Verify before booking
 
-- Hotel total cost for Jan 1–4, room inventory for five adults, twin beds, extra-bed policy, breakfast, and airport transfer.
+- Hotel total cost for Jan 1–5, room inventory for five adults, twin beds, extra-bed policy, breakfast, and airport transfer.
 - Temple hours, dress code, admission, and closures for Jan 2–3.
 - Chatuchak opening/access details; it normally operates on weekends, but verify Jan 2 schedule.
 - Ayutthaya driver/guide quote, route, admission inclusions, and departure time.

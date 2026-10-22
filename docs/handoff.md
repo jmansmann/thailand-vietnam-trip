@@ -24,7 +24,7 @@ Work through the phases **in order**. Each phase is sized to fit in one agent se
 | Lodging | Mix of villa/hotel depending on city |
 | Interests | Culture, food, temples, landscapes, cities; moderate adventure (kayaking, snorkeling, fishing, cooking classes). Partying is secondary: NYE + knowing going-out areas per city. |
 | Restrictions | None (food or activities) |
-| Flights | **Out of scope** (don't research flights) |
+| Flights | Airfares / flight research out of scope; user-provided confirmed FD4113 and VJ902 details are recorded in the itinerary |
 | Currency | USD per person |
 | Hosting | GitHub Pages |
 
@@ -36,17 +36,17 @@ Work through the phases **in order**. Each phase is sized to fit in one agent se
 | Tue Dec 29 | Tue | Phuket | Land HKT ~8am. Jet-lag day: pool, massage, nice dinner |
 | Wed Dec 30 | Wed | Phuket | Big day trip (boat) |
 | Thu Dec 31 | Thu | Phuket | Easy day; **NYE at a big beach club** |
-| Fri Jan 1 2027 | Fri | Phuket → Bangkok | Afternoon flight (post-NYE) |
+| Fri Jan 1 2027 | Fri | Phuket → Bangkok | FD4113, 16:25–18:10 local; airport endpoints not provided |
 | Sat Jan 2 | Sat | Bangkok | Chatuchak is weekend-only |
 | Sun Jan 3 | Sun | Bangkok | |
-| Mon Jan 4 | Mon | Bangkok → Hanoi | Arrive afternoon |
-| Tue Jan 5 | Tue | Hanoi | Free day |
+| Mon Jan 4 | Mon | Bangkok | Extra full day; city time or one day-trip choice |
+| Tue Jan 5 | Tue | Bangkok → Hanoi | VJ902, BKK 15:05 → HAN 17:00 local; short local evening |
 | Wed Jan 6 | Wed | Ninh Binh day trip | Early departure, Tràng An boat, Hang Múa hike, back after dinner |
 | Thu Jan 7 | Thu | Lan Ha Bay cruise | Leave AM, board ~noon, kayak, sleep aboard |
 | Fri Jan 8 | Fri | Lan Ha → Hanoi | Breakfast aboard, disembark ~11–11:30, back ~2–3pm. Hanoi weekend walking street starts Fri night |
 | Sat Jan 9 | Sat | Hanoi → NYC | Fly home |
 
-**Vietnam day order is NOT fixed.** Suggest swaps if there's a reason (weather, crowds, closures, e.g. Ho Chi Minh Mausoleum is often closed Mon & Fri (verify)).
+**Vietnam day order is NOT fixed.** With Hanoi shifted to Jan 5–9, the current schedule has no full Hanoi city day: Jan 5 is arrival, Jan 6 is Ninh Binh, Jan 7–8 is the cruise, and Jan 8 evening is in Hanoi. Suggest trading an activity for city sightseeing if the group prefers that over one of the excursions.
 Overnight trips away from home bases are welcome as options where they fit the schedule. **Phuket stays at one base for all three nights; no Phuket overnight excursion.**
 
 ### Preferences already expressed
@@ -89,7 +89,7 @@ Starting sources: `en.wikivoyage.org/wiki/Hanoi`, `/wiki/Ninh_Binh`, `/wiki/Tam_
 5. **Ninh Binh:** Tràng An vs Tam Cốc (pick one), Hang Múa, Bái Đính, Hoa Lư, biking. Private car + guide vs group tour, costs, transfer time. Overnight in Ninh Binh vs a day trip: pros/cons.
 6. **Lan Ha Bay:** compare with Ha Long and Bai Tu Long and explain why Lan Ha. Name reputable high-end 2D1N cruises (verify) with price per person, the typical schedule, transfer time, and the seaplane option. Cover January weather (cool, misty, cold water).
 7. **Other overnights:** Sa Pa, Ha Giang (probably too long), Mai Chau, Pu Luong. Give a verdict given the days available.
-8. **Recommended order for Jan 4–9**, with reasoning for any swaps.
+8. **Recommended order for Jan 5–9**, noting the limited Hanoi city time and any trade-offs.
 9. **Getting around:** Grab, HAN airport transfer, private drivers.
 
 ### 1D: `docs/research/practicals.md`

@@ -21,6 +21,27 @@ test("trip metadata and itinerary cover the approved dates and group", () => {
   assert.deepEqual(trip.days.map((day) => day.date), expectedDates);
 });
 
+test("Bangkok runs through Jan 5 and Hanoi runs Jan 5–9", () => {
+  const nightsByCity = Object.fromEntries(trip.legs.map((leg) => [leg.id, leg.nights]));
+
+  assert.deepEqual(nightsByCity, { phuket: 3, bangkok: 4, hanoi: 4 });
+  assert.equal(trip.legs.reduce((total, leg) => total + leg.nights, 0), 11);
+  assert.equal(trip.days.find((day) => day.date === "2027-01-04").legId, "bangkok");
+  assert.equal(trip.days.find((day) => day.date === "2027-01-05").legId, "hanoi");
+  assert.equal(trip.days.find((day) => day.date === "2027-01-06").subStopId, "ninh-binh");
+  assert.equal(trip.days.find((day) => day.date === "2027-01-07").subStopId, "lan-ha");
+});
+
+test("confirmed Bangkok and Hanoi flights appear on their travel days", () => {
+  const flightCopy = ["2027-01-01", "2027-01-05"]
+    .map((date) => trip.days.find((day) => day.date === date).items.map((item) => `${item.title} ${item.desc}`).join(" "))
+    .join(" ");
+
+  for (const detail of ["FD4113", "16:25", "18:10", "VJ902", "15:05", "Suvarnabhumi", "17:00", "HAN"]) {
+    assert.ok(flightCopy.includes(detail), `missing confirmed flight detail: ${detail}`);
+  }
+});
+
 test("all itinerary place references resolve", () => {
   const placeIds = new Set(trip.places.map((place) => place.id));
   const missing = trip.days.flatMap((day) =>
