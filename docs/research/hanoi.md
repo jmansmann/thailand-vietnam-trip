@@ -1,14 +1,22 @@
 # Hanoi, Ninh Binh, and Lan Ha Bay research
 
-Research snapshot: 2026-10-20. Prices are planning estimates in **USD per person** unless stated otherwise. Weather, opening hours, holiday schedules, cruise routing, and room rates are **verify** before booking.
+Research snapshot: 2026-10-20; Hanoi stay-area recommendation updated 2026-11-06. Prices are planning estimates in **USD per person** unless stated otherwise. Weather, opening hours, holiday schedules, cruise routing, and room rates are **verify** before booking.
 
 ## Where to stay in Hanoi
 
 | Area | Advantages | Trade-offs |
 |---|---|---|
-| **Old Quarter / north Hoan Kiem — recommendation** | Walkable food, lake, weekend walking streets, and easy pickups for Ninh Binh / bay tours. Best for a short first visit. | Busy streets, motorbike noise, narrow sidewalks. Request a quiet room away from the street. |
-| **French Quarter / south Hoan Kiem** | Elegant hotels, broad streets, cultural sights, and a more restful night. Still walkable to the lake and Old Quarter. | Fewer tiny street-food alleys immediately outside. |
+| **West/southwest Hoan Kiem lake edge — recommendation** | Around Hang Trong, St Joseph's Cathedral, and Ly Quoc Su: walkable to the lake, Old Quarter food, sights, and evening options. Best fit for the group's two available city evenings. | Tourist streets and motorbike noise are still nearby; room/building sound insulation matters. |
+| **French Quarter / south Hoan Kiem — runner-up** | Elegant hotels, broader streets, and a more restful hotel feel, still central to the lake and cultural sights. | Further from the Old Quarter's dense street-food and bar lanes, which matter for a very short Hanoi stay. |
 | **West Lake / Tay Ho** | Lakeside air, larger rooms and restaurants, more residential feel. | Farther from Hoan Kiem and central sights; add car time. |
+
+### Recommended pocket for this group
+
+Search the **west/southwest edge of Hoan Kiem Lake**, around **Hang Trong, St Joseph's Cathedral, and Ly Quoc Su**—the seam between the Old Quarter and the French Quarter. It keeps the lake and Old Quarter food within an easy walk while letting the group choose a hotel lane away from the busiest bars. [Rough Guides](https://www.roughguides.com/articles/where-to-stay-in-hanoi/) describes the Old Quarter as a walkable first-visit base and contrasts Tay Ho as quieter; the [Hanoi guide](https://en.wikivoyage.org/wiki/Hanoi) identifies Ta Hien as a lively evening area. Choosing the lake edge over West Lake is our itinerary-specific judgment: with an arrival evening Jan 5 and one return evening Jan 8, a longer ride to central food and sights would use scarce city time. These neighborhood descriptions do not establish block-by-block noise or safety.
+
+For sleep, avoid a room directly on **Ta Hien or Luong Ngoc Quyen**; request a rear-facing / courtyard room and confirm sound insulation. This is a noise-avoidance suggestion, not a block-by-block safety rating. No neighborhood guarantees safety: UK travel advice notes petty theft and motorbike bag-snatching in crowded tourist areas and recommends using reputable ride apps and checking driver/vehicle details. For five, prefer a well-reviewed hotel with a staffed desk and confirm a three-room (two twins plus a single) or suite/connecting-room setup with five suitable beds.
+
+The lake-edge base is convenient for city walking, but Ninh Binh and Lan Ha transfers depend on the chosen operator. Confirm hotel pickup details, the cruise's pier/transfer plan, and Hanoi return logistics before booking. Noi Bai Airport lists public routes including bus 86 to Hanoi Railway Station; for five with bags, compare a pre-arranged car/van or reputable app ride rather than relying on bus access alone.
 
 ### Hotels and room setup
 
@@ -106,8 +114,10 @@ The added Bangkok night shifts the Hanoi arrival to Jan 5 and removes the full H
 - Lan Ha cruise ship, cabin configuration for five, pickup/drop-off, dock, included fees, weather cancellation terms, and Jan 2027 schedule.
 - Tràng An route, current boat price, Hang Múa ticket, car/guide quote, traffic and attraction hours.
 - Ho Chi Minh Mausoleum calendar, Train Street access policy, water-puppet performance, museums, and walking-street holiday schedule.
-- Book Hanoi hotel for Jan 5–7 and Jan 8–9 (three nights total) if checking out for the cruise. Keeping the room for Jan 7 adds a hotel-night charge; otherwise arrange secure luggage storage.
+- Book a hotel around the west/southwest Hoan Kiem lake edge for Jan 5, 6, and 8 (three nights) if checking out for the cruise. Keeping the room for Jan 7 adds a hotel-night charge; otherwise arrange secure luggage storage.
 - Confirm hotel bed setup, quiet rooms, late check-in and final-night availability.
+- Confirm whether the hotel is on a quiet side lane in the west/southwest Hoan Kiem lake-edge area, not directly on a late-night bar street.
+- Confirm exact pickup/drop-off arrangements with the selected Ninh Binh and Lan Ha operators; do not assume hotel pickup is included.
 
 ## Sources
 
@@ -122,3 +132,6 @@ The added Bangkok night shifts the Hanoi arrival to Jan 5 and removes the full H
 - [Heritage Line: Lan Ha Bay 1-night itinerary](https://www.heritage-line.com/our-cruises/lan-ha-bay/)
 - [Orchid Cruises](https://www.orchidcruises.com/)
 - [Sofitel Legend Metropole Hanoi](https://www.sofitel-legend-metropole-hanoi.com/)
+- [Rough Guides — Where to stay in Hanoi](https://www.roughguides.com/articles/where-to-stay-in-hanoi/)
+- [Noi Bai International Airport — transport to/from the airport](https://noibaiairport.vn/en/public-transportations-nid1.html)
+- [GOV.UK — Vietnam safety and security](https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security)

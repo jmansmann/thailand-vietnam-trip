@@ -1,59 +1,59 @@
-# Thailand + Vietnam itinerary draft
+# Thailand + Vietnam official itinerary
 
-**For review — 2026-10-21.** Five travelers; flights excluded from the budget. Every price below is a rough **USD per-person estimate** unless labeled per room / group. Prices are not quotes; NYE, holiday hours, visa rules, and all other time-sensitive details are **(verify)** before booking.
+**Updated 2026-11-06.** Five travelers; flights are excluded from the budget. Every price below is a rough **USD per-person estimate** unless labeled per room / group. Prices are not quotes; NYE, holiday hours, visa rules, and all other time-sensitive details are **(verify)** before booking. The Phuket Airbnb remains selected, not confirmed booked; the Bangkok Airbnb is booked, but its price and bed setup were not provided.
 
 ## Summary
 
 | Stop | Nights | Dates | Base | Stay recommendation |
 |---|---:|---|---|---|
-| Phuket | 3 | Dec 29–Jan 1 | Kamala | One property for all three nights, with five separate beds confirmed. Group decision stays open: pool villa vs. hotel, with Andara Resort & Villas as a named hotel option. |
-| Bangkok | 4 | Jan 1–5 | Sukhumvit / Asok | Four hotel nights; three rooms or suite + connecting twin room; choose rail access and quiet rooms. |
-| Hanoi | 4 total (3 hotel + 1 cruise) | Jan 5–9 | Old Quarter / Hoan Kiem | Three hotel nights plus one night aboard a Lan Ha Bay cruise. Keeping the Hanoi room during the cruise adds a hotel-night charge. |
+| Phuket | 3 | Dec 29–Jan 1 | Central Patong (Airbnb listing title; exact pin unverified) | Same selected Airbnb for all three nights. The title claims about 300 m to Bangla Road and 500 m to the beach; verify exact pin, five separate beds, reservation, and rate. |
+| Bangkok | 4 | Jan 1–5 | Phrom Phong / EmQuartier area (per listing title) | Booked Airbnb for Jan 1–5, 2027 (four nights). The listing title claims 300 m to BTS Phrom Phong and EmQuartier; price and bed setup were not provided. |
+| Hanoi | 4 total (3 hotel + 1 cruise) | Jan 5–9 | West/southwest Hoan Kiem lake edge | Search around Hang Trong / St Joseph's Cathedral / Ly Quoc Su for walkable Old Quarter access; request a quiet room. Three hotel nights plus one cruise night unless the room is kept Jan 7. |
 
-**Route:** Phuket → Bangkok → Hanoi → Lan Ha Bay → Hanoi. All three Phuket nights are at the same Kamala property; there is no Phuket overnight excursion. Jan 4 is an extra full Bangkok day; travel to Hanoi moves to Jan 5. Ninh Binh remains Jan 6 and the Lan Ha cruise Jan 7–8. This leaves Hanoi without a full city-sightseeing day: allow only a short arrival-evening walk on Jan 5 and a flexible return evening on Jan 8, or trade one planned activity for more Hanoi time.
+**Route:** Phuket → Bangkok → Hanoi → Lan Ha Bay → Hanoi. All three Phuket nights are at the selected Airbnb property; there is no Phuket overnight excursion. Bangkok's four nights are at the booked Airbnb. Jan 4 is an extra full Bangkok day; travel to Hanoi moves to Jan 5. Ninh Binh remains Jan 6 and the Lan Ha cruise Jan 7–8. This leaves Hanoi without a full city-sightseeing day: allow only a short arrival-evening walk on Jan 5 and a flexible return evening on Jan 8, or trade one planned activity for more Hanoi time.
 
 ## Day by day
 
-### Tue Dec 29 — Phuket landing: pool, massage, and an early dinner
+### Tue Dec 29 — Phuket landing: settle into central Patong
 
-- **Morning:** Land HKT around 08:00; pre-book a van for five with luggage to Kamala. Ask the villa to confirm early bag drop / early check-in; do not assume the rooms will be ready.
-- **Afternoon:** Pool, an easy beach walk, optional Thai massage, groceries and water for the villa. Keep plans flexible after the overnight journey.
-- **Evening:** Dinner at **PP&P** on Kamala Beach (or a villa chef if everyone is exhausted); book / confirm hours for five.
-- **Chill alternative:** Stay at the pool, order dinner in, and call it an early night.
-- **Estimate:** **$350–950 pp** including first night lodging, transfer, meals, and optional massage.
-- **Booking notes:** Airport-to-villa van and villa check-in / baggage plan; verify separate beds and pool safety / access.
+- **Morning:** Land HKT around 08:00; arrange a van for five with luggage to the selected Airbnb. Its title identifies central Patong; verify the exact map pin, bag drop, and early check-in before setting the ride.
+- **Afternoon:** Keep the first day flexible after the overnight journey. The listing title claims the beach is about 500 m away; confirm the walking route, then consider a short beach walk or Thai massage.
+- **Evening:** Choose an easy dinner near the property after confirming its location; do not assume the Airbnb has meal service or a kitchen.
+- **Chill alternative:** Rest at the property and call it an early night.
+- **Estimate:** **$350–950 pp** as a broad planning allowance; it includes lodging but does not use the selected Airbnb's unprovided price.
+- **Booking notes:** Arrange the airport transfer and property arrival / baggage plan; confirm reservation status and five separate beds.
 
 ### Wed Dec 30 — Phang Nga Bay by boat
 
-- **Morning:** Breakfast at the villa, then early pickup for a Phang Nga Bay small-group or private boat day with sea-cave canoeing. Choose a program that includes a licensed canoe guide and clarify national-park fees.
-- **Afternoon:** Kayak / canoe through permitted sea caves and lagoons; make a short James Bond Island stop if the group wants it, while expecting crowds. Return to Kamala by late afternoon.
-- **Evening:** Dinner at the villa or back at **PP&P** in Kamala; no late night before NYE. Lunch is normally included in the boat package—confirm before paying.
-- **Chill alternative:** Skip the boat and spend the day between Kamala Beach, massage, and the villa pool.
+- **Morning:** Have breakfast near the property, then take the arranged pickup for a Phang Nga Bay small-group or private boat day with sea-cave canoeing. Choose a program that includes a licensed canoe guide and clarify national-park fees.
+- **Afternoon:** Kayak / canoe through permitted sea caves and lagoons; make a short James Bond Island stop if the group wants it, while expecting crowds. Return to Patong by late afternoon.
+- **Evening:** Choose dinner near the property; no late night before NYE. Confirm whether lunch is included in the chosen boat package.
+- **Chill alternative:** Skip the boat and spend the day around Patong Beach and nearby restaurants.
 - **Estimate:** **$400–1,050 pp** including lodging, boat tour, meals, and local transport.
 - **Booking notes:** Compare a small-group canoe tour against a private speedboat for five. Confirm route, group size, departure time, fees, weather cancellation, and return time.
 
-### Thu Dec 31 — Kamala reset, then NYE beach club
+### Thu Dec 31 — Patong reset, then NYE plans
 
-- **Morning:** Sleep in, late breakfast, and swim / beach time. Keep the morning light.
-- **Afternoon:** Lunch at the villa, then downtime; arrange a confirmed driver and pickup point for the evening.
-- **Evening:** NYE at **Catch Beach Club** is the current first choice; compare with Café del Mar only after its 2026/27 event, tickets, and current operation are confirmed. Reserve the club's dinner package or eat at **PP&P** before heading out.
-- **Chill alternative / backup:** Private chef or villa dinner, then a nearby bar or public countdown only if transport and crowd plans are clear.
+- **Morning:** Sleep in, have a late breakfast, and keep the morning light; check the beach route from the Airbnb's exact map pin.
+- **Afternoon:** Eat near the property, rest, and decide whether to celebrate locally in Patong or travel to a beach club.
+- **Evening:** NYE options remain open: **Catch Beach Club** in Bang Tao (current beach-club first check), **Café del Mar** in Kamala (event / operation verify), or local Patong nightlife. The Airbnb listing title claims Bangla Road is about 300 m away; verify the route and expect crowds. Arrange a driver if going to a beach club and a clear late-night return plan.
+- **Chill alternative / backup:** Have dinner nearby and keep the celebration local rather than making a late cross-island trip.
 - **Estimate:** **$500–1,800 pp** including lodging, food, event/table spend, and return transport. The event range is a planning allowance, not an announced NYE price.
-- **Booking notes:** Secure refundable lodging first, then official NYE tickets / table and transport. Keep ticket, ID, pickup location, and post-midnight plan offline.
+- **Booking notes:** Choose the venue, then secure official NYE tickets / table and transport where needed. Keep tickets, IDs, pickup details, and post-midnight plan offline.
 
 ### Fri Jan 1 — Late morning recovery; FD4113 Phuket → Bangkok
 
-- **Morning:** Late breakfast at the villa, hydrate, pack, and check out. Do not schedule a beach excursion after NYE.
-- **16:25–18:10:** Confirmed flight **FD4113**, Phuket → Bangkok (local times). The airport endpoints were not provided; confirm them before arranging rides. Pre-book a car/van from the Bangkok arrival airport to the Asok hotel.
-- **Evening:** Land at 18:10; try **Thipsamai** only if the transfer and check-in leave enough time. Otherwise eat at the hotel. Optional rooftop drink only with a confirmed booking.
-- **Chill alternative:** Room service, pool, or an early night.
+- **Morning:** Late breakfast near the property, hydrate, pack, and check out. Do not schedule a beach excursion after NYE.
+- **16:25–18:10:** Confirmed flight **FD4113**, Phuket → Bangkok (local times). The airport endpoints were not provided; confirm them before arranging the transfer to the booked Airbnb.
+- **Evening:** Land at 18:10; try **Thipsamai** only if the transfer and check-in leave enough time. Otherwise choose an easy meal near the property. Optional rooftop drink only with a confirmed booking.
+- **Chill alternative:** An easy meal near the property and an early night.
 - **Estimate:** **$250–700 pp** including lodging, meals, and ground transport; airfare excluded.
-- **Booking notes:** Confirm FD4113's Phuket and Bangkok airport endpoints, hotel check-in, bed setup, and airport pickup. BKK and DMK are separate airports.
+- **Booking notes:** Confirm FD4113's airport endpoints, then arrange the Bangkok arrival transfer to the booked Airbnb. Its bed setup and price were not provided. BKK and DMK are separate airports.
 
 ### Sat Jan 2 — Chatuchak, then Chinatown dinner
 
-- **Morning:** Breakfast at the hotel, then go to Chatuchak Weekend Market near opening while it is cooler. Set a meeting point and time in case anyone splits off.
-- **Afternoon:** Lunch from Chatuchak's market stalls; return to the hotel for a break, then choose a nearby museum, massage, or pool.
+- **Morning:** Have breakfast near the booked Airbnb, then go to Chatuchak Weekend Market near opening while it is cooler. Set a meeting point and time in case anyone splits off.
+- **Afternoon:** Lunch from Chatuchak's market stalls; return to the Airbnb area for a break, then choose a nearby museum, massage, or park visit.
 - **Evening:** Explore Yaowarat street food and sit down at **T&K Seafood** if the queue is reasonable; keep the group together crossing traffic.
 - **Chill alternative:** Skip the market, have brunch, visit Jim Thompson House, and keep Chinatown for dinner.
 - **Estimate:** **$200–500 pp** including lodging, local transport, food, admissions, and modest shopping.
@@ -61,31 +61,31 @@
 
 ### Sun Jan 3 — Grand Palace, Wat Pho, Wat Arun; rooftop or Muay Thai
 
-- **Morning:** Breakfast at the hotel, then early Grand Palace / Wat Phra Kaew entry with shoulders and legs covered. Allow for security and heat.
-- **Afternoon:** Wat Pho, lunch at a riverside café near Tha Tien, then cross the river to Wat Arun by ferry. Return to Asok for rest.
-- **Evening:** Group choice: rooftop cocktails at **Vertigo & Moon Bar** (or Octave / Sky Bar / Tichuca; reservation and dress code **verify**) or a Muay Thai bout (event schedule **verify**). Dinner at **Le Du** if the group chooses a tasting menu and secures a reservation; otherwise book a shared Thai dinner near Asok.
-- **Chill alternative:** Do only the Grand Palace + Wat Pho, then take a riverboat and have dinner near the hotel.
+- **Morning:** Have breakfast near the booked Airbnb, then early Grand Palace / Wat Phra Kaew entry with shoulders and legs covered. Allow for security and heat.
+- **Afternoon:** Wat Pho, lunch at a riverside café near Tha Tien, then cross the river to Wat Arun by ferry. Return to the Airbnb for rest.
+- **Evening:** Group choice: rooftop cocktails at **Vertigo & Moon Bar** (or Octave / Sky Bar / Tichuca; reservation and dress code **verify**) or a Muay Thai bout (event schedule **verify**). Dinner at **Le Du** if the group chooses a tasting menu and secures a reservation; otherwise book a shared Thai dinner near the Airbnb.
+- **Chill alternative:** Do only the Grand Palace + Wat Pho, then take a riverboat and have dinner near the Airbnb.
 - **Estimate:** **$250–800 pp** including lodging, local transport, temple admissions, meals, and optional evening activity.
 - **Booking notes:** Check official hours and closures at the entrance; reject “the palace is closed” touts unless confirmed by the palace itself.
 
 ### Mon Jan 4 — Full Bangkok day: city time or day trip
 
 - **Morning:** Keep the Bangkok day-trip choice open: stay in the city, visit Ayutthaya, or take the floating + railway market outing. Kanchanaburi and Khao Yai need an overnight and do not fit this day.
-- **Afternoon:** If staying in Bangkok, consider a Thonburi canal tour, Jim Thompson House, Golden Mount, or a hotel break and massage. Confirm hours and transfer times.
-- **Evening:** Dinner near Asok or an optional rooftop drink; keep the evening flexible after a full day out.
-- **Chill alternative:** Late breakfast, pool, massage, and an easy dinner without a fixed itinerary.
+- **Afternoon:** If staying in Bangkok, consider a Thonburi canal tour, Jim Thompson House, Golden Mount, or an Airbnb break and massage. Confirm hours and transfer times.
+- **Evening:** Dinner near the Airbnb or an optional rooftop drink; keep the evening flexible after a full day out.
+- **Chill alternative:** Late breakfast, massage, and an easy dinner without a fixed itinerary.
 - **Estimate:** **$200–800 pp** including Bangkok lodging, meals, local transport and optional activity; any domestic or international airfare is excluded.
-- **Booking notes:** Book day-trip transport if the group chooses one. Bangkok hotel checkout and airport transfer move to Jan 5.
+- **Booking notes:** Book day-trip transport if the group chooses one. Airbnb checkout and the airport transfer to Suvarnabhumi move to Jan 5.
 
 ### Tue Jan 5 — VJ902 Bangkok Suvarnabhumi → Hanoi; settle in
 
-- **Morning:** Check out of the Bangkok hotel and transfer to Suvarnabhumi (BKK). Leave a traffic buffer; keep travel documents and Vietnam entry approval accessible.
+- **Morning:** Check out of the booked Airbnb and transfer to Suvarnabhumi (BKK). Leave a traffic buffer; keep travel documents and Vietnam entry approval accessible.
 - **15:05–17:00:** Confirmed flight **VJ902**, Bangkok Suvarnabhumi (BKK) → Noi Bai (HAN), local times.
-- **After 17:00:** Arrive at HAN, use a pre-arranged transfer or app car to the Old Quarter / Hoan Kiem, check in and rest.
+- **After 17:00:** Arrive at HAN, use a pre-arranged transfer or app car to the west/southwest Hoan Kiem lake edge / Old Quarter seam, check in and rest.
 - **Evening:** Take a short Hoan Kiem Lake loop and choose a nearby dinner if arrival, immigration, and hotel check-in timing allow. Otherwise eat near the hotel.
 - **Chill alternative:** Hotel dinner and an early night before the Ninh Binh departure.
 - **Estimate:** **$220–650 pp** including Hanoi lodging, meals, airport transfer and local transport; airfare excluded.
-- **Booking notes:** Confirm hotel check-in and Hanoi airport pickup. Vietnam e-visa requirements are **verify**; see practicals.
+- **Booking notes:** Book a quiet-room hotel around Hang Trong / St Joseph's Cathedral / Ly Quoc Su; confirm late check-in and airport pickup. Vietnam e-visa requirements are **verify**; see practicals.
 
 ### Wed Jan 6 — Ninh Binh: Tràng An boat and Hang Múa
 
@@ -124,21 +124,17 @@
 
 ## Group decisions to discuss
 
-### Phuket lodging
+### Phuket lodging — selected, not an open group choice
 
-| Choice | Pros | Cons | Cost pp | Effort |
-|---|---|---|---:|---|
-| **Kamala villa with five separate beds (recommended)** | Shared pool / living space, easy group dinners, quiet recovery base near Catch; all three nights stay at the same property. | NYE minimum stay and peak rates; bed setup and late check-in need written confirmation. | ~$720–2,400 for 3 nights, based on ~$240–800 pp/night | Low after booking; high before booking due to inventory / terms. |
-| Andara Resort & Villas, Kamala | Hotel service; large suites and 3–7-bedroom pool villas; official site confirms location and villa offering. | Luxury pricing; individual bed layout still needs confirming. | ~$600–1,800 for 3 nights (estimate) | Low. |
-| Rosewood Phuket, Emerald Bay | High-end resort, villas / houses, polished service. | Not central to Kamala / Bang Tao nightlife; transfer dependence; peak rates can be very high. | ~$900–2,700 for 3 nights (estimate) | Low. |
+The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (three nights): [CozyStay 3BR CenterPatong 300m Bangla, 500m Beach](https://www.airbnb.com/rooms/1275269225698798502). The listing title identifies central Patong and claims about 300 m to Bangla Road and 500 m to the beach; verify the exact map pin and walking routes. This records the group's selection, not payment or reservation confirmation. Confirm five separate beds, reservation status, arrival / bag-drop plan, rate, and stay terms. There is no remaining villa-versus-hotel decision for Phuket.
 
 ### NYE club
 
 | Choice | Pros | Cons | Cost pp | Effort |
 |---|---|---|---:|---|
-| **Catch Beach Club, Bang Tao (first check)** | Official site is already advertising Festive Season 26/27; close enough to Kamala. | NYE package, ticket availability, and table spend not visible in the fetched page; ride back needs planning. | Planning hold ~$150–1,000+ | Medium; book event and car once the official package is clear. |
-| Café del Mar, Kamala | Convenient from the recommended base and could reduce return transport. | Its site fetch failed; current 2026/27 event, tickets, and operation remain unverified. | Planning hold ~$150–1,000+ | Medium/high until verified. |
-| Stay local / villa party + nearby public countdown | Flexible, keeps the group together, and avoids a long late ride. | Less of a “big beach club” night; private catering / space rules to arrange. | ~$50–250 | Low/medium. |
+| **Catch Beach Club, Bang Tao (first beach-club check)** | Official site is advertising Festive Season 26/27; fits the group's beach-club preference. | Away from the central Patong base; NYE package, tickets, and table spend need verification, and rides must be planned. | Planning hold ~$150–1,000+ | Medium; book event and round-trip transport once the official package is clear. |
+| Café del Mar, Kamala | Another beach-club option. | Requires transport from Patong; its site fetch failed, and current 2026/27 event, tickets, and operation remain unverified. | Planning hold ~$150–1,000+ | Medium/high until verified. |
+| Patong / Bangla Road | Local nightlife may be walkable from the selected Airbnb; avoids an out-of-area ride if the group wants to stay nearby. | Not a beach-club night; confirm current NYE programming, crowd plan, and exact walk from the listing. | ~$50–250 | Low/medium. |
 
 ### Phuket Dec 30 big day
 
@@ -200,7 +196,7 @@
 
 | Category | Low | High | Assumptions |
 |---|---:|---:|---|
-| Lodging | $2,100 | $6,000 | Phuket 3 villa nights divided by five; Bangkok 4 hotel nights in three rooms; Hanoi 3 hotel nights in a three-room setup; 1 cruise night. Keeping a Hanoi room during the cruise adds a hotel night. Holiday inventory and bed configuration dominate the spread. |
+| Lodging | $2,100 | $6,000 | Phuket 3 nights at the selected Airbnb and Bangkok 4 nights at the booked Airbnb (both actual Airbnb prices and bed setups were not provided; lodging remains a broad estimate, not a property quote); Hanoi 3 hotel nights in a three-room setup; 1 cruise night. Keeping a Hanoi room during the cruise adds a hotel night. |
 | Food & drink | $650 | $1,800 | Mostly local restaurants, cafés, one upscale dinner, and a moderate number of cocktails. |
 | Activities / tours | $550 | $1,700 | One Phuket full-day boat, Bangkok sights / optional Muay Thai or Ayutthaya, Ninh Binh private vehicle, and Lan Ha cruise. Excludes extra shopping. |
 | NYE | $150 | $1,000 | Planning reserve for ticket / dinner or table package; no 2026 published price was verified. |
@@ -208,17 +204,18 @@
 | Miscellaneous | $150 | $500 | SIM/eSIM, tips, water, small admissions, laundry, and buffer. Excludes personal shopping. |
 | **Total** | **$3,800** | **$11,600** | **No flights.** The high end assumes peak-rate lodging and a premium NYE / private-boat choice. |
 
-**Planning assumptions:** five adults share accommodation where possible but each traveler gets an individual bed; Phuket is high-end at NYE peak; Bangkok/Hanoi stay in premium hotels; USD figures are estimates rather than quotes; fares, tips, wine, personal shopping and international/domestic airfare are excluded. The range is wide by design until the group picks a villa/hotel, NYE format and cruise tier.
+**Planning assumptions:** five adults share accommodation where possible but each traveler gets an individual bed; actual prices and bed setups for the Phuket selected and Bangkok booked Airbnbs were not provided, so the existing total remains a broad allowance; Hanoi hotel and cruise costs are estimates, not quotes; fares, tips, wine, personal shopping and international/domestic airfare are excluded. Recalculate when Airbnb rates and other lodging costs are known.
 
 ## Booking checklist (earliest deadlines first)
 
 | Item | Book by | Why | Link |
 |---|---|---|---|
-| Phuket villa or hotel for Dec 29–Jan 1 (ideally refundable) | **Now** | Peak NYE dates, limited villas, minimum stays; confirm five individual beds. | [Andara](https://www.andaraphuket.com/) / [Rosewood Phuket](https://www.rosewoodhotels.com/en/phuket) |
+| Confirm selected Phuket Airbnb reservation status, five-bed layout, and arrival plan | Before arrival | The property is selected for all three nights, but reservation/payment and bed details are not established here. | [Selected Airbnb listing](https://www.airbnb.com/rooms/1275269225698798502) |
 | NYE tickets / table + return van | **As soon as official 26/27 package is published** | Event capacity and transport home are limited; Catch is currently advertising festive season. | [Catch Beach Club](https://www.catchbeachclub.com/) |
 | Lan Ha 2D/1N cruise | **Now / once group selects cabin plan** | Small suite inventory and holiday transfers. | [Heritage Line itinerary](https://www.heritage-line.com/our-cruises/lan-ha-bay/) / [Orchid Cruises](https://www.orchidcruises.com/) |
 | Phuket Dec 30 boat tour and airport van | 4–8 weeks before travel | Peak season departure capacity; group-of-five transport. | [Phang Nga Bay guide](https://en.wikivoyage.org/wiki/Phang_Nga_Bay) |
-| Bangkok and Hanoi hotels | 4–8 weeks before travel | New Year demand and preferred twin/connecting room layouts. | [Mandarin Oriental Bangkok](https://www.mandarinoriental.com/en/bangkok/chao-phraya-river) / [Rosewood Bangkok](https://www.rosewoodhotels.com/en/bangkok) / [Sofitel Legend Metropole Hanoi](https://www.sofitel-legend-metropole-hanoi.com/) |
+| Arrange FD4113 arrival transfer to the booked Bangkok Airbnb | Before arrival, after airport endpoint is confirmed | FD4113's Bangkok arrival airport was not provided; choose the correct transfer once confirmed. | — |
+| Book Hanoi hotel around the Hoan Kiem lake edge; choose 3 or 4 nights | 4–8 weeks before travel | New Year demand, five-person bed layout, quiet-room request, and whether to retain the room Jan 7 during the cruise. | [Hanoi area guide](https://www.roughguides.com/articles/where-to-stay-in-hanoi/) |
 | Bangkok tasting-menu dinner | When Jan 3 reservations open | High-demand restaurants may sell out or require prepayment. | No direct restaurant booking link verified; confirm official restaurant channel after the group decides. |
 | Vietnam e-visa | **At least 2–3 weeks before entry**; earlier is safer | Entry permission must be approved before boarding; confirm current multi/single-entry need and validity. | Official portal fetch failed; locate via Vietnam Immigration / embassy instructions and avoid lookalike sites. |
 | Travel medical / evacuation insurance | Before final non-refundable payments | Covers illness, trip interruption and emergency evacuation; confirm boat activities are included. | Compare policies directly; no insurer URL verified. |
@@ -228,16 +225,15 @@
 
 ## Open questions for the group
 
-1. Phuket villa versus hotel — is the group willing to pay the villa premium for shared space, if five separate beds are guaranteed?
-2. NYE: Catch, another verified beach club, or villa dinner plus a local countdown?
-3. Dec 30: Phang Nga canoeing (recommended), Phi Phi, private speedboat, or fishing?
-4. Bangkok: stay in the city or take an Ayutthaya / floating-market day? Any interest in a Kanchanaburi or Khao Yai overnight, knowing it would replace city time?
-5. Bangkok tasting menu: Le Du, Nusara, Potong, or skip in favor of a shared Thai dinner?
-6. Is the compact Hanoi schedule (arrival Jan 5, Ninh Binh Jan 6, cruise Jan 7–8) enough, or should one planned activity be traded for a full city-sightseeing day?
-7. Ninh Binh: day trip (recommended) or add a Tam Coc night?
-8. Lan Ha: Heritage Line Ginger, Orchid Premium, or Orchid Classic? What cabin layout fits five separate beds?
-9. Sa Pa: skip for this trip (recommended) or trade away one of Hanoi/Ninh Binh/Lan Ha days?
-10. What is the comfortable hotel budget per person per night, especially Phuket on NYE?
+1. NYE: Catch, another verified beach club, or dinner plus a local countdown?
+2. Dec 30: Phang Nga canoeing (recommended), Phi Phi, private speedboat, or fishing?
+3. Bangkok: stay in the city or take an Ayutthaya / floating-market day? Any interest in a Kanchanaburi or Khao Yai overnight, knowing it would replace city time?
+4. Bangkok tasting menu: Le Du, Nusara, Potong, or skip in favor of a shared Thai dinner?
+5. Is the compact Hanoi schedule (arrival Jan 5, Ninh Binh Jan 6, cruise Jan 7–8) enough, or should one planned activity be traded for a full city-sightseeing day?
+6. Ninh Binh: day trip (recommended) or add a Tam Coc night?
+7. Lan Ha: Heritage Line Ginger, Orchid Premium, or Orchid Classic? What cabin layout fits five separate beds?
+8. Sa Pa: skip for this trip (recommended) or trade away one of Hanoi/Ninh Binh/Lan Ha days?
+9. Which airport is FD4113 arriving at in Bangkok, so the transfer to the booked Airbnb can be arranged?
 
 ## Research caveats / items marked (verify)
 

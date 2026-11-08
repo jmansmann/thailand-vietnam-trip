@@ -12,9 +12,11 @@ Research snapshot: 2026-10-20. Prices are planning estimates in **USD per person
 | **Patong** | Best walkable nightlife, dining and broad hotel choice; Bangla Road is on foot. | Busy and commercial, less restorative after the long-haul arrival. Around 35–45 min from HKT. |
 | **Kata** | Attractive beach, restaurants and some nightlife. | South of the other options, so boat-marina and Bang Tao-club transfers take longer. Around 45–60 min from HKT. |
 
+**Trip lodging update (2026-11-02):** The group selected this [Airbnb listing](https://www.airbnb.com/rooms/1275269225698798502). Its title identifies central Patong and claims about 300 m to Bangla Road and 500 m to the beach, superseding the earlier Kamala recommendation for this itinerary. Verify the exact map pin, bed layout, reservation status, and route before relying on the listing claims.
+
 ### Lodging for five
 
-- **Villa (recommended if beds are confirmed):** Request five separate beds in writing, room-by-room bed configuration, refundable deposit, staff/chef options, late check-in, and NYE minimum-stay/cancellation terms. Planning range for a high-end 4–5-bedroom pool villa over NYE: **~$1,200–4,000/night total** (**~$240–800 pp/night**). Hold **5–7 nights** as a possible minimum until confirmed; a 3-bedroom villa may require sharing.
+- **Earlier villa planning alternative (not the selected property):** If comparing a villa, request five separate beds in writing, room-by-room bed configuration, refundable deposit, staff/chef options, late check-in, and NYE minimum-stay/cancellation terms. Planning range for a high-end 4–5-bedroom pool villa over NYE: **~$1,200–4,000/night total** (**~$240–800 pp/night**). Hold **5–7 nights** as a possible minimum until confirmed; a 3-bedroom villa may require sharing.
 - **Hotel:** Book three rooms (two twins and a single, depending on inventory) or a multi-bedroom suite with individual beds confirmed. More service and simpler logistics, less shared space.
 - **Named high-end options:** **Andara Resort & Villas** (Kamala; suites and 3–7-bedroom private-pool villas), **Rosewood Phuket** (Emerald Bay, south of Patong; resort villas/houses), and **Twinpalms Surin Beach Phuket** (Surin). Treat availability, final rates and bed layout as **verify**. Kamala is a more practical base than Emerald Bay for Catch / Patong rides.
 
@@ -24,7 +26,7 @@ Research snapshot: 2026-10-20. Prices are planning estimates in **USD per person
 - **Café del Mar Phuket, Kamala:** Plausible fit because it is in the preferred base area, but its site did not load successfully during research. Current operation and event details are **verify**.
 - **Xana / Bimi / Kudo / Ilha Verde / other Patong options:** Keep as alternatives only if current 2026/27 programming, location, and ticket terms are confirmed. The Patong guide supports Bangla Road as the main nightlife district, not each venue's current operation.
 - **Planning allowance (not a published 2026 price):** Hold **~$150–400 pp** for entry / dinner package or **~$250–1,000+ pp** for shared table / premium package. Table minimums are per table and may be four figures or more. Confirm tax, service, food/drink credit, seating, arrival window and refund terms. Book once the official page opens.
-- **Backup:** Reserve dinner near the villa, then use a pre-booked driver for a local countdown / public beach visit. Do not assume rides will be available after midnight.
+- **Backup:** Reserve dinner near the accommodation, then use a pre-booked driver for a local countdown / public beach visit if needed. Do not assume rides will be available after midnight.
 
 ## Activities
 
@@ -53,10 +55,11 @@ Keep **all three Phuket nights (Dec 29, 30, and 31) at the same property**. Do n
 
 - Southern Thai dishes to try: **massaman curry, khanom jeen with curry, gaeng tai pla, moo hong (Phuket-style braised pork), fresh seafood, roti with curry**, and local Hokkien noodles.
 - Old Town shortlist: **Raya** (southern Thai; crab curry / mee hoon), **Blue Elephant Phuket** (upscale Thai in a historic mansion), and **Kra Jok See** (book ahead; lively late dinner). Confirm holiday openings and reservations.
-- Kamala has beach bars and restaurants. **Bangla Road, Patong** is the main late-night strip; make it one optional night, not the sleep base. Catch is the closest beach-club option to the planned base. Old Town offers cocktail bars and a more local evening.
+- The selected Airbnb listing identifies a central **Patong** base and claims Bangla Road is about 300 m away; verify the exact pin and route. Patong has walkable nightlife and dining, but expect crowds and possible noise near the strip. **Catch** in Bang Tao and **Café del Mar** in Kamala are out-of-area beach-club options from this base and need planned rides. Old Town offers cocktail bars and a different evening atmosphere.
 
 ## Getting around
 
+- **HKT → Patong:** The Patong-area drive is roughly 35–45 min in ordinary conditions; allow extra time for holiday traffic and confirm the selected property's exact pickup point. For five with luggage, pre-book a van or two cars.
 - **HKT → Kamala:** Roughly 30–45 min by car, longer with holiday traffic. For five and luggage, pre-book a van or two cars; confirm luggage capacity and fixed fare.
 - **Grab / Bolt:** Useful for point-to-point rides, but driver supply and pickup points vary by beach and late at night. Do not rely on one app ride after NYE.
 - **Private driver:** Best for a sightseeing day or group dinner across the island. Agree on hours, overtime, tolls and pickup time.
@@ -71,7 +74,7 @@ Keep **all three Phuket nights (Dec 29, 30, and 31) at the same property**. Do n
 | Kamala Beach | stay | 7.9453 | 98.2874 | Phuket |
 | Surin Beach | stay | 7.9759 | 98.2783 | Phuket |
 | Bang Tao Beach | stay | 8.0096 | 98.2850 | Phuket |
-| Patong Beach | nightlife | 7.8929 | 98.2969 | Phuket |
+| Patong / Bangla Road (approximate selected area) | stay / nightlife | 7.8929 | 98.2969 | Phuket |
 | Kata Beach | stay | 7.8204 | 98.2979 | Phuket |
 | Phuket Old Town | sight | 7.8881 | 98.3975 | Phuket |
 | Ao Phang Nga National Park | activity | 8.2270 | 98.5590 | Phang Nga |

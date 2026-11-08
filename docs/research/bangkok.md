@@ -1,19 +1,27 @@
 # Bangkok research
 
-Research snapshot: 2026-10-20. All prices are approximate **USD per person** unless stated otherwise; hotel rates are per room/night. Holiday dates, admission, opening hours, and reservation status are **verify** before booking.
+Research snapshot: 2026-10-20; area recommendation updated 2026-11-02. All prices are approximate **USD per person** unless stated otherwise; hotel rates are per room/night. Holiday dates, admission, opening hours, and reservation status are **verify** before booking.
 
 ## Where to stay
 
 | Area | Strengths | Trade-offs |
 |---|---|---|
-| **Sukhumvit / Asok — recommendation** | Convenient BTS–MRT interchange; strong restaurant, hotel, and nightlife choice; easy to split into two cars or use rail. Prefer Asok/Phrom Phong over Nana if quieter evenings matter. Thonglor/Ekkamai is better for local dining and nightlife, but farther from historic sights. | More modern than historic Bangkok; traffic remains heavy on the main road. |
+| **Phrom Phong / Benchasiri Park — recommendation** | Central, walkable area around the BTS station, park, shops, and restaurants. Asok's BTS–MRT interchange is one BTS stop away; Thonglor/Ekkamai and Soi 11 are reachable for evenings out. | BTS access rather than an MRT station at the hotel; request a quiet room away from Sukhumvit Road and check the exact walk from the hotel. |
+| **Asok — runner-up** | Strongest transit interchange: BTS Asok connects to MRT Sukhumvit, useful for reaching the historic core and wider city. | Busier, more traffic-heavy setting; search a few blocks off the main intersection for a quieter room. |
 | **Riverside / Bang Rak** | Luxury hotels, river scenery, boat access, and calmer feel; ideal for a special stay. | Fewer nearby everyday options and more reliance on boat/taxi. |
 | **Silom / Sathorn** | BTS/MRT access, parks, offices by day, rooftop bars and Patpong/Silom nightlife by night. | Some streets are business-oriented and less picturesque. |
 | **Old Town / Rattanakosin** | Near the Grand Palace, Wat Pho, and riverboats; best for heritage and early temple starts. | No BTS station in the core; several premium hotels are farther from transit and dinner options. |
 
+### Recommended pocket for this group
+
+For five first-time visitors who want walkable dining, easy city access, and a quieter hotel base than the main nightlife strips, search **around Phrom Phong BTS and Benchasiri Park**, especially the lower Sukhumvit Soi 24 / 26 area. Stay within a short walk of the station rather than deep down a side street; choose a staffed, well-reviewed hotel and request a quiet room away from Sukhumvit Road. The park is on Sukhumvit Road in Khlong Toei (Bangkok Metropolitan Administration); BTS provides the main rail connection here, while Asok one stop away adds the MRT Blue Line interchange. This is a practical area recommendation, not a block-by-block safety rating. No neighborhood guarantees safety; use normal city precautions, reputable rides, and care around nightlife and road crossings.
+
+**Asok is the runner-up** if direct BTS–MRT access matters more than a slightly calmer base. For either area, avoid booking a room directly above a bar or on a nightlife-focused stretch such as Nana / Soi Cowboy when quiet sleep is a priority. Temple visits and day trips still require transit or a car; central Bangkok is not uniformly walkable between districts.
+
 ### Hotels and room setup for five
 
 - Suggested setup: **two rooms for two plus one single** (or a suite and connecting twin room). Confirm rollaway availability, price and bedding before booking.
+- The hotels below are premium comparison candidates across central Bangkok; they do not all sit in the recommended Phrom Phong pocket. If area fit is the priority, compare a hotel near BTS Phrom Phong first.
 - **Mandarin Oriental, Bangkok** (Bang Rak / riverfront): established riverside luxury hotel. Budget **~$700–1,500+ per room/night** at peak.
 - **Rosewood Bangkok** (Ploenchit): central luxury; budget **~$500–1,200+ per room/night**.
 - **The Sukhothai Bangkok** (Sathorn): garden-style luxury; budget **~$350–900+ per room/night**.
@@ -78,7 +86,8 @@ Research snapshot: 2026-10-20. All prices are approximate **USD per person** unl
 | Wat Pho | temple | 13.7465 | 100.4933 | Bangkok |
 | Wat Arun | temple | 13.7491 | 100.4973 | Bangkok |
 | Golden Mount / Wat Saket | temple | 13.7539 | 100.5066 | Bangkok |
-| Sukhumvit / Asok | stay | 13.7364 | 100.5612 | Bangkok |
+| Phrom Phong / Benchasiri Park | stay | 13.7307 | 100.5693 | Bangkok |
+| Asok / Sukhumvit interchange | transit | 13.7364 | 100.5612 | Bangkok |
 | Silom | nightlife | 13.7262 | 100.5327 | Bangkok |
 | Yaowarat / Chinatown | food | 13.7397 | 100.5079 | Bangkok |
 | Ayutthaya Historical Park | activity | 14.3550 | 100.5650 | Ayutthaya |
@@ -107,3 +116,8 @@ Research snapshot: 2026-10-20. All prices are approximate **USD per person** unl
 - [Mandarin Oriental, Bangkok](https://www.mandarinoriental.com/en/bangkok/chao-phraya-river)
 - [Rosewood Bangkok](https://www.rosewoodhotels.com/en/bangkok)
 - [The Sukhothai Bangkok](https://www.sukhothai.com/bangkok)
+- [Bangkok Metropolitan Administration — Benchasiri Park](https://publicspace.bangkok.go.th/Spaces/Info/6B473CE3-8301-4FDF-804B-FF8630BFDA1D)
+- [BTS Skytrain — route map](https://www.bts.co.th/eng/routemap.html)
+- [BEM — MRT Blue Line map and Sukhumvit station](https://metro.bemplc.co.th/Line-Maps?Line=1&Station=22&lang=en)
+- [The Grand Palace — visitor information and transport](https://www.royalgrandpalace.th/en/visit/practical-information)
+- [Australian Smartraveller — Thailand travel advice](https://www.smartraveller.gov.au/destinations/asia/thailand)

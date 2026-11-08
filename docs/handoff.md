@@ -33,7 +33,7 @@ Work through the phases **in order**. Each phase is sized to fit in one agent se
 | Date | Day | Where | Notes |
 |---|---|---|---|
 | Sun Dec 27 2026 | Sun | NYC | Depart (via Singapore, premium economy) |
-| Tue Dec 29 | Tue | Phuket | Land HKT ~8am. Jet-lag day: pool, massage, nice dinner |
+| Tue Dec 29 | Tue | Phuket | Land HKT ~8am. Jet-lag day: beach walk / massage, easy dinner; selected Airbnb amenities are unverified |
 | Wed Dec 30 | Wed | Phuket | Big day trip (boat) |
 | Thu Dec 31 | Thu | Phuket | Easy day; **NYE at a big beach club** |
 | Fri Jan 1 2027 | Fri | Phuket → Bangkok | FD4113, 16:25–18:10 local; airport endpoints not provided |
@@ -50,8 +50,11 @@ Work through the phases **in order**. Each phase is sized to fit in one agent se
 Overnight trips away from home bases are welcome as options where they fit the schedule. **Phuket stays at one base for all three nights; no Phuket overnight excursion.**
 
 ### Preferences already expressed
-- Phuket base: leaning **Kamala / Surin** (validate vs Bang Tao, Patong, Kata). Villa likely.
-- NYE: **big beach club** (e.g., Café del Mar Kamala, Catch Beach Club Bang Tao; verify, compare others).
+- Phuket base preference was **Kamala / Surin**; the selected Airbnb listing identifies central Patong, overriding that earlier preference for this trip.
+- **Current Phuket lodging selection:** [Airbnb listing](https://www.airbnb.com/rooms/1275269225698798502), titled “CozyStay 3BR CenterPatong 300m Bangla, 500m Beach,” for Dec 29, 2026–Jan 1, 2027 (three nights, same property). The listing title claims about 300 m to Bangla Road and 500 m to the beach. This records selection only, not payment or reservation confirmation; verify the exact map pin, five-bed layout, rate, and check-in particulars.
+- **Current Bangkok lodging booking:** [Airbnb listing](https://www.airbnb.com/rooms/1162299685456991785), for Jan 1–5, 2027 (four nights). Its title claims 300 m to BTS Phrom Phong and EmQuartier. The price and bed setup were not provided; do not publish a private address or booking identifier. FD4113's airport endpoints are still unspecified, so its Bangkok arrival transfer remains to arrange.
+- **Hanoi stay-area recommendation:** the west/southwest Hoan Kiem lake edge around Hang Trong / St Joseph's Cathedral / Ly Quoc Su, with a quiet room off the busiest bar streets. The group has not selected or booked a Hanoi hotel; confirm bed setup, tour pickups, and whether to retain the room during the cruise night.
+- NYE: **big beach club** (e.g., Café del Mar Kamala or Catch Beach Club Bang Tao; verify and compare). Local Patong nightlife is also an option from the selected base.
 - Site should include everything (can scale back later): day-by-day, interactive map, where-to-stay, group decisions, budget, culture cheat sheet, booking checklist, packing.
 
 ---
@@ -69,7 +72,7 @@ Starting sources: `https://en.wikivoyage.org/wiki/Phuket`, `/wiki/Kamala`, `/wik
 4. **Overnight options:** 1 night on Phi Phi, Railay/Krabi, or Koh Yao Noi. Give pros/cons given only 3 nights and jet lag.
 5. **Food:** southern Thai dishes to try; named restaurants (casual and 1–2 upscale).
 6. **Nightlife:** Bangla Road, the beach clubs, Old Town bars.
-7. **Getting around:** Grab/Bolt, a private driver for the day, airport-to-Kamala transfer time.
+   7. **Getting around:** Grab/Bolt, a private driver for the day, airport transfers to Phuket's main areas including central Patong.
 
 ### 1B: `docs/research/bangkok.md`
 Starting sources: `en.wikivoyage.org/wiki/Bangkok` and its district pages (`Bangkok/Sukhumvit`, `/Rattanakosin`, `/Chinatown`, `/Silom`, `/Riverside`), plus `/wiki/Ayutthaya`, `/wiki/Kanchanaburi`, `/wiki/Khao_Yai_National_Park`, `/wiki/Damnoen_Saduak`, and Wikipedia.
@@ -136,7 +139,7 @@ Include:
    - booking notes
    - a "chill alternative" where it makes sense
 3. **Group choices to discuss**, as a table per option: choice | pros | cons | cost pp | effort. At minimum:
-   - Phuket lodging: villa vs hotel (2–3 named picks)
+   - Phuket lodging: villa vs hotel (2–3 named picks; original Phase 2 question, superseded by the current selection above)
    - NYE club: 2–3 choices
    - Phuket Dec 30 big day: Phang Nga vs Phi Phi vs private charter vs fishing
    - Bangkok: day trip (Ayutthaya, or floating + railway markets) vs staying in the city; Kanchanaburi or Khao Yai overnight
@@ -158,6 +161,8 @@ Stop here and tell Jimmy it's ready to review. **Don't build the site until he a
 ### Product direction from Jimmy (2026-10-20)
 
 - Keep every group decision as an option in the final product; do not silently convert the current recommendation into a final group decision.
+- The selected Phuket property is no longer a group lodging choice; show it as selected, without implying payment or reservation confirmation.
+- The Bangkok Airbnb is booked for Jan 1–5, 2027; show **Booked** separately from Phuket's **Selected** status and the flights' **Locked in** status. Do not publish private booking identifiers or the impression-tracking query.
 - Phuket is one base for all three nights (Dec 29–31). Do not offer or plan an overnight away from Phuket during this stop.
 - Make the public site useful to both skim-readers and detail-oriented planners: a concise overview first, then three stop tabs (Phuket, Bangkok, Hanoi), each with its own Overview / Details selector. Ninh Binh and Lan Ha Bay belong within the Hanoi page.
 - Remove photos from the site. Keep the reading experience text-first and easy to scan.
@@ -167,6 +172,7 @@ Stop here and tell Jimmy it's ready to review. **Don't build the site until he a
 ```
 thailand-vietnam-trip/
 ├── index.html
+├── itinerary.html             # locked-in facts / selection and dated booking placeholders
 ├── details.html               # three stop tabs, each with an Overview / Details selector
 ├── decisions.html             # group decisions, summarized by stop; no interactive voting
 ├── essentials.html            # map, budget, checklist, culture, packing and practicals
@@ -188,9 +194,10 @@ window.TRIP = {
   meta: { title, subtitle, startDate: "2026-12-29", endDate: "2027-01-09", departureDate: "2026-12-27", travelers: 5, currency: "USD", updated: "YYYY-MM-DD", flightsExcluded: true },
   route: ["Phuket", "Bangkok", "Hanoi"],
   quickSummary: "Short overview shown before the detailed itinerary.",
+  itinerary: { title, intro, lockedHeading, pendingHeading, locked: [ { date, endDate, title, status: "locked|selected|booked", detail, url } ], bookings: [ { date, endDate, title, status: "to-arrange", detail } ] },
   stops: [ { id, legId, name, dateRange, overview, highlights:[], sections:[], subStops:[] } ],
   legs: [ { id: "phuket", city, country, flag, nights, dateRange, color, summary,
-            stay: { recommendation, area, why, options: [ { name, type: "villa|hotel", area, pricePerNight, perPerson, url, pros:[], cons:[] } ] } } ],
+            stay: { recommendation, area, why, selected: { label, status: "selected|booked", name, dateRange, url, note }, options: [ { name, type: "villa|hotel", area, pricePerNight, perPerson, url, pros:[], cons:[] } ] } } ],
   days: [ { date: "2026-12-29", weekday, legId, stopId, subStopId, title, summary, costPP: [low, high],
             items: [ { time: "morning|afternoon|evening|HH:MM", title, desc, placeId, tags:["food","temple","adventure","nightlife","culture","chill"], booking: "required|recommended|walk-in", costPP } ],
             alt } ],
@@ -208,7 +215,8 @@ window.TRIP = {
 
 ### Sections
 
-**`index.html` — quick overview:** title and dates, route strip, plain-language trip summary, three city/night cards, highlights, budget range, highest-priority booking items, and links to the three stop pages, the decision summary, and trip essentials. Keep this page concise.
+**`index.html` — quick overview:** title and dates, route strip, plain-language trip summary, three city/night cards, highlights, budget range, highest-priority booking items, and links to the itinerary, three stop pages, the decision summary, and trip essentials. Keep this page concise.
+**`itinerary.html` — official itinerary:** show locked-in trip/flight facts and selected lodging separately from date-ordered bookings and group choices still to arrange. Link to the full stop details and booking checklist.
 
 **`details.html` — stop pages:** show tabs for Phuket, Bangkok, and Hanoi. Each tab has its own **Overview / Details** selector. The overview has the date range, short summary, highlights, and day list. Details expands the stop's day-by-day schedule with meals, booking notes, chill alternatives, and the local lodging / transport / food notes. Hanoi details include dedicated Ninh Binh and Lan Ha Bay subsections. Include brief, non-interactive decision notes in the relevant stop details.
 
@@ -230,7 +238,7 @@ All pages share the footer with a last-updated date, sources, and the disclaimer
 ---
 
 ## Phase 4: Verify
-- Serve locally: `python3 -m http.server 8000` from the repo root and open `index.html`, `details.html`, `decisions.html`, and `essentials.html`. Also open each HTML page directly via `file://`.
+- Serve locally: `python3 -m http.server 8000` from the repo root and open `index.html`, `itinerary.html`, `details.html`, `decisions.html`, and `essentials.html`. Also open each HTML page directly via `file://`.
 - Check: the overview is concise; each city tab and its Overview / Details selector works; Ninh Binh and Lan Ha appear inside Hanoi; decisions are grouped by stop and have no interactive voting; map shows all markers and places list works as its text alternative; checklist persists across reload; layout works at 375px; print preview is clean; no console errors.
 - Check that every `placeId` in `days` exists in `places` (add a small console warning in `app.js` for missing IDs).
 
@@ -255,6 +263,6 @@ verify:  ## Syntax-check JS and run tests
 ```
 
 ## Done when
-- All four research files, `docs/itinerary.md`, `index.html`, `details.html`, `decisions.html`, `essentials.html`, the site files, tests, README, Makefile and `.nojekyll` exist.
+- All four research files, `docs/itinerary.md`, `index.html`, `itinerary.html`, `details.html`, `decisions.html`, `essentials.html`, the site files, tests, README, Makefile and `.nojekyll` exist.
 - Phase 4 checks pass.
 - Nothing is staged or committed. Report a short summary to Jimmy, listing the open questions and the items marked (verify).

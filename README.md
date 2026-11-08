@@ -1,10 +1,11 @@
 # Thailand + Vietnam trip planner
 
-A mobile-first, public planning site for five travelers on a Thailand and Vietnam trip from Dec 29, 2026 to Jan 9, 2027. Flights are out of scope. This repository contains estimates and research, not booking confirmations.
+A mobile-first, public planning site for five travelers on a Thailand and Vietnam trip from Dec 29, 2026 to Jan 9, 2027. Flights are out of scope. The site combines planning estimates and research with public-facing trip statuses: Phuket lodging is selected, Bangkok lodging is booked, and confirmed flights are locked in. It does not publish private booking identifiers or details.
 
 ## Pages
 
 - `index.html` is the quick overview with dates, route, budget range, and open decisions.
+- `itinerary.html` is the official itinerary, separating locked-in facts, booked stays, and selected plans from dated booking and planning placeholders.
 - `details.html` has three stop tabs—Phuket, Bangkok, and Hanoi—with an Overview / Details selector for each. Ninh Binh and Lan Ha Bay are sections within Hanoi.
 - `decisions.html` summarizes open choices by stop. It is a discussion guide, not a voting form.
 - `essentials.html` contains the map, budget, checklist, culture notes, packing, and practical information.
@@ -23,7 +24,7 @@ Research and the itinerary are in `docs/`. Items marked **verify** need a curren
 python3 -m http.server 8000
 ```
 
-Open <http://localhost:8000/> for the overview, <http://localhost:8000/details.html> for the stop tabs, <http://localhost:8000/decisions.html> for the group decision list, and <http://localhost:8000/essentials.html> for map and practicals. The site also loads its shared content when an HTML page is opened directly with `file://`.
+Open <http://localhost:8000/> for the overview, <http://localhost:8000/itinerary.html> for the official itinerary, <http://localhost:8000/details.html> for the stop tabs, <http://localhost:8000/decisions.html> for the group decision list, and <http://localhost:8000/essentials.html> for map and practicals. The site also loads its shared content when an HTML page is opened directly with `file://`.
 
 ## Quality checks
 

@@ -39,12 +39,19 @@
   const dateLabel = (date) => new Date(`${date}T12:00:00`).toLocaleDateString("en-US", {
     month: "short", day: "numeric",
   });
+  const fullDateLabel = (date) => new Date(`${date}T12:00:00`).toLocaleDateString("en-US", {
+    month: "short", day: "numeric", year: "numeric",
+  });
+  const itineraryDateLabel = (item) => item.endDate
+    ? `${fullDateLabel(item.date)}–${fullDateLabel(item.endDate)}`
+    : fullDateLabel(item.date);
 
   function renderShell() {
     const header = document.querySelector("#site-header");
     const footer = document.querySelector("#site-footer");
     const links = [
       ["overview", "index.html", "Overview"],
+      ["itinerary", "itinerary.html", "Itinerary"],
       ["stops", "details.html", "Stops"],
       ["decisions", "decisions.html", "Decisions"],
       ["essentials", "essentials.html", "Essentials"],
@@ -56,7 +63,7 @@
           <div class="header-inner">
             <a class="brand" href="index.html" aria-label="Thailand and Vietnam trip overview">
               <span class="brand-mark" aria-hidden="true">TV</span>
-              <span>Thailand + Vietnam</span>
+              <span>${escapeHtml(trip.meta.title)}</span>
             </a>
             <nav class="site-nav" aria-label="Main navigation">
               ${links.map(([page, href, label]) => `<a href="${href}" ${currentPage === page ? 'aria-current="page"' : ""}>${label}</a>`).join("")}
@@ -76,16 +83,22 @@
   }
 
   function renderHero({ overview = false, label = "" } = {}) {
+    const tripStart = new Date(`${trip.meta.startDate}T00:00:00Z`);
+    const tripEnd = new Date(`${trip.meta.endDate}T00:00:00Z`);
+    const dayCount = Math.round((tripEnd - tripStart) / 86_400_000) + 1;
+    const nightCount = trip.legs.reduce((total, leg) => total + leg.nights, 0);
+    const dateRange = `${fullDateLabel(trip.meta.startDate)} – ${fullDateLabel(trip.meta.endDate)}`;
+    const dateMonths = [tripStart, tripEnd].map((date) => new Intl.DateTimeFormat("en-US", { month: "long", year: "numeric" }).format(date)).filter((date, index, all) => date !== all[index - 1]);
     const route = trip.route.map((stop, index) =>
       `${index ? '<span class="route-arrow" aria-hidden="true">→</span>' : ""}<span class="route-stop">${escapeHtml(stop)}</span>`,
     ).join("");
     return `
       <section class="hero" aria-labelledby="page-title">
         <div class="hero-content">
-          <p class="eyebrow">Five travelers · December 2026 / January 2027${label ? ` · ${escapeHtml(label)}` : ""}</p>
+          <p class="eyebrow">${escapeHtml(String(trip.meta.travelers))} travelers · ${escapeHtml(dateMonths.join(" / "))}${label ? ` · ${escapeHtml(label)}` : ""}</p>
           <h1 id="page-title">${escapeHtml(trip.meta.title)}</h1>
           <p class="lede">${escapeHtml(overview ? trip.meta.subtitle : label || "Trip planning, choices, and practical details")}</p>
-          <div class="hero-meta"><span>Dec 29, 2026 – Jan 9, 2027</span><span>12 days · 11 nights</span><span>Flights excluded</span></div>
+          <div class="hero-meta"><span>${escapeHtml(dateRange)}</span><span>${dayCount} days · ${nightCount} nights</span>${trip.meta.flightsExcluded ? "<span>Flights excluded from estimates</span>" : ""}</div>
           <div class="route-strip" aria-label="Route">${route}</div>
           ${overview ? '<p id="countdown" class="countdown" aria-live="polite"></p>' : ""}
         </div>
@@ -128,7 +141,7 @@
   }
 
   function renderDecisionPreview() {
-    const previewIds = ["phuket-stay", "nye", "phuket-day", "bangkok-day"];
+    const previewIds = ["nye", "phuket-day", "bangkok-day"];
     return previewIds.map((id) => {
       const option = trip.options.find((item) => item.id === id);
       return `<div class="decision-preview"><h3>${escapeHtml(option.question)}</h3><p>${escapeHtml(option.choices.map((choice) => choice.name).join(" · "))}</p></div>`;
@@ -150,7 +163,7 @@
         <article class="panel">
           <p class="section-kicker">Budget range · flights excluded</p>
           <h2>$${trip.budget.total[0].toLocaleString("en-US")}–$${trip.budget.total[1].toLocaleString("en-US")} pp</h2>
-          <p class="muted">The range depends mainly on Phuket NYE lodging, private boats, cruise cabin choice, and dining.</p>
+          <p class="muted">The range depends mainly on Phuket NYE lodging, private boats, cruise cabin choice, and dining. The selected Airbnb's price is not in the estimate yet.</p>
           <a class="inline-link" href="essentials.html#budget">See budget assumptions <span aria-hidden="true">→</span></a>
         </article>
         <article class="panel">
@@ -168,7 +181,7 @@
       </section>
       <section class="section grid grid-2" aria-label="Next steps">
         <article class="panel"><p class="section-kicker">Book first</p><h2>Booking priorities</h2><ul class="link-list">${critical.map((item) => `<li><strong>${escapeHtml(item.item)}</strong><br><span class="muted small">${escapeHtml(item.bookBy)} · ${escapeHtml(item.why)}</span></li>`).join("")}</ul></article>
-        <article class="panel"><p class="section-kicker">For the group</p><h2>Decisions remain open</h2><p class="muted">The stop pages show short decision notes. The Decisions page lists each option for the group to discuss; nothing is selected or submitted on the site.</p><div class="button-row"><a class="button" href="details.html">Browse the three stops</a><a class="button button-secondary" href="decisions.html">Review decisions</a></div></article>
+        <article class="panel"><p class="section-kicker">For the group</p><h2>Decisions remain open</h2><p class="muted">The stop pages show short decision notes. The Decisions page lists each remaining option for the group to discuss; the selected Phuket property is not an open lodging choice, and the site does not collect votes.</p><div class="button-row"><a class="button" href="itinerary.html">See the official itinerary</a><a class="button button-secondary" href="decisions.html">Review decisions</a></div></article>
       </section>`;
     renderCountdown();
   }
@@ -214,7 +227,43 @@
 
   function renderStayOptions(leg) {
     if (!leg) return "";
+    if (leg.stay.selected) {
+      const selected = leg.stay.selected;
+      const statusLabel = selected.status === "booked" ? "Booked" : selected.status === "selected" ? "Selected" : selected.status;
+      const statusClass = selected.status === "booked" ? "tag-booked" : "tag-selected";
+      const linkLabel = selected.status === "booked" ? "Open Airbnb listing" : "Open selected Airbnb listing";
+      return `<section class="stop-section"><p class="section-kicker">Where to stay</p><h3>${escapeHtml(leg.stay.recommendation)}</h3><p>${escapeHtml(leg.stay.why)}</p><article class="selected-stay panel"><div class="card-topline"><span class="card-label">${escapeHtml(selected.label)}</span><span class="tag ${statusClass}">${escapeHtml(statusLabel)}</span></div><h4>${escapeHtml(selected.name)}</h4><p><strong>${escapeHtml(selected.dateRange)}</strong></p><p>${escapeHtml(selected.note)}</p><p>${renderExternalLink(selected.url, linkLabel)}</p></article></section>`;
+    }
     return `<section class="stop-section"><p class="section-kicker">Where to stay</p><h3>${escapeHtml(leg.stay.recommendation)}</h3><p>${escapeHtml(leg.stay.why)}</p>${leg.id === "phuket" ? '<p class="notice">All three Phuket nights are at one property. Overnight excursions away from Phuket are removed.</p>' : ""}<div class="grid grid-3">${leg.stay.options.map((option) => `<article class="card"><div class="card-topline"><span class="card-label">${escapeHtml(option.type)}</span><span class="tag">${escapeHtml(option.area)}</span></div><h4>${escapeHtml(option.name)}</h4><p><strong>${escapeHtml(option.pricePerNight)}</strong><br><span class="small muted">${escapeHtml(option.perPerson)}</span></p><p class="small"><strong>Pros:</strong> ${escapeHtml(option.pros.join("; "))}</p><p class="small"><strong>Trade-offs:</strong> ${escapeHtml(option.cons.join("; "))}</p>${renderExternalLink(option.url, "Property site")}</article>`).join("")}</div></section>`;
+  }
+
+  function renderItineraryItems(items, fallbackStatus) {
+    return items.map((item) => {
+      const status = item.status || fallbackStatus;
+      const statusLabel = status === "booked" ? "Booked" : status === "selected" ? "Selected" : status === "locked" ? "Locked in" : "To arrange";
+      const statusClass = status === "booked" ? "tag-booked" : status === "selected" ? "tag-selected" : status === "locked" ? "tag-locked" : "tag-verify";
+      return `
+        <li class="itinerary-item">
+          <time class="itinerary-date" datetime="${escapeHtml(item.date)}">${escapeHtml(itineraryDateLabel(item))}</time>
+          <div class="itinerary-item-copy">
+            <div class="card-topline"><h4>${escapeHtml(item.title)}</h4><span class="tag ${statusClass}">${statusLabel}</span></div>
+            <p>${escapeHtml(item.detail)}</p>
+            ${item.url ? `<p>${renderExternalLink(item.url, status === "booked" ? "Open Airbnb listing" : "Open selected Airbnb listing")}</p>` : ""}
+          </div>
+        </li>`;
+    }).join("");
+  }
+
+  function renderItineraryPage() {
+    const data = trip.itinerary;
+    main.innerHTML = `
+      ${renderHero({ label: data.title })}
+      <section class="section" aria-labelledby="itinerary-title">
+        <div class="section-heading"><div><p class="section-kicker">${escapeHtml(fullDateLabel(trip.meta.startDate))}–${escapeHtml(fullDateLabel(trip.meta.endDate))}</p><h2 id="itinerary-title">${escapeHtml(data.title)}</h2></div><p>${escapeHtml(data.intro)}</p></div>
+        <section class="itinerary-section panel" aria-labelledby="itinerary-locked-title"><div class="itinerary-section-heading"><p class="section-kicker">Confirmed facts and current selection</p><h3 id="itinerary-locked-title">${escapeHtml(data.lockedHeading)}</h3></div><ol class="itinerary-list">${renderItineraryItems(data.locked, "locked")}</ol></section>
+        <section class="itinerary-section panel" aria-labelledby="itinerary-pending-title"><div class="itinerary-section-heading"><p class="section-kicker">Bookings and choices still outstanding</p><h3 id="itinerary-pending-title">${escapeHtml(data.pendingHeading)}</h3></div><ol class="itinerary-list">${renderItineraryItems(data.bookings, "to-arrange")}</ol></section>
+        <div class="panel itinerary-links"><h3>Continue planning</h3><div class="button-row"><a class="button" href="details.html">Full day-by-day planning details</a><a class="button button-secondary" href="essentials.html#checklist">Booking checklist</a></div></div>
+      </section>`;
   }
 
   function renderDecisionNotes(stop) {
@@ -355,7 +404,7 @@
     main.innerHTML = `
       ${renderHero({ label: "Group decisions" })}
       <section class="section" aria-labelledby="decisions-title">
-        <div class="section-heading"><div><p class="section-kicker">Discuss as a group</p><h2 id="decisions-title">What should we decide?</h2></div><p>These are discussion options only. The site does not collect responses; use the pros, cons, price ranges, and effort notes to decide together.</p></div>
+        <div class="section-heading"><div><p class="section-kicker">Discuss as a group</p><h2 id="decisions-title">What should we decide?</h2></div><p>These are the remaining discussion options only. The Phuket property is selected and appears on the Itinerary page; the site does not collect responses. Use the pros, cons, price ranges, and effort notes to decide together.</p></div>
         <div class="stop-tabs decision-tabs" role="navigation" aria-label="Decision topics by stop">${trip.stops.map((stop) => `<a class="stop-tab" href="#decision-${escapeHtml(stop.id)}">${escapeHtml(stop.name)}<span>${escapeHtml(stop.dateRange.split("·")[0].trim())}</span></a>`).join("")}</div>
         ${trip.stops.map((stop) => {
           const options = trip.options.filter((option) => option.stopId === stop.id);
@@ -629,6 +678,11 @@
     renderOverview();
   }
 
+  function renderItineraryPageWithShell() {
+    renderShell();
+    renderItineraryPage();
+  }
+
   function renderStopsPage() {
     renderShell();
     renderStops();
@@ -644,7 +698,8 @@
     renderEssentialsPage();
   }
 
-  if (currentPage === "stops") renderStopsPage();
+  if (currentPage === "itinerary") renderItineraryPageWithShell();
+  else if (currentPage === "stops") renderStopsPage();
   else if (currentPage === "decisions") renderDecisionsPage();
   else if (currentPage === "essentials") renderEssentialsPageWithShell();
   else renderOverviewPage();
