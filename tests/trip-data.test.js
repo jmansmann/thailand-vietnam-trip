@@ -87,7 +87,7 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   assert.deepEqual(itinerary.bookings.map((item) => item.date), expectedBookingDates);
   assert.ok(itinerary.bookings.every((item) => item.status === "to-arrange"));
   assert.ok(itinerary.locked.some((item) => item.status === "booked" && item.date === "2026-12-30" && item.url === "https://www.airbnb.com/experiences/7176126"));
-  assert.ok(itinerary.locked.some((item) => item.status === "booked" && item.date === "2027-01-05" && item.url === "https://www.airbnb.com/experiences/4734484"));
+  assert.ok(itinerary.locked.some((item) => item.status === "booked" && item.date === "2027-01-06" && item.url === "https://www.airbnb.com/experiences/4734484"));
   const bookingCopy = itinerary.bookings.map((item) => `${item.title} ${item.detail}`).join(" ");
   for (const detail of ["bag drop", "NYE", "Bangkok arrival transfer", "airport", "city day or day trip", "Hanoi arrival transfer", "Ninh Binh vehicle and guide", "2D/1N cruise", "cabin layout", "HAN"]) {
     assert.ok(bookingCopy.includes(detail), `missing booking placeholder: ${detail}`);

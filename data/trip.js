@@ -68,10 +68,10 @@ window.TRIP = {
         url: "https://www.airbnb.com/rooms/1385921378441075539",
       },
       {
-        date: "2027-01-05",
-        title: "Authentic taste of Hanoi food tour (Old Quarter, 6–9 PM)",
+        date: "2027-01-06",
+        title: "Authentic taste of Hanoi food tour (Old Quarter, 11 AM–2 PM)",
         status: "booked",
-        detail: "Booked 6:00–9:00 PM for the group; meets in the Old Quarter, with the exact meeting point sent a day before. Timing is tight: VJ902 lands at 17:00, and the transfer and check-in come first. Confirm the start time or meeting point with the host before arrival. The listing starts from $29 per guest; the booked total was not provided.",
+        detail: "Booked 11:00 AM–2:00 PM on Jan 6 for the group; meets in the Old Quarter, with the exact meeting point sent a day before. This overlaps the Jan 6 Ninh Binh day trip; resolve before arrival. The listing starts from $29 per guest; the booked total was not provided.",
         url: "https://www.airbnb.com/experiences/4734484",
       },
     ],
@@ -358,20 +358,20 @@ window.TRIP = {
     {
       date: "2027-01-05", weekday: "Tuesday", legId: "hanoi", stopId: "hanoi",
       title: "Bangkok to Hanoi; settle in",
-      summary: "Take confirmed flight VJ902 from Suvarnabhumi to Hanoi; transfer to and check in at the booked townhouse, then the booked 6 PM food tour if timing allows.",
+      summary: "Take confirmed flight VJ902 from Suvarnabhumi to Hanoi; transfer to and check in at the booked townhouse.",
       costPP: [220, 650],
       items: [
         { time: "morning", title: "Check out and transfer to Suvarnabhumi (BKK)", desc: "Leave time for Bangkok traffic before the confirmed 15:05 departure. Carry Vietnam entry approval and travel documents offline.", placeId: "bangkok", tags: ["transport"], booking: "required", costPP: [20, 70] },
         { time: "15:05", title: "Confirmed flight VJ902 · BKK → Hanoi (HAN)", desc: "Departs Bangkok Suvarnabhumi at 15:05; scheduled arrival at Noi Bai is 17:00 local time.", placeId: "hanoi-airport", tags: ["transport"], booking: "required" },
         { time: "17:00", title: "Arrive at Noi Bai (HAN) and transfer to the townhouse", desc: "Arrange a transfer for five from HAN to the booked Old Quarter townhouse, check in, and rest. Confirm pickup instructions and arrival timing.", placeId: "hanoi-airport", tags: ["transport", "chill"], booking: "required", costPP: [10, 30] },
-        { time: "18:00", title: "Booked Hanoi food tour in the Old Quarter", desc: "Booked 6–9 PM food tour for the group; the exact meeting point is sent a day before. Timing is tight after the 17:00 landing, so confirm the start with the host. Listed from $29 per guest.", placeId: "old-quarter", tags: ["food", "culture"], booking: "required", costPP: [29, 29] },
+        { time: "evening", title: "Short Hoan Kiem loop and local dinner", desc: "Return to the booked townhouse after a short walk and dinner nearby. The listing says it is steps from St Joseph's Cathedral and about a 5-minute walk from Hoan Kiem Lake. Cafe Giang or Bun Cha Huong Lien only if arrival time and opening allow.", placeId: "hoan-kiem", tags: ["food", "culture", "chill"], booking: "walk-in", costPP: [20, 100] },
       ],
-      alt: "Townhouse dinner and early sleep if the food tour cannot start on time.",
+      alt: "Townhouse dinner and early sleep before the Ninh Binh departure.",
     },
     {
       date: "2027-01-06", weekday: "Wednesday", legId: "hanoi", stopId: "hanoi", subStopId: "ninh-binh",
       title: "Ninh Binh: Tràng An and Hang Múa",
-      summary: "A private-car day trip returns to the same booked Hanoi townhouse; pack a small cruise bag while main luggage stays there.",
+      summary: "A private-car day trip returns to the same booked Hanoi townhouse; pack a small cruise bag while main luggage stays there. The booked 11 AM–2 PM food tour overlaps this day; resolve before arrival.",
       costPP: [250, 600],
       items: [
         { time: "morning", title: "Early departure and Tràng An boat", desc: "Leave around 06:30–07:00; take the multi-hour rowboat through caves, karsts and temple stops.", placeId: "trang-an", tags: ["nature", "culture", "adventure"], booking: "required", costPP: [90, 180] },
@@ -532,7 +532,7 @@ window.TRIP = {
     { id: "phuket-catamaran-pickup", item: "Confirm Dec 30 catamaran pickup time and hotel address with Seven Plus Travel", bookBy: "Before Dec 30", priority: "high", why: "The booked tour runs 9:15 AM–6:15 PM from Patong, but the listing does not state the pickup time.", url: "https://www.airbnb.com/experiences/7176126" },
     { id: "ninh-binh", item: "Confirm Ninh Binh private vehicle and guide", bookBy: "2–4 weeks before", priority: "normal", why: "Early start and five travelers need a suitable vehicle.", url: "https://en.wikivoyage.org/wiki/Ninh_Binh" },
     { id: "vietnam-visa", item: "Apply for Vietnam e-visa and verify entry port / validity", bookBy: "At least 2–3 weeks before entry", priority: "critical", why: "Approval must be in hand before boarding.", url: "" },
-    { id: "hanoi-food-timing", item: "Confirm the Jan 5 Hanoi food tour start time after the 17:00 HAN arrival", bookBy: "Now", priority: "high", why: "The booked 6 PM tour follows a 17:00 landing, plus transfer and check-in. Ask the host whether a later start or a different meeting point is possible.", url: "https://www.airbnb.com/experiences/4734484" },
+    { id: "hanoi-food-timing", item: "Resolve the Jan 6 food tour (11 AM–2 PM) against the Ninh Binh day trip", bookBy: "Now", priority: "critical", why: "The Ninh Binh van leaves around 06:30–07:00 and returns in the evening, so the 11 AM–2 PM food tour overlaps the day. Ask the host to move it, or change the Ninh Binh plan.", url: "https://www.airbnb.com/experiences/4734484" },
     { id: "tdac", item: "Submit Thailand Digital Arrival Card", bookBy: "Within official window (plan Dec 26–28)", priority: "critical", why: "Required pre-arrival paperwork; verify submission window.", url: "https://tdac.immigration.go.th/" },
   ],
   culture: {

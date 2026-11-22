@@ -82,12 +82,14 @@
 - **Morning:** Check out of the booked Airbnb and transfer to Suvarnabhumi (BKK). Leave a traffic buffer; keep travel documents and Vietnam entry approval accessible.
 - **15:05–17:00:** Confirmed flight **VJ902**, Bangkok Suvarnabhumi (BKK) → Noi Bai (HAN), local times.
 - **After 17:00:** Arrive at HAN and take the still-to-be-arranged transfer for five to the booked Airbnb townhouse in the Old Quarter / St Joseph's Cathedral area; check in and rest.
-- **Evening:** Booked Hanoi food tour in the Old Quarter, 6:00–9:00 PM for five. Listing: [Authentic taste of Hanoi](https://www.airbnb.com/experiences/4734484), from $29 per guest; the booked total was not provided. Timing is tight: VJ902 lands at 17:00, so the HAN transfer and check-in come first. Message the host before arrival to confirm the start time or meeting point.
-- **Chill alternative:** If the food tour cannot start on time, eat near the townhouse and turn in early before the Ninh Binh departure.
+- **Evening:** Short Hoan Kiem Lake loop and dinner nearby if arrival timing allows. The food tour has moved to Jan 6.
+- **Chill alternative:** Eat near the townhouse and turn in early before the Ninh Binh departure.
 - **Estimate:** **$220–650 pp** including a broad Hanoi lodging allowance, meals, airport transfer and local transport; airfare excluded. The Airbnb price is unknown, so this is not a quote.
 - **Booking notes:** Arrange the HAN arrival transfer and confirm pickup instructions / check-in timing. The Airbnb is booked Jan 5–9, including Jan 7. The listing notes possible outside noise on the lower 2nd and 3rd floors; request a quieter room/floor, not a guarantee. Vietnam e-visa requirements are **verify**; see practicals.
 
 ### Wed Jan 6 — Ninh Binh: Tràng An boat and Hang Múa
+
+- **Conflict:** The booked Authentic taste of Hanoi food tour (11 AM–2 PM, [listing](https://www.airbnb.com/experiences/4734484), from $29 per guest) overlaps this day. Move the tour or change the Ninh Binh plan before arrival.
 
 - **Morning:** Have breakfast near the booked townhouse or grab a takeaway, then the private van leaves Hanoi early (around 06:30–07:00). Take the Tràng An boat route; expect a multi-hour rowboat loop through caves and temple stops.
 - **Afternoon:** Lunch at **Thang Long Restaurant** near Tràng An, then climb Hang Múa if weather and energy allow. Private van back to Hanoi after an early meal.
@@ -217,12 +219,12 @@ The Dec 30 boat day is booked: the Phi Phi, Maya Bay and Bamboo catamaran tour. 
 | Travel medical / evacuation insurance | Before final non-refundable payments | Covers illness, trip interruption and emergency evacuation; confirm boat activities are included. | Compare policies directly; no insurer URL verified. |
 | Thailand TDAC | Within the official submission window before arrival (currently plan for Dec 26–28) | Required arrival paperwork; check official window and the group's arrival details. | [Thailand Digital Arrival Card](https://tdac.immigration.go.th/) |
 | Private Ninh Binh vehicle / guide | 2–4 weeks before | Early start, five passengers, and a fixed schedule for boat + climb. | [Ninh Binh guide](https://en.wikivoyage.org/wiki/Ninh_Binh) |
-| Confirm Jan 5 Hanoi food tour start after the 17:00 HAN arrival | Now | Booked 6–9 PM tour; a 17:00 landing plus transfer and check-in makes the start tight. Ask the host whether a later start is possible. | [Booked tour](https://www.airbnb.com/experiences/4734484) |
+| Resolve Jan 6 food tour (11 AM–2 PM) against the Ninh Binh day trip | Now | The Ninh Binh van leaves around 06:30–07:00 and returns in the evening, so the tour overlaps. Ask the host to move it, or change the Ninh Binh plan. | [Booked tour](https://www.airbnb.com/experiences/4734484) |
 
 ## Open questions for the group
 
 1. NYE: Catch, another verified beach club, or dinner plus a local countdown?
-2. Jan 5: keep the booked 6 PM Hanoi food tour, or ask the host for a later start after the 17:00 arrival?
+2. Jan 6: the booked 11 AM–2 PM food tour overlaps the Ninh Binh day trip. Move the tour, or change the Ninh Binh plan?
 3. Bangkok: stay in the city or take an Ayutthaya / floating-market day? Any interest in a Kanchanaburi or Khao Yai overnight, knowing it would replace city time?
 4. Bangkok tasting menu: Le Du, Nusara, Potong, or skip in favor of a shared Thai dinner?
 5. Is the compact Hanoi schedule (arrival Jan 5, Ninh Binh Jan 6, cruise Jan 7–8) enough, or should one planned activity be traded for a full city-sightseeing day?
