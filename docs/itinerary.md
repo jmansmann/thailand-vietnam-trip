@@ -1,6 +1,6 @@
 # Thailand + Vietnam official itinerary
 
-**Updated 2026-11-06.** Five travelers; flights are excluded from the budget. Every price below is a rough **USD per-person estimate** unless labeled per room / group. Prices are not quotes; NYE, holiday hours, visa rules, and all other time-sensitive details are **(verify)** before booking. The Phuket Airbnb remains selected, not confirmed booked; the Bangkok Airbnb is booked, but its price and bed setup were not provided.
+**Updated 2026-11-21.** Five travelers; flights are excluded from the budget. Every price below is a rough **USD per-person estimate** unless labeled per room / group. Prices are not quotes; NYE, holiday hours, visa rules, and all other time-sensitive details are **(verify)** before booking. The Phuket Airbnb remains selected, not confirmed booked; the Bangkok and Hanoi Airbnbs are booked. The Hanoi Airbnb price was not provided, so Hanoi lodging numbers remain broad estimates.
 
 ## Summary
 
@@ -8,9 +8,9 @@
 |---|---:|---|---|---|
 | Phuket | 3 | Dec 29–Jan 1 | Central Patong (Airbnb listing title; exact pin unverified) | Same selected Airbnb for all three nights. The title claims about 300 m to Bangla Road and 500 m to the beach; verify exact pin, five separate beds, reservation, and rate. |
 | Bangkok | 4 | Jan 1–5 | Phrom Phong / EmQuartier area (per listing title) | Booked Airbnb for Jan 1–5, 2027 (four nights). The listing title claims 300 m to BTS Phrom Phong and EmQuartier; price and bed setup were not provided. |
-| Hanoi | 4 total (3 hotel + 1 cruise) | Jan 5–9 | West/southwest Hoan Kiem lake edge | Search around Hang Trong / St Joseph's Cathedral / Ly Quoc Su for walkable Old Quarter access; request a quiet room. Three hotel nights plus one cruise night unless the room is kept Jan 7. |
+| Hanoi | 4 Airbnb nights (plus separate cruise night) | Jan 5–9 | Old Quarter / St Joseph's Cathedral (per listing description) | Booked Airbnb townhouse Jan 5–9, including Jan 7 while the group is away on the planned cruise. The listing describes 5 bedrooms, 5 beds, and 5 baths; its price is unknown. |
 
-**Route:** Phuket → Bangkok → Hanoi → Lan Ha Bay → Hanoi. All three Phuket nights are at the selected Airbnb property; there is no Phuket overnight excursion. Bangkok's four nights are at the booked Airbnb. Jan 4 is an extra full Bangkok day; travel to Hanoi moves to Jan 5. Ninh Binh remains Jan 6 and the Lan Ha cruise Jan 7–8. This leaves Hanoi without a full city-sightseeing day: allow only a short arrival-evening walk on Jan 5 and a flexible return evening on Jan 8, or trade one planned activity for more Hanoi time.
+**Route:** Phuket → Bangkok → Hanoi → Lan Ha Bay → Hanoi. All three Phuket nights are at the selected Airbnb property; there is no Phuket overnight excursion. Bangkok's four nights are at the booked Airbnb. Jan 4 is an extra full Bangkok day; travel to Hanoi moves to Jan 5. Ninh Binh remains Jan 6 and the Lan Ha cruise is planned for Jan 7–8 but remains unbooked. The Hanoi Airbnb is booked for Jan 5–9 (four nights), including Jan 7 while the group is on the cruise. This leaves Hanoi without a full city-sightseeing day: allow only a short arrival-evening walk on Jan 5 and a flexible return evening on Jan 8, or trade one planned activity for more Hanoi time.
 
 ## Day by day
 
@@ -77,50 +77,50 @@
 - **Estimate:** **$200–800 pp** including Bangkok lodging, meals, local transport and optional activity; any domestic or international airfare is excluded.
 - **Booking notes:** Book day-trip transport if the group chooses one. Airbnb checkout and the airport transfer to Suvarnabhumi move to Jan 5.
 
-### Tue Jan 5 — VJ902 Bangkok Suvarnabhumi → Hanoi; settle in
+### Tue Jan 5 — VJ902 Bangkok Suvarnabhumi → Hanoi; check in at the booked townhouse
 
 - **Morning:** Check out of the booked Airbnb and transfer to Suvarnabhumi (BKK). Leave a traffic buffer; keep travel documents and Vietnam entry approval accessible.
 - **15:05–17:00:** Confirmed flight **VJ902**, Bangkok Suvarnabhumi (BKK) → Noi Bai (HAN), local times.
-- **After 17:00:** Arrive at HAN, use a pre-arranged transfer or app car to the west/southwest Hoan Kiem lake edge / Old Quarter seam, check in and rest.
-- **Evening:** Take a short Hoan Kiem Lake loop and choose a nearby dinner if arrival, immigration, and hotel check-in timing allow. Otherwise eat near the hotel.
-- **Chill alternative:** Hotel dinner and an early night before the Ninh Binh departure.
-- **Estimate:** **$220–650 pp** including Hanoi lodging, meals, airport transfer and local transport; airfare excluded.
-- **Booking notes:** Book a quiet-room hotel around Hang Trong / St Joseph's Cathedral / Ly Quoc Su; confirm late check-in and airport pickup. Vietnam e-visa requirements are **verify**; see practicals.
+- **After 17:00:** Arrive at HAN and take the still-to-be-arranged transfer for five to the booked Airbnb townhouse in the Old Quarter / St Joseph's Cathedral area; check in and rest.
+- **Evening:** Take a short Hoan Kiem Lake loop and choose a nearby dinner if arrival and immigration timing allow. The listing says the townhouse is steps from St Joseph's Cathedral and about a 5-minute walk from the lake; these are listing claims.
+- **Chill alternative:** Eat near the townhouse and turn in early before the Ninh Binh departure.
+- **Estimate:** **$220–650 pp** including a broad Hanoi lodging allowance, meals, airport transfer and local transport; airfare excluded. The Airbnb price is unknown, so this is not a quote.
+- **Booking notes:** Arrange the HAN arrival transfer and confirm pickup instructions / check-in timing. The Airbnb is booked Jan 5–9, including Jan 7. The listing notes possible outside noise on the lower 2nd and 3rd floors; request a quieter room/floor, not a guarantee. Vietnam e-visa requirements are **verify**; see practicals.
 
 ### Wed Jan 6 — Ninh Binh: Tràng An boat and Hang Múa
 
-- **Morning:** Breakfast from the hotel or a takeaway, then private van leaves Hanoi early (around 06:30–07:00). Take the Tràng An boat route; expect a multi-hour rowboat loop through caves and temple stops.
+- **Morning:** Have breakfast near the booked townhouse or grab a takeaway, then the private van leaves Hanoi early (around 06:30–07:00). Take the Tràng An boat route; expect a multi-hour rowboat loop through caves and temple stops.
 - **Afternoon:** Lunch at **Thang Long Restaurant** near Tràng An, then climb Hang Múa if weather and energy allow. Private van back to Hanoi after an early meal.
-- **Evening:** Return to the hotel and pack a small cruise bag; leave larger luggage at the hotel if the cruise operator confirms secure storage.
+- **Evening:** Return to the same booked townhouse and pack a small cruise bag. Main luggage can remain there because the Airbnb booking continues through the cruise night.
 - **Chill alternative:** Boat trip only, with a slower lunch and skip the 500-step Hang Múa climb.
 - **Estimate:** **$250–600 pp** including lodging, private vehicle/guide, admissions, meals and transport.
-- **Booking notes:** Confirm route and boat admission, Hang Múa ticket, driver overtime, restroom stops, and forecast. This is a long day; wear grippy walking shoes.
+- **Booking notes:** Confirm route and boat admission, Hang Múa ticket, driver overtime, restroom stops, and forecast. This is a long day; wear grippy walking shoes. The booked townhouse remains available on return.
 
 ### Thu Jan 7 — Hanoi to Lan Ha Bay; overnight aboard
 
-- **Morning:** Breakfast at the hotel, then cruise shuttle pickup (typically around 08:00); transfer toward Tuan Chau / cruise embarkation point. Bring a warm layer, sunscreen, and dry bag.
+- **Morning:** Leave the townhouse for the cruise without checking out; the Jan 7 Airbnb night remains reserved and main luggage can stay there. Cruise pickup timing/location, pier, and transfer depend on the operator booking. Bring a warm layer, sunscreen, and dry bag.
 - **Afternoon:** Board around noon, lunch on board, cruise through Lan Ha Bay, and kayak / visit a village or cave according to the final itinerary.
 - **Evening:** Sunset on deck, dinner in the ship's dining room and overnight aboard. The planned boat should have private cabins; check room configuration for all five travelers.
 - **Chill alternative:** Stay in Hanoi and use this as a free day if the group chooses to skip the overnight cruise.
-- **Estimate:** **$400–950 pp** including cruise, meals, transfer, and Hanoi hotel night if retained. Do not double-count the lodging line if cruise package pricing already includes it.
-- **Booking notes:** Cruise is a top-priority booking. Compare Heritage Line Ginger and Orchid Premium / Classic. Confirm the actual vessel, pickup/drop-off, cabin plan, inclusions, port fees, weather policy, and timely return.
+- **Estimate:** **$400–950 pp** for the cruise, meals, transfer, and the night aboard. The Jan 7 Airbnb night is counted in the Hanoi lodging line because its price is unknown. Do not double-count the cruise cabin if package pricing already includes it.
+- **Booking notes:** Cruise is a top-priority booking, not yet booked. Compare Heritage Line Ginger and Orchid Premium / Classic. Confirm the actual vessel, pickup/drop-off, cabin plan, inclusions, port fees, weather policy, and timely return. Confirm where the operator will collect the group from the townhouse area.
 
 ### Fri Jan 8 — Morning kayak, return to Hanoi, farewell evening
 
 - **Morning:** Optional early tai chi / kayak and breakfast in the ship's dining room; disembark about 11:00–11:30.
-- **Afternoon:** Return to Hanoi, expected around 14:00–15:00; check into the retained room or collect stored luggage. Rest and shower.
+- **Afternoon:** Return to Hanoi, expected around 14:00–15:00; go back to the same booked townhouse, where the main luggage can remain. Rest and shower before the farewell evening.
 - **Evening:** Hoan Kiem walking street begins Friday night under its usual schedule; **verify** the current holiday calendar. Farewell dinner at **Gia** or **Tầm Vị** if a table is secured; then a short Ta Hien / cocktail-bar stop for those who want it.
-- **Chill alternative:** Skip nightlife and have dinner near the hotel; keep the room early for the flight home.
+- **Chill alternative:** Skip nightlife and have dinner near the townhouse; keep the evening short before the flight home.
 - **Estimate:** **$200–600 pp** including lodging, cruise transfer, dinner, local transport and optional drinks.
-- **Booking notes:** Confirm arrival time in Hanoi and hotel luggage arrangements. Do not plan a fixed-time activity between disembarkation and the evening.
+- **Booking notes:** Confirm cruise return time and townhouse access details. Do not plan a fixed-time activity between disembarkation and the evening.
 
 ### Sat Jan 9 — Hanoi departure
 
-- **Morning:** Breakfast at the hotel or the Metropole's **Le Club Bar** for a sit-down option, check out, and pre-book a van / two cars to HAN. Add a generous road and airport buffer.
+- **Morning:** Check out of the booked townhouse and take the still-to-be-arranged transfer to HAN. Add a generous road and airport buffer.
 - **Afternoon / evening:** Scheduled return to NYC (flight research excluded).
 - **Chill alternative:** Not applicable; keep the airport transfer conservative.
-- **Estimate:** **$80–250 pp** for breakfast, hotel if a late checkout / extra night is selected, and ground transport; airfare excluded.
-- **Booking notes:** Confirm airline terminal, pickup time, passport, e-visa / entry record copies, and all luggage before leaving.
+- **Estimate:** **$80–250 pp** for breakfast and ground transport; airfare excluded. Hanoi lodging remains a broad estimate because the Airbnb price is unknown.
+- **Booking notes:** Arrange the Jan 9 airport transfer; confirm airline terminal, pickup time, passport, e-visa / entry record copies, and all luggage before leaving.
 
 ## Group decisions to discuss
 
@@ -175,7 +175,7 @@ The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (thre
 | Choice | Pros | Cons | Cost pp | Effort |
 |---|---|---|---:|---|
 | **Private day trip from Hanoi (recommended)** | Retains base and fits Jan 6; car makes Tràng An + Hang Múa practical. | Early start and late return. | ~$90–180 with private van / guide, plus tickets and food | Medium. |
-| One night in Tam Coc / Trang An | More time for cycling and a quiet morning landscape. | Adds hotel move, luggage, and a return transfer ahead of cruise. | ~$120–300 extra | Medium/high. |
+| One night in Tam Coc / Trang An | More time for cycling and a quiet morning landscape. | Adds Ninh Binh lodging; the booked Hanoi Airbnb still covers Jan 6, so that Hanoi night goes unused unless the booking is changed. | ~$120–300 extra | Medium/high. |
 
 ### Lan Ha cruise shortlist
 
@@ -196,7 +196,7 @@ The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (thre
 
 | Category | Low | High | Assumptions |
 |---|---:|---:|---|
-| Lodging | $2,100 | $6,000 | Phuket 3 nights at the selected Airbnb and Bangkok 4 nights at the booked Airbnb (both actual Airbnb prices and bed setups were not provided; lodging remains a broad estimate, not a property quote); Hanoi 3 hotel nights in a three-room setup; 1 cruise night. Keeping a Hanoi room during the cruise adds a hotel night. |
+| Lodging | $2,100 | $6,000 | Broad estimate, not a quote: Phuket 3 selected Airbnb nights and Bangkok 4 booked Airbnb nights; Hanoi 4 booked Airbnb nights Jan 5–9 (including Jan 7 while away) plus one separate cruise night aboard if booked. Hanoi Airbnb price is unknown. |
 | Food & drink | $650 | $1,800 | Mostly local restaurants, cafés, one upscale dinner, and a moderate number of cocktails. |
 | Activities / tours | $550 | $1,700 | One Phuket full-day boat, Bangkok sights / optional Muay Thai or Ayutthaya, Ninh Binh private vehicle, and Lan Ha cruise. Excludes extra shopping. |
 | NYE | $150 | $1,000 | Planning reserve for ticket / dinner or table package; no 2026 published price was verified. |
@@ -204,7 +204,7 @@ The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (thre
 | Miscellaneous | $150 | $500 | SIM/eSIM, tips, water, small admissions, laundry, and buffer. Excludes personal shopping. |
 | **Total** | **$3,800** | **$11,600** | **No flights.** The high end assumes peak-rate lodging and a premium NYE / private-boat choice. |
 
-**Planning assumptions:** five adults share accommodation where possible but each traveler gets an individual bed; actual prices and bed setups for the Phuket selected and Bangkok booked Airbnbs were not provided, so the existing total remains a broad allowance; Hanoi hotel and cruise costs are estimates, not quotes; fares, tips, wine, personal shopping and international/domestic airfare are excluded. Recalculate when Airbnb rates and other lodging costs are known.
+**Planning assumptions:** five adults share accommodation where possible but each traveler gets an individual bed; the Phuket, Bangkok, and Hanoi Airbnb prices were not provided, so lodging and overall totals remain broad allowances rather than property quotes. Hanoi is four booked Airbnb nights Jan 5–9 plus a separate cruise night aboard if that still-pending cruise is booked. Cruise costs and all other lodging values are estimates, not quotes; fares, tips, wine, personal shopping and international/domestic airfare are excluded. Recalculate when Airbnb prices and other lodging costs are known.
 
 ## Booking checklist (earliest deadlines first)
 
@@ -215,7 +215,8 @@ The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (thre
 | Lan Ha 2D/1N cruise | **Now / once group selects cabin plan** | Small suite inventory and holiday transfers. | [Heritage Line itinerary](https://www.heritage-line.com/our-cruises/lan-ha-bay/) / [Orchid Cruises](https://www.orchidcruises.com/) |
 | Phuket Dec 30 boat tour and airport van | 4–8 weeks before travel | Peak season departure capacity; group-of-five transport. | [Phang Nga Bay guide](https://en.wikivoyage.org/wiki/Phang_Nga_Bay) |
 | Arrange FD4113 arrival transfer to the booked Bangkok Airbnb | Before arrival, after airport endpoint is confirmed | FD4113's Bangkok arrival airport was not provided; choose the correct transfer once confirmed. | — |
-| Book Hanoi hotel around the Hoan Kiem lake edge; choose 3 or 4 nights | 4–8 weeks before travel | New Year demand, five-person bed layout, quiet-room request, and whether to retain the room Jan 7 during the cruise. | [Hanoi area guide](https://www.roughguides.com/articles/where-to-stay-in-hanoi/) |
+| Arrange Jan 5 Hanoi arrival transfer to the booked Airbnb | Before arrival | Confirm pickup for five from HAN after VJ902 and townhouse check-in timing. | — |
+| Message the Hanoi Airbnb host to confirm luggage can stay during the Jan 7 cruise night and to request a quieter room/floor | Before arrival | The cruise plan relies on main luggage staying at the townhouse; the listing warns lower 2nd and 3rd floors can be noisy, and a quiet room is not guaranteed. | — |
 | Bangkok tasting-menu dinner | When Jan 3 reservations open | High-demand restaurants may sell out or require prepayment. | No direct restaurant booking link verified; confirm official restaurant channel after the group decides. |
 | Vietnam e-visa | **At least 2–3 weeks before entry**; earlier is safer | Entry permission must be approved before boarding; confirm current multi/single-entry need and validity. | Official portal fetch failed; locate via Vietnam Immigration / embassy instructions and avoid lookalike sites. |
 | Travel medical / evacuation insurance | Before final non-refundable payments | Covers illness, trip interruption and emergency evacuation; confirm boat activities are included. | Compare policies directly; no insurer URL verified. |
@@ -234,6 +235,7 @@ The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (thre
 7. Lan Ha: Heritage Line Ginger, Orchid Premium, or Orchid Classic? What cabin layout fits five separate beds?
 8. Sa Pa: skip for this trip (recommended) or trade away one of Hanoi/Ninh Binh/Lan Ha days?
 9. Which airport is FD4113 arriving at in Bangkok, so the transfer to the booked Airbnb can be arranged?
+10. What cruise operator and pickup point should be used in Hanoi? The Jan 7 Airbnb night is already reserved; the cruise itself is still unbooked.
 
 ## Research caveats / items marked (verify)
 

@@ -1,24 +1,32 @@
 # Hanoi, Ninh Binh, and Lan Ha Bay research
 
-Research snapshot: 2026-10-20; Hanoi stay-area recommendation updated 2026-11-06. Prices are planning estimates in **USD per person** unless stated otherwise. Weather, opening hours, holiday schedules, cruise routing, and room rates are **verify** before booking.
+Research snapshot: 2026-10-20; Hanoi stay-area recommendation updated 2026-11-06; booked Airbnb details added 2026-11-10. Prices are planning estimates in **USD per person** unless stated otherwise. Weather, opening hours, holiday schedules, cruise routing, and unknown Airbnb price are **verify** before booking.
+
+### Current booked stay (supersedes the hotel search below)
+
+The group has booked [PalmHouse/ The Big Church/ Old Quarter/ Quites](https://www.airbnb.com/rooms/1385921378441075539) for **Jan 5–9, 2027 (four nights)**. The public listing describes an entire townhouse in Hoan Kiem with **5 bedrooms, 5 beds, and 5 baths**. Its description says it is steps from St Joseph's Cathedral, about a 5-minute walk from Hoan Kiem Lake, and about 10 minutes from Ta Hien. These are listing claims, not independently mapped walking routes. The price was not visible/provided and must not be inferred; budget numbers remain broad estimates.
+
+The Jan 7 night remains reserved at the Airbnb while the group is away on the planned Lan Ha cruise. The cruise itself is **not booked**. Main luggage can stay at the townhouse while the group takes a small cruise bag. The listing warns that outside noise can be heard on the lower 2nd and 3rd floors; request a quieter room/floor, but do not treat that request as a guarantee. No exact property address or host details are published.
 
 ## Where to stay in Hanoi
 
 | Area | Advantages | Trade-offs |
 |---|---|---|
-| **West/southwest Hoan Kiem lake edge — recommendation** | Around Hang Trong, St Joseph's Cathedral, and Ly Quoc Su: walkable to the lake, Old Quarter food, sights, and evening options. Best fit for the group's two available city evenings. | Tourist streets and motorbike noise are still nearby; room/building sound insulation matters. |
+| **West/southwest Hoan Kiem lake edge — earlier recommendation** | Around Hang Trong, St Joseph's Cathedral, and Ly Quoc Su: walkable to the lake, Old Quarter food, sights, and evening options. This was the earlier area recommendation before the townhouse booking. | Tourist streets and motorbike noise are still nearby; room/building sound insulation matters. |
 | **French Quarter / south Hoan Kiem — runner-up** | Elegant hotels, broader streets, and a more restful hotel feel, still central to the lake and cultural sights. | Further from the Old Quarter's dense street-food and bar lanes, which matter for a very short Hanoi stay. |
 | **West Lake / Tay Ho** | Lakeside air, larger rooms and restaurants, more residential feel. | Farther from Hoan Kiem and central sights; add car time. |
 
-### Recommended pocket for this group
+### Earlier stay-area recommendation (context; not the current stay choice)
 
 Search the **west/southwest edge of Hoan Kiem Lake**, around **Hang Trong, St Joseph's Cathedral, and Ly Quoc Su**—the seam between the Old Quarter and the French Quarter. It keeps the lake and Old Quarter food within an easy walk while letting the group choose a hotel lane away from the busiest bars. [Rough Guides](https://www.roughguides.com/articles/where-to-stay-in-hanoi/) describes the Old Quarter as a walkable first-visit base and contrasts Tay Ho as quieter; the [Hanoi guide](https://en.wikivoyage.org/wiki/Hanoi) identifies Ta Hien as a lively evening area. Choosing the lake edge over West Lake is our itinerary-specific judgment: with an arrival evening Jan 5 and one return evening Jan 8, a longer ride to central food and sights would use scarce city time. These neighborhood descriptions do not establish block-by-block noise or safety.
 
-For sleep, avoid a room directly on **Ta Hien or Luong Ngoc Quyen**; request a rear-facing / courtyard room and confirm sound insulation. This is a noise-avoidance suggestion, not a block-by-block safety rating. No neighborhood guarantees safety: UK travel advice notes petty theft and motorbike bag-snatching in crowded tourist areas and recommends using reputable ride apps and checking driver/vehicle details. For five, prefer a well-reviewed hotel with a staffed desk and confirm a three-room (two twins plus a single) or suite/connecting-room setup with five suitable beds.
+For sleep, avoid a room directly on **Ta Hien or Luong Ngoc Quyen**; request a rear-facing / courtyard room and confirm sound insulation. This is a noise-avoidance suggestion, not a block-by-block safety rating. No neighborhood guarantees safety: UK travel advice notes petty theft and motorbike bag-snatching in crowded tourist areas and recommends using reputable ride apps and checking driver/vehicle details. This area recommendation informed the earlier hotel search but does not supersede the booked Old Quarter townhouse; its listing states five beds. Request a quieter room/floor through the booking channel, with no guarantee.
 
-The lake-edge base is convenient for city walking, but Ninh Binh and Lan Ha transfers depend on the chosen operator. Confirm hotel pickup details, the cruise's pier/transfer plan, and Hanoi return logistics before booking. Noi Bai Airport lists public routes including bus 86 to Hanoi Railway Station; for five with bags, compare a pre-arranged car/van or reputable app ride rather than relying on bus access alone.
+The lake-edge base is convenient for city walking, but Ninh Binh and Lan Ha transfers depend on the chosen operator. Confirm pickup details, the cruise's pier/transfer plan, and Hanoi return logistics before booking. Noi Bai Airport lists public routes including bus 86 to Hanoi Railway Station; for five with bags, compare a pre-arranged car/van or reputable app ride rather than relying on bus access alone.
 
-### Hotels and room setup
+### Hotel comparisons researched before the Airbnb was booked
+
+These are background research only, not current stay candidates or an open lodging choice.
 
 - For five adults, request **three rooms** (two twins plus one single) or a two-bedroom suite plus connecting twin room. Confirm that five separate beds are guaranteed; do not assume a sofa bed is acceptable.
 - **Sofitel Legend Metropole Hanoi** (French Quarter, Hoan Kiem): heritage luxury; official site lists 358 rooms and suites and address 15 Ngo Quyen Street. Budget **~$450–1,000+ per room/night**.
@@ -27,10 +35,11 @@ The lake-edge base is convenient for city walking, but Ninh Binh and Lan Ha tran
 - **La Siesta Premium Hang Be** (Old Quarter): boutique option; budget **~$150–350 per room/night**.
 - Rates are planning ranges, not live quotes. Confirm bed type, room count, breakfast, taxes, and Jan 5–9 availability.
 
-### Cruise-night room: keep or check out?
+### Cruise-night lodging and luggage
 
-- **Keep the Hanoi room on the cruise night** if cost allows: leave luggage and return to a familiar room after disembarkation. This adds a hotel-night charge on top of the cruise night.
-- **Check out and store bags** if the hotel securely holds luggage and the extra-night rate is high. Get the storage arrangement in writing and a backup plan if the cruise is delayed.
+- The booked Airbnb remains reserved on Jan 7, so there is no Hanoi lodging checkout or room-choice decision for the cruise night. The four Airbnb nights are Jan 5, 6, 7, and 8; if the cruise is booked, its separate cabin night overlaps the Jan 7 Airbnb night.
+- Main luggage can remain in the booked townhouse while travelers take a small bag for the cruise. Confirm any access / security details through the booking channel; do not publish host details.
+- Cruise pickup time and location depend on the operator and pier selected after booking. Confirm both; do not assume the cruise shuttle picks up at the townhouse door.
 - Jan 8 returns to Hanoi around 14:00–15:00 in the base plan, leaving a comfortable but not huge buffer before the Jan 9 flight.
 
 ## Hanoi sights
@@ -61,7 +70,7 @@ The lake-edge base is convenient for city walking, but Ninh Binh and Lan Ha tran
 - **Choose Tràng An** over Tam Coc for this itinerary: longer boat circuit through caves/temples, a UNESCO landscape, shared rowboat of about four passengers, and less exposed to pushy souvenir-selling than Tam Coc. Current guide estimates ~3 hr and 250,000 VND pp; **verify** fees.
 - **Hang Múa** has a steep ~500-step climb and panoramic karst views. Start early, carry water, and allow 1.5–2 hr. Current guide lists 100,000 VND admission; **verify**.
 - **Private car + guide:** around 2–2.5 hr each way from Hanoi; **~$90–180 pp** for a five-person full day, depending on vehicle, guide and inclusions. A group tour is **~$50–100 pp**, less flexible.
-- Day trip pros: retain Hanoi hotel and fit the Jan 6 schedule. Cons: early start and long day. Overnight pros: slower cycling, dawn karsts, dinner in Tam Coc; cons: room change and logistics. **Recommendation:** keep the Jan 6 private day trip, with overnight as a vote option.
+- Day trip pros: return to the booked Hanoi townhouse and fit the Jan 6 schedule. Cons: early start and long day. Overnight pros: slower cycling, dawn karsts, dinner in Tam Coc; cons: a new lodging move and logistics. **Recommendation:** keep the Jan 6 private day trip, with overnight as a vote option.
 - Lunch: **Thang Long Restaurant** near Tràng An for local goat and crispy rice, or a Tam Coc café if timing is tight.
 
 ## Lan Ha Bay overnight
@@ -86,11 +95,11 @@ The lake-edge base is convenient for city walking, but Ninh Binh and Lan Ha tran
 
 | Date | Plan | Reason |
 |---|---|---|
-| Tue Jan 5 | Travel from Bangkok; arrive Hanoi afternoon; check in; short Old Quarter / lake loop and nearby dinner. | Keep the arrival evening flexible; confirm hotel and airport transfer. |
-| Wed Jan 6 | Private Ninh Binh day trip: Tràng An boat, Hang Múa, late lunch, Hanoi return. | Keeps the requested day trip before the cruise, but leaves no full Hanoi city day. |
-| Thu Jan 7 | Transfer to Lan Ha Bay; board around noon; kayak; sleep aboard. | Avoids a long land day after Ninh Binh. |
-| Fri Jan 8 | Breakfast / kayak; disembark 11:00–11:30; Hanoi return 14:00–15:00; flexible farewell dinner / walking street. | Allow time for a meal and rest before departure day; avoid fixed afternoon plans. |
-| Sat Jan 9 | Check out and go to HAN for NYC departure. | Keep a generous airport buffer; confirm pickup and terminal. |
+| Tue Jan 5 | Travel from Bangkok; arrange HAN arrival transfer; check in at the booked Old Quarter townhouse; short lake loop and nearby dinner. | Keep the arrival evening flexible; arrival transfer remains to arrange. |
+| Wed Jan 6 | Private Ninh Binh day trip: Tràng An boat, Hang Múa, late lunch, return to the townhouse; pack a small cruise bag. | Main luggage can remain at the Airbnb because the booking continues through Jan 7. |
+| Thu Jan 7 | Leave for the still-unbooked Lan Ha Bay cruise without checking out of the Airbnb; board around noon, kayak, sleep aboard. | Pickup timing/location, pier, and transfer depend on operator booking; the Airbnb night remains reserved. |
+| Fri Jan 8 | Breakfast / kayak; disembark 11:00–11:30; return to the same townhouse around 14:00–15:00; flexible farewell dinner / walking street. | Allow time for a meal and rest before departure day; avoid fixed afternoon plans. |
+| Sat Jan 9 | Check out of the townhouse and transfer to HAN for NYC departure. | Keep a generous airport buffer; confirm pickup and terminal. |
 
 The added Bangkok night shifts the Hanoi arrival to Jan 5 and removes the full Hanoi sightseeing day. If a full day in Hanoi matters more than one excursion, the group should choose whether to replace the Ninh Binh day trip or the Lan Ha cruise; those activities cannot both move within Jan 5–9 without conflicting with the Jan 9 departure.
 
@@ -114,10 +123,10 @@ The added Bangkok night shifts the Hanoi arrival to Jan 5 and removes the full H
 - Lan Ha cruise ship, cabin configuration for five, pickup/drop-off, dock, included fees, weather cancellation terms, and Jan 2027 schedule.
 - Tràng An route, current boat price, Hang Múa ticket, car/guide quote, traffic and attraction hours.
 - Ho Chi Minh Mausoleum calendar, Train Street access policy, water-puppet performance, museums, and walking-street holiday schedule.
-- Book a hotel around the west/southwest Hoan Kiem lake edge for Jan 5, 6, and 8 (three nights) if checking out for the cruise. Keeping the room for Jan 7 adds a hotel-night charge; otherwise arrange secure luggage storage.
-- Confirm hotel bed setup, quiet rooms, late check-in and final-night availability.
-- Confirm whether the hotel is on a quiet side lane in the west/southwest Hoan Kiem lake-edge area, not directly on a late-night bar street.
-- Confirm exact pickup/drop-off arrangements with the selected Ninh Binh and Lan Ha operators; do not assume hotel pickup is included.
+- Confirm the booked Airbnb's arrival/access details and request a quieter room/floor if possible; the listing warns lower 2nd and 3rd floors can hear outside noise, and a request is not guaranteed.
+- Arrange the Jan 5 HAN arrival transfer and Jan 9 HAN departure transfer; confirm pickup instructions and a vehicle for five.
+- Confirm whether main luggage may remain at the booked townhouse during the cruise, then verify the cruise operator's separate pickup time and location after booking.
+- Confirm exact pickup/drop-off arrangements with the selected Ninh Binh and Lan Ha operators; do not assume townhouse pickup is included.
 
 ## Sources
 
@@ -133,5 +142,6 @@ The added Bangkok night shifts the Hanoi arrival to Jan 5 and removes the full H
 - [Orchid Cruises](https://www.orchidcruises.com/)
 - [Sofitel Legend Metropole Hanoi](https://www.sofitel-legend-metropole-hanoi.com/)
 - [Rough Guides — Where to stay in Hanoi](https://www.roughguides.com/articles/where-to-stay-in-hanoi/)
+- [Booked Airbnb listing — PalmHouse / The Big Church / Old Quarter](https://www.airbnb.com/rooms/1385921378441075539)
 - [Noi Bai International Airport — transport to/from the airport](https://noibaiairport.vn/en/public-transportations-nid1.html)
 - [GOV.UK — Vietnam safety and security](https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security)

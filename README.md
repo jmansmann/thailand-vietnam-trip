@@ -1,6 +1,6 @@
 # Thailand + Vietnam trip planner
 
-A mobile-first, public planning site for five travelers on a Thailand and Vietnam trip from Dec 29, 2026 to Jan 9, 2027. Flights are out of scope. The site combines planning estimates and research with public-facing trip statuses: Phuket lodging is selected, Bangkok lodging is booked, and confirmed flights are locked in. It does not publish private booking identifiers or details.
+A mobile-first, public planning site for five travelers on a Thailand and Vietnam trip from Dec 29, 2026 to Jan 9, 2027. Flights are out of scope. The site combines planning estimates and research with public-facing trip statuses: Phuket lodging is selected, Bangkok and Hanoi lodging are booked, and confirmed flights are locked in. The Hanoi Airbnb is booked Jan 5–9 (four nights), including Jan 7 while the planned Lan Ha cruise remains unbooked. Its listed price is unknown, so Hanoi lodging estimates remain broad. The site does not publish private booking identifiers or details.
 
 ## Pages
 
