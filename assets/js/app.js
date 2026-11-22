@@ -142,7 +142,7 @@
   }
 
   function renderDecisionPreview() {
-    const previewIds = ["nye", "phuket-day", "bangkok-day"];
+    const previewIds = ["nye", "bangkok-day"];
     return previewIds.map((id) => {
       const option = trip.options.find((item) => item.id === id);
       return `<div class="decision-preview"><h3>${escapeHtml(option.question)}</h3><p>${escapeHtml(option.choices.map((choice) => choice.name).join(" · "))}</p></div>`;

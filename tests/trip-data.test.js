@@ -46,7 +46,7 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   const itinerary = trip.itinerary;
   assert.equal(itinerary.locked[0].date, trip.meta.startDate);
   assert.equal(itinerary.locked[0].endDate, trip.meta.endDate);
-  assert.deepEqual(itinerary.locked.map((item) => item.status), ["locked", "selected", "locked", "booked", "locked", "booked"]);
+  assert.deepEqual(itinerary.locked.map((item) => item.status), ["locked", "selected", "booked", "locked", "booked", "locked", "booked", "booked"]);
   const phuketProperty = itinerary.locked.find((item) => item.status === "selected");
   assert.equal(phuketProperty.date, "2026-12-29");
   assert.equal(phuketProperty.endDate, "2027-01-01");
@@ -57,7 +57,7 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   assert.match(phuketProperty.detail, /does not establish payment or reservation confirmation/);
   assert.doesNotMatch(phuketProperty.detail, /reservation is paid or confirmed/i);
 
-  const bangkokProperty = itinerary.locked.find((item) => item.status === "booked");
+  const bangkokProperty = itinerary.locked.find((item) => item.url === "https://www.airbnb.com/rooms/1162299685456991785");
   assert.equal(bangkokProperty.date, "2027-01-01");
   assert.equal(bangkokProperty.endDate, "2027-01-05");
   assert.match(bangkokProperty.detail, /four nights/);
@@ -81,13 +81,15 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   assert.doesNotMatch(`${hanoiProperty.title} ${hanoiProperty.detail} ${hanoiProperty.url}`, /booking\s+(?:confirmation\s+)?(?:id|number|code|reference)|confirmation\s+(?:id|number|code|reference)/i);
 
   const expectedBookingDates = [
-    "2026-12-29", "2026-12-30", "2026-12-31", "2027-01-01", "2027-01-04",
+    "2026-12-29", "2026-12-31", "2027-01-01", "2027-01-04",
     "2027-01-05", "2027-01-06", "2027-01-07", "2027-01-09",
   ];
   assert.deepEqual(itinerary.bookings.map((item) => item.date), expectedBookingDates);
   assert.ok(itinerary.bookings.every((item) => item.status === "to-arrange"));
+  assert.ok(itinerary.locked.some((item) => item.status === "booked" && item.date === "2026-12-30" && item.url === "https://www.airbnb.com/experiences/7176126"));
+  assert.ok(itinerary.locked.some((item) => item.status === "booked" && item.date === "2027-01-05" && item.url === "https://www.airbnb.com/experiences/4734484"));
   const bookingCopy = itinerary.bookings.map((item) => `${item.title} ${item.detail}`).join(" ");
-  for (const detail of ["bag drop", "boat day", "NYE", "Bangkok arrival transfer", "airport", "city day or day trip", "Hanoi arrival transfer", "Ninh Binh vehicle and guide", "2D/1N cruise", "cabin layout", "HAN"]) {
+  for (const detail of ["bag drop", "NYE", "Bangkok arrival transfer", "airport", "city day or day trip", "Hanoi arrival transfer", "Ninh Binh vehicle and guide", "2D/1N cruise", "cabin layout", "HAN"]) {
     assert.ok(bookingCopy.includes(detail), `missing booking placeholder: ${detail}`);
   }
   assert.equal(itinerary.bookings.filter((item) => /Hanoi hotel|Jan 7 room decision/i.test(`${item.title} ${item.detail}`)).length, 0);
@@ -135,7 +137,6 @@ test("decision options cover every requested group choice", () => {
   const optionIds = new Set(trip.options.map((option) => option.id));
   for (const id of [
     "nye",
-    "phuket-day",
     "bangkok-day",
     "bangkok-dinner",
     "vietnam-order",

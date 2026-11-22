@@ -33,6 +33,13 @@ window.TRIP = {
         url: "https://www.airbnb.com/rooms/1275269225698798502",
       },
       {
+        date: "2026-12-30",
+        title: "Phi Phi, Maya Bay and Bamboo catamaran tour (Seven Plus Travel)",
+        status: "booked",
+        detail: "Booked full-day tour, 9:15 AM–6:15 PM, with hotel pickup and drop-off from Patong. The listing starts from $98 per guest; the booked total was not provided. Confirm the pickup time with the operator.",
+        url: "https://www.airbnb.com/experiences/7176126",
+      },
+      {
         date: "2027-01-01",
         title: "FD4113 · Phuket → Bangkok",
         status: "locked",
@@ -60,6 +67,13 @@ window.TRIP = {
         detail: "Booked for Jan 5–9, 2027 (four nights). The Airbnb listing describes an entire townhouse in Hoan Kiem with 5 bedrooms, 5 beds, and 5 baths. Its description says it is steps from St Joseph's Cathedral, about a 5-minute walk from Hoan Kiem Lake, and about 10 minutes from Ta Hien. The reservation includes the Jan 7 night, when the group is planned to sleep aboard the Lan Ha Bay cruise; the cruise itself is not booked and is not covered by this reservation. Price was not provided. The listing notes that outside noise may be heard on the lower 2nd and 3rd floors; request a quiet room/floor if available, but this is not guaranteed.",
         url: "https://www.airbnb.com/rooms/1385921378441075539",
       },
+      {
+        date: "2027-01-05",
+        title: "Authentic taste of Hanoi food tour (Old Quarter, 6–9 PM)",
+        status: "booked",
+        detail: "Booked 6:00–9:00 PM for the group; meets in the Old Quarter, with the exact meeting point sent a day before. Timing is tight: VJ902 lands at 17:00, and the transfer and check-in come first. Confirm the start time or meeting point with the host before arrival. The listing starts from $29 per guest; the booked total was not provided.",
+        url: "https://www.airbnb.com/experiences/4734484",
+      },
     ],
     bookings: [
       {
@@ -67,12 +81,6 @@ window.TRIP = {
         status: "to-arrange",
         title: "Phuket arrival transfer and property arrival plan",
         detail: "Arrange transport from HKT to the selected property. Confirm bag drop or early check-in, access/check-in details, reservation status, and the five-person bed layout.",
-      },
-      {
-        date: "2026-12-30",
-        status: "to-arrange",
-        title: "Phuket boat day and operator",
-        detail: "Choose the boat-day plan and operator; confirm route, pickup, inclusions, weather policy, and return transport.",
       },
       {
         date: "2026-12-31",
@@ -127,8 +135,8 @@ window.TRIP = {
       legId: "phuket",
       name: "Phuket",
       dateRange: "Dec 29–Jan 1 · 3 nights",
-      overview: "Arrive in central Patong, settle into the selected Airbnb, take one Andaman boat day, then choose an NYE plan. Keep the same property for all three nights.",
-      highlights: ["Selected central Patong Airbnb for all three nights", "Phang Nga Bay canoeing or another group-selected boat day", "Patong nightlife nearby; NYE venue remains a group choice"],
+      overview: "Arrive in central Patong, settle into the selected Airbnb, take the booked Phi Phi catamaran day on Dec 30, then choose an NYE plan. Keep the same property for all three nights.",
+      highlights: ["Selected central Patong Airbnb for all three nights", "Booked Phi Phi, Maya Bay and Bamboo catamaran on Dec 30", "Patong nightlife nearby; NYE venue remains a group choice"],
       sections: [
         { title: "Selected Phuket property", body: "The selected Airbnb listing is titled ‘CozyStay 3BR CenterPatong 300m Bangla, 500m Beach’ and identifies a central Patong location. Its title claims the beach and Bangla Road are nearby; verify the map pin, route, five separate beds, reservation status, and stay terms. All three nights are at this property, with no Phuket overnight excursion." },
         { title: "Food and nightlife", body: "The selected listing places the group in central Patong; its title claims about 300 m to Bangla Road and 500 m to the beach, subject to map-pin verification. Patong has walkable dining and nightlife; Phuket Old Town adds spots such as Raya and Blue Elephant. Catch in Bang Tao remains a beach-club option for NYE, but requires a prearranged ride." },
@@ -191,7 +199,7 @@ window.TRIP = {
       dateRange: "Dec 29–Jan 1",
       color: "teal",
       summary:
-        "Stay in central Patong, take one Andaman boat day, and decide between a beach club and local NYE plans. The selected property is the same for all three nights.",
+        "Stay in central Patong, take the booked Dec 30 catamaran day, and decide between a beach club and local NYE plans. The selected property is the same for all three nights.",
       stay: {
         recommendation: "Selected Airbnb in central Patong for Dec 29–Jan 1",
         area: "Patong · exact map pin unverified",
@@ -276,15 +284,16 @@ window.TRIP = {
     },
     {
       date: "2026-12-30", weekday: "Wednesday", legId: "phuket", stopId: "phuket",
-      title: "Phang Nga Bay by canoe and boat",
-      summary: "One full Andaman day, with sea-cave canoeing as the defining activity.",
-      costPP: [400, 1050],
+      title: "Phi Phi, Maya Bay and Bamboo catamaran",
+      summary: "Booked full-day catamaran tour, 9:15 AM–6:15 PM, with hotel pickup and drop-off.",
+      costPP: [125, 250],
       items: [
-        { time: "morning", title: "Early pickup and bay cruise", desc: "Choose a small-group canoe program or private boat; verify park fees, guide and weather cancellation.", placeId: "phang-nga", tags: ["adventure", "nature"], booking: "required", costPP: [100, 700] },
-        { time: "afternoon", title: "Sea caves and limestone karsts", desc: "Canoe through permitted caves and lagoons; stop at James Bond Island only if the group wants it.", placeId: "phang-nga", tags: ["adventure", "nature"], booking: "required", costPP: [0, 30] },
-        { time: "evening", title: "Dinner back in Patong", desc: "Boat lunch may be included; confirm with the selected operator. Choose dinner near the property after the tour returns.", placeId: "patong", tags: ["food", "chill"], booking: "recommended", costPP: [25, 100] },
+        { time: "09:15", title: "Hotel pickup and catamaran to Phi Phi", desc: "Booked Seven Plus Travel tour from Chalong Pier with hotel pickup. The listing does not state the pickup time; confirm it with the operator.", placeId: "patong", tags: ["transport", "adventure"], booking: "required", costPP: [98, 98] },
+        { time: "afternoon", title: "Phi Phi Don lunch, snorkeling, and Maya Bay", desc: "Buffet lunch on Phi Phi Don is included, then snorkeling, Viking Cave and Pileh Lagoon depending on tides, Maya Bay, and Maiton snorkeling.", placeId: "phi-phi", tags: ["nature", "adventure", "food"], booking: "required" },
+        { time: "18:15", title: "Return to Chalong Pier and hotel drop-off", desc: "Snacks and fruit are served on the return. Transfer back to the Patong property.", placeId: "patong", tags: ["transport", "chill"], booking: "required" },
+        { time: "evening", title: "Dinner in Patong", desc: "Choose dinner near the property after the tour returns.", placeId: "patong", tags: ["food", "chill"], booking: "recommended", costPP: [25, 100] },
       ],
-      alt: "Stay around Patong Beach and nearby restaurants; keep a free recovery day.",
+      alt: "Booked tour; keep the rest of the day free and return to the Patong property afterwards.",
     },
     {
       date: "2026-12-31", weekday: "Thursday", legId: "phuket", stopId: "phuket",
@@ -349,15 +358,15 @@ window.TRIP = {
     {
       date: "2027-01-05", weekday: "Tuesday", legId: "hanoi", stopId: "hanoi",
       title: "Bangkok to Hanoi; settle in",
-      summary: "Take confirmed flight VJ902 from Suvarnabhumi to Hanoi; transfer to and check in at the booked townhouse.",
+      summary: "Take confirmed flight VJ902 from Suvarnabhumi to Hanoi; transfer to and check in at the booked townhouse, then the booked 6 PM food tour if timing allows.",
       costPP: [220, 650],
       items: [
         { time: "morning", title: "Check out and transfer to Suvarnabhumi (BKK)", desc: "Leave time for Bangkok traffic before the confirmed 15:05 departure. Carry Vietnam entry approval and travel documents offline.", placeId: "bangkok", tags: ["transport"], booking: "required", costPP: [20, 70] },
         { time: "15:05", title: "Confirmed flight VJ902 · BKK → Hanoi (HAN)", desc: "Departs Bangkok Suvarnabhumi at 15:05; scheduled arrival at Noi Bai is 17:00 local time.", placeId: "hanoi-airport", tags: ["transport"], booking: "required" },
         { time: "17:00", title: "Arrive at Noi Bai (HAN) and transfer to the townhouse", desc: "Arrange a transfer for five from HAN to the booked Old Quarter townhouse, check in, and rest. Confirm pickup instructions and arrival timing.", placeId: "hanoi-airport", tags: ["transport", "chill"], booking: "required", costPP: [10, 30] },
-        { time: "evening", title: "Short Hoan Kiem loop and local dinner", desc: "Return to the booked townhouse after a short walk and dinner nearby. The listing says it is steps from St Joseph's Cathedral and about a 5-minute walk from Hoan Kiem Lake. Cafe Giang or Bun Cha Huong Lien only if arrival time and opening allow.", placeId: "hoan-kiem", tags: ["food", "culture", "chill"], booking: "walk-in", costPP: [20, 100] },
+        { time: "18:00", title: "Booked Hanoi food tour in the Old Quarter", desc: "Booked 6–9 PM food tour for the group; the exact meeting point is sent a day before. Timing is tight after the 17:00 landing, so confirm the start with the host. Listed from $29 per guest.", placeId: "old-quarter", tags: ["food", "culture"], booking: "required", costPP: [29, 29] },
       ],
-      alt: "Townhouse dinner and early sleep before the Ninh Binh departure.",
+      alt: "Townhouse dinner and early sleep if the food tour cannot start on time.",
     },
     {
       date: "2027-01-06", weekday: "Wednesday", legId: "hanoi", stopId: "hanoi", subStopId: "ninh-binh",
@@ -445,15 +454,6 @@ window.TRIP = {
       ],
     },
     {
-      id: "phuket-day", legId: "phuket", stopId: "phuket", group: "Dec 30 day", question: "What should we do for Phuket's big Dec 30 day?",
-      choices: [
-        { id: "phang-nga", name: "Phang Nga Bay sea-cave canoeing", pros: ["Karsts and caves; distinct from the beach days"], cons: ["Full day; popular stops can be crowded"], costPP: [100, 220], effort: "Medium", recommended: true },
-        { id: "phi-phi", name: "Phi Phi and Maya Bay", pros: ["Iconic islands and snorkeling"], cons: ["Peak-season crowds; access rules verify"], costPP: [100, 250], effort: "Medium/high", recommended: false },
-        { id: "private-boat", name: "Private speedboat for five", pros: ["Flexible pace and route"], cons: ["Higher cost and weather risk"], costPP: [250, 700], effort: "Medium/high", recommended: false },
-        { id: "fishing", name: "Deep-sea fishing charter", pros: ["Activity-focused day"], cons: ["Sea conditions and catch rules; less sightseeing"], costPP: [150, 400], effort: "Medium", recommended: false },
-      ],
-    },
-    {
       id: "bangkok-day", legId: "bangkok", stopId: "bangkok", group: "Day trip / overnight", question: "Take a Bangkok day trip or stay in the city?",
       choices: [
         { id: "bangkok-city", name: "Stay in Bangkok", pros: ["More temples, Chinatown, Chatuchak and downtime"], cons: ["No countryside day"], costPP: [40, 180], effort: "Low", recommended: true },
@@ -529,10 +529,10 @@ window.TRIP = {
     { id: "bangkok-transfer", item: "Arrange FD4113 arrival transfer to the booked Bangkok Airbnb", bookBy: "Before arrival", priority: "high", why: "Confirm FD4113's Bangkok airport endpoint first; the flight airport endpoints were not provided.", url: "https://www.airbnb.com/rooms/1162299685456991785" },
     { id: "hanoi-arrival-transfer", item: "Arrange Jan 5 HAN arrival transfer to the booked Hanoi Airbnb", bookBy: "Before arrival", priority: "high", why: "Coordinate a vehicle for five and confirm pickup instructions and check-in timing after VJ902.", url: "" },
     { id: "hanoi-stay-requests", item: "Message the Hanoi Airbnb host to confirm luggage can stay during the Jan 7 cruise night and to request a quieter room/floor", bookBy: "Before arrival", priority: "high", why: "The cruise plan relies on main luggage staying at the townhouse. The listing warns that lower 2nd and 3rd floors can be noisy; a quieter room or floor is a request, not a guarantee.", url: "" },
-    { id: "phuket-boat", item: "Choose Dec 30 boat day and pre-book group transport", bookBy: "4–8 weeks before", priority: "high", why: "Peak-season small-group departures fill up.", url: "https://en.wikivoyage.org/wiki/Phang_Nga_Bay" },
+    { id: "phuket-catamaran-pickup", item: "Confirm Dec 30 catamaran pickup time and hotel address with Seven Plus Travel", bookBy: "Before Dec 30", priority: "high", why: "The booked tour runs 9:15 AM–6:15 PM from Patong, but the listing does not state the pickup time.", url: "https://www.airbnb.com/experiences/7176126" },
     { id: "ninh-binh", item: "Confirm Ninh Binh private vehicle and guide", bookBy: "2–4 weeks before", priority: "normal", why: "Early start and five travelers need a suitable vehicle.", url: "https://en.wikivoyage.org/wiki/Ninh_Binh" },
     { id: "vietnam-visa", item: "Apply for Vietnam e-visa and verify entry port / validity", bookBy: "At least 2–3 weeks before entry", priority: "critical", why: "Approval must be in hand before boarding.", url: "" },
-    { id: "hanoi-food", item: "Reserve Hanoi food tour / cooking class if desired", bookBy: "1–3 weeks before", priority: "normal", why: "Choose a small group and avoid overloading the short Hanoi stay.", url: "https://en.wikivoyage.org/wiki/Hanoi" },
+    { id: "hanoi-food-timing", item: "Confirm the Jan 5 Hanoi food tour start time after the 17:00 HAN arrival", bookBy: "Now", priority: "high", why: "The booked 6 PM tour follows a 17:00 landing, plus transfer and check-in. Ask the host whether a later start or a different meeting point is possible.", url: "https://www.airbnb.com/experiences/4734484" },
     { id: "tdac", item: "Submit Thailand Digital Arrival Card", bookBy: "Within official window (plan Dec 26–28)", priority: "critical", why: "Required pre-arrival paperwork; verify submission window.", url: "https://tdac.immigration.go.th/" },
   ],
   culture: {
@@ -625,7 +625,7 @@ window.TRIP = {
       { name: "Kalim Rim Lay", address: "Kalim, Phuket, Thailand", city: "Phuket", tier: "Mid-range", notes: "Local Muslim-Thai seafood, spicy (som tam, larb). Short taxi from Patong. Address not verified." },
       { name: "Rat-U-Thit Road night market", address: "Rat-U-Thit Road, Patong, Phuket, Thailand", city: "Phuket", tier: "Street food", notes: "Evening stalls, about $2-4 per item. Specific stalls not verified." },
       { name: "Jungceylon food court", address: "Jungceylon, Patong, Phuket, Thailand", city: "Phuket", tier: "Street food", notes: "Easy fallback for a quick meal." },
-      { name: "Blue Elephant Phuket", address: "96 Krabi Road, Phuket Town, Phuket, Thailand", city: "Phuket", tier: "Fine dining", notes: "Phuketian and Peranakan dishes in a historic mansion. Estimated $60-75 pp before tax and service (unverified). Suggested for Dec 30." },
+      { name: "Blue Elephant Phuket", address: "96 Krabi Road, Phuket Town, Phuket, Thailand", city: "Phuket", tier: "Fine dining", notes: "Phuketian and Peranakan dishes in a historic mansion. Estimated $60-75 pp before tax and service (unverified). Dec 30 is now the catamaran day, so pick another night." },
       { name: "PRU (Trisara)", address: "Trisara Resort, Choeng Thale, Phuket, Thailand", city: "Phuket", tier: "Fine dining", notes: "Michelin 2 stars (2027). Dinner 7,500 THB++ (about $250 pp incl. service and VAT, before drinks). Tue-Sat dinner. Far north of Patong." },
       { name: "Go Benz", address: "163 Krabi Road, Talat Nuea, Phuket Town, Phuket, Thailand", city: "Phuket", tier: "Street food", notes: "Michelin Bib Gourmand: pork and rice. Tue-Sun 17:00-01:30, closed Mondays." },
       { name: "Sorn", address: "56 Sukhumvit Soi 26, Khlong Toei, Bangkok, Thailand", city: "Bangkok", tier: "Fine dining", notes: "Michelin 3 stars (2027). Southern Thai tasting menu. Hard to book; deposit terms apply. Price not verified." },

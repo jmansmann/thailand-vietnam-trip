@@ -23,14 +23,14 @@
 - **Estimate:** **$350–950 pp** as a broad planning allowance; it includes lodging but does not use the selected Airbnb's unprovided price.
 - **Booking notes:** Arrange the airport transfer and property arrival / baggage plan; confirm reservation status and five separate beds.
 
-### Wed Dec 30 — Phang Nga Bay by boat
+### Wed Dec 30 — Booked Phi Phi, Maya Bay and Bamboo catamaran
 
-- **Morning:** Have breakfast near the property, then take the arranged pickup for a Phang Nga Bay small-group or private boat day with sea-cave canoeing. Choose a program that includes a licensed canoe guide and clarify national-park fees.
-- **Afternoon:** Kayak / canoe through permitted sea caves and lagoons; make a short James Bond Island stop if the group wants it, while expecting crowds. Return to Patong by late afternoon.
-- **Evening:** Choose dinner near the property; no late night before NYE. Confirm whether lunch is included in the chosen boat package.
-- **Chill alternative:** Skip the boat and spend the day around Patong Beach and nearby restaurants.
-- **Estimate:** **$400–1,050 pp** including lodging, boat tour, meals, and local transport.
-- **Booking notes:** Compare a small-group canoe tour against a private speedboat for five. Confirm route, group size, departure time, fees, weather cancellation, and return time.
+- **Booked:** Seven Plus Travel full-day tour, 9:15 AM–6:15 PM, with hotel pickup and drop-off. Listing: [Phuket: Phi Phi, Maya & Bamboo Catamaran](https://www.airbnb.com/experiences/7176126), from $98 per guest; the booked total was not provided.
+- **Morning:** Hotel pickup in Patong, then transfer to Chalong Pier for the speed catamaran. The listing does not state the pickup time; confirm it with the operator.
+- **Afternoon:** Buffet lunch on Phi Phi Don (included), snorkeling, Viking Cave and Pileh Lagoon depending on tides, Maya Bay, and Maiton snorkeling.
+- **Evening:** Return to Chalong Pier around 6:15 PM, then transfer back to the property. Choose dinner near the property; no late night before NYE.
+- **Estimate:** **$125–250 pp** for the tour, dinner, and drinks, based on the listing's from-price.
+- **Booking notes:** Confirm the pickup time and hotel address with the operator. Check tide and park access on the day.
 
 ### Thu Dec 31 — Patong reset, then NYE plans
 
@@ -82,8 +82,8 @@
 - **Morning:** Check out of the booked Airbnb and transfer to Suvarnabhumi (BKK). Leave a traffic buffer; keep travel documents and Vietnam entry approval accessible.
 - **15:05–17:00:** Confirmed flight **VJ902**, Bangkok Suvarnabhumi (BKK) → Noi Bai (HAN), local times.
 - **After 17:00:** Arrive at HAN and take the still-to-be-arranged transfer for five to the booked Airbnb townhouse in the Old Quarter / St Joseph's Cathedral area; check in and rest.
-- **Evening:** Take a short Hoan Kiem Lake loop and choose a nearby dinner if arrival and immigration timing allow. The listing says the townhouse is steps from St Joseph's Cathedral and about a 5-minute walk from the lake; these are listing claims.
-- **Chill alternative:** Eat near the townhouse and turn in early before the Ninh Binh departure.
+- **Evening:** Booked Hanoi food tour in the Old Quarter, 6:00–9:00 PM for five. Listing: [Authentic taste of Hanoi](https://www.airbnb.com/experiences/4734484), from $29 per guest; the booked total was not provided. Timing is tight: VJ902 lands at 17:00, so the HAN transfer and check-in come first. Message the host before arrival to confirm the start time or meeting point.
+- **Chill alternative:** If the food tour cannot start on time, eat near the townhouse and turn in early before the Ninh Binh departure.
 - **Estimate:** **$220–650 pp** including a broad Hanoi lodging allowance, meals, airport transfer and local transport; airfare excluded. The Airbnb price is unknown, so this is not a quote.
 - **Booking notes:** Arrange the HAN arrival transfer and confirm pickup instructions / check-in timing. The Airbnb is booked Jan 5–9, including Jan 7. The listing notes possible outside noise on the lower 2nd and 3rd floors; request a quieter room/floor, not a guarantee. Vietnam e-visa requirements are **verify**; see practicals.
 
@@ -136,14 +136,9 @@ The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (thre
 | Café del Mar, Kamala | Another beach-club option. | Requires transport from Patong; its site fetch failed, and current 2026/27 event, tickets, and operation remain unverified. | Planning hold ~$150–1,000+ | Medium/high until verified. |
 | Patong / Bangla Road | Local nightlife may be walkable from the selected Airbnb; avoids an out-of-area ride if the group wants to stay nearby. | Not a beach-club night; confirm current NYE programming, crowd plan, and exact walk from the listing. | ~$50–250 | Low/medium. |
 
-### Phuket Dec 30 big day
+### Phuket Dec 30 — booked
 
-| Choice | Pros | Cons | Cost pp | Effort |
-|---|---|---|---:|---|
-| **Phang Nga Bay canoe tour (recommended)** | Strong karst scenery, sea caves, canoeing; distinct from Phi Phi. | Long day; famous stops crowded. | ~$100–220 | Medium. |
-| Phi Phi + Maya Bay | Iconic islands, snorkeling, dramatic beach. | Crowded in peak season; early start and current park access rules. | ~$100–250 | Medium/high. |
-| Private speedboat for five | Flexible route / pace, group-only boat. | Whole-boat cost and weather risk; check safety, fuel, park fees, and seating. | ~$250–700 | Medium/high. |
-| Deep-sea fishing charter | Distinctive, activity-centered day. | Less guaranteed scenery / swimming; sea conditions and catch rules. | ~$150–400 | Medium. |
+The Dec 30 boat day is booked: the Phi Phi, Maya Bay and Bamboo catamaran tour. The other options (Phang Nga canoeing, private speedboat, fishing) are no longer under discussion.
 
 ### Bangkok day and overnight choices
 
@@ -213,7 +208,7 @@ The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (thre
 | Confirm selected Phuket Airbnb reservation status, five-bed layout, and arrival plan | Before arrival | The property is selected for all three nights, but reservation/payment and bed details are not established here. | [Selected Airbnb listing](https://www.airbnb.com/rooms/1275269225698798502) |
 | NYE tickets / table + return van | **As soon as official 26/27 package is published** | Event capacity and transport home are limited; Catch is currently advertising festive season. | [Catch Beach Club](https://www.catchbeachclub.com/) |
 | Lan Ha 2D/1N cruise | **Now / once group selects cabin plan** | Small suite inventory and holiday transfers. | [Heritage Line itinerary](https://www.heritage-line.com/our-cruises/lan-ha-bay/) / [Orchid Cruises](https://www.orchidcruises.com/) |
-| Phuket Dec 30 boat tour and airport van | 4–8 weeks before travel | Peak season departure capacity; group-of-five transport. | [Phang Nga Bay guide](https://en.wikivoyage.org/wiki/Phang_Nga_Bay) |
+| Confirm Dec 30 catamaran pickup time and hotel address | Before Dec 30 | Booked Seven Plus Travel tour (9:15 AM–6:15 PM); the listing does not state the pickup time. | [Booked tour](https://www.airbnb.com/experiences/7176126) |
 | Arrange FD4113 arrival transfer to the booked Bangkok Airbnb | Before arrival, after airport endpoint is confirmed | FD4113's Bangkok arrival airport was not provided; choose the correct transfer once confirmed. | — |
 | Arrange Jan 5 Hanoi arrival transfer to the booked Airbnb | Before arrival | Confirm pickup for five from HAN after VJ902 and townhouse check-in timing. | — |
 | Message the Hanoi Airbnb host to confirm luggage can stay during the Jan 7 cruise night and to request a quieter room/floor | Before arrival | The cruise plan relies on main luggage staying at the townhouse; the listing warns lower 2nd and 3rd floors can be noisy, and a quiet room is not guaranteed. | — |
@@ -222,12 +217,12 @@ The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (thre
 | Travel medical / evacuation insurance | Before final non-refundable payments | Covers illness, trip interruption and emergency evacuation; confirm boat activities are included. | Compare policies directly; no insurer URL verified. |
 | Thailand TDAC | Within the official submission window before arrival (currently plan for Dec 26–28) | Required arrival paperwork; check official window and the group's arrival details. | [Thailand Digital Arrival Card](https://tdac.immigration.go.th/) |
 | Private Ninh Binh vehicle / guide | 2–4 weeks before | Early start, five passengers, and a fixed schedule for boat + climb. | [Ninh Binh guide](https://en.wikivoyage.org/wiki/Ninh_Binh) |
-| Hanoi food tour / cooking class | 1–3 weeks before | Select a small group and avoid overloading the short Hanoi stay. | [Hanoi guide](https://en.wikivoyage.org/wiki/Hanoi) |
+| Confirm Jan 5 Hanoi food tour start after the 17:00 HAN arrival | Now | Booked 6–9 PM tour; a 17:00 landing plus transfer and check-in makes the start tight. Ask the host whether a later start is possible. | [Booked tour](https://www.airbnb.com/experiences/4734484) |
 
 ## Open questions for the group
 
 1. NYE: Catch, another verified beach club, or dinner plus a local countdown?
-2. Dec 30: Phang Nga canoeing (recommended), Phi Phi, private speedboat, or fishing?
+2. Jan 5: keep the booked 6 PM Hanoi food tour, or ask the host for a later start after the 17:00 arrival?
 3. Bangkok: stay in the city or take an Ayutthaya / floating-market day? Any interest in a Kanchanaburi or Khao Yai overnight, knowing it would replace city time?
 4. Bangkok tasting menu: Le Du, Nusara, Potong, or skip in favor of a shared Thai dinner?
 5. Is the compact Hanoi schedule (arrival Jan 5, Ninh Binh Jan 6, cruise Jan 7–8) enough, or should one planned activity be traded for a full city-sightseeing day?

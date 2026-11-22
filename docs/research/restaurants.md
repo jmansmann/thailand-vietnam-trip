@@ -23,7 +23,7 @@ Draft, Nov 2026. The map list is `restaurants-my-maps.csv` (one row per place, i
 - Potong and Nusara: the research pass reports Sunday service; not re-verified.
 - K. Panich: the research pass reports a Sunday closure; not re-verified.
 - Gia: Tue-Sat service per the research pass. Jan 6 or Jan 8 is safer than the Jan 5 arrival evening.
-- Blue Elephant: suggested for Dec 30 (Dec 29 is landing day, Dec 31 is NYE).
+- Blue Elephant: Dec 30 is now the catamaran day, so pick another night (Dec 29 is landing day, Dec 31 is NYE).
 - Go Benz (Michelin Bib, via Thai Holiday Guide): Tue-Sun 17:00-01:30, closed Mondays.
 - PRU (via Thai Holiday Guide): dinner Tue-Sat; lunch Fri-Sat.
 
