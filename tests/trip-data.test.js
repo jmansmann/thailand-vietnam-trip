@@ -46,7 +46,7 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   const itinerary = trip.itinerary;
   assert.equal(itinerary.locked[0].date, trip.meta.startDate);
   assert.equal(itinerary.locked[0].endDate, trip.meta.endDate);
-  assert.deepEqual(itinerary.locked.map((item) => item.status), ["locked", "selected", "booked", "locked", "locked"]);
+  assert.deepEqual(itinerary.locked.map((item) => item.status), ["locked", "selected", "locked", "booked", "locked", "booked"]);
   const phuketProperty = itinerary.locked.find((item) => item.status === "selected");
   assert.equal(phuketProperty.date, "2026-12-29");
   assert.equal(phuketProperty.endDate, "2027-01-01");
@@ -67,6 +67,19 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   assert.doesNotMatch(`${bangkokProperty.title} ${bangkokProperty.detail} ${bangkokProperty.url}`, /source_impression_id|booking\s+(?:confirmation\s+)?(?:id|number|code|reference)|confirmation\s+(?:id|number|code|reference)/i);
   assert.match(bangkokProperty.detail, /price and bed setup were not provided/i);
 
+  const hanoiProperty = itinerary.locked.find((item) => item.url === "https://www.airbnb.com/rooms/1385921378441075539");
+  assert.ok(hanoiProperty, "Hanoi Airbnb should be recorded as booked");
+  assert.equal(hanoiProperty.status, "booked");
+  assert.equal(hanoiProperty.date, "2027-01-05");
+  assert.equal(hanoiProperty.endDate, "2027-01-09");
+  assert.match(hanoiProperty.detail, /four nights/);
+  assert.match(hanoiProperty.detail, /includes the Jan 7 night.*cruise itself is not booked/i);
+  assert.match(hanoiProperty.detail, /5 bedrooms, 5 beds, and 5 baths/);
+  assert.match(hanoiProperty.detail, /quiet room\/floor/i);
+  assert.match(hanoiProperty.detail, /price was not provided/i);
+  assert.doesNotMatch(hanoiProperty.url, /[?#]|source_impression_id/i);
+  assert.doesNotMatch(`${hanoiProperty.title} ${hanoiProperty.detail} ${hanoiProperty.url}`, /booking\s+(?:confirmation\s+)?(?:id|number|code|reference)|confirmation\s+(?:id|number|code|reference)/i);
+
   const expectedBookingDates = [
     "2026-12-29", "2026-12-30", "2026-12-31", "2027-01-01", "2027-01-04",
     "2027-01-05", "2027-01-06", "2027-01-07", "2027-01-09",
@@ -74,9 +87,10 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   assert.deepEqual(itinerary.bookings.map((item) => item.date), expectedBookingDates);
   assert.ok(itinerary.bookings.every((item) => item.status === "to-arrange"));
   const bookingCopy = itinerary.bookings.map((item) => `${item.title} ${item.detail}`).join(" ");
-  for (const detail of ["bag drop", "boat day", "NYE", "Bangkok arrival transfer", "airport", "city day or day trip", "Jan 7 room", "Ninh Binh vehicle and guide", "2D/1N cruise", "cabin layout", "HAN"]) {
+  for (const detail of ["bag drop", "boat day", "NYE", "Bangkok arrival transfer", "airport", "city day or day trip", "Hanoi arrival transfer", "Ninh Binh vehicle and guide", "2D/1N cruise", "cabin layout", "HAN"]) {
     assert.ok(bookingCopy.includes(detail), `missing booking placeholder: ${detail}`);
   }
+  assert.equal(itinerary.bookings.filter((item) => /Hanoi hotel|Jan 7 room decision/i.test(`${item.title} ${item.detail}`)).length, 0);
   assert.equal(trip.options.some((option) => option.id === "phuket-stay"), false);
   assert.ok(trip.options.some((option) => option.id === "nye"));
   assert.ok(trip.options.some((option) => option.id === "bangkok-day"));
@@ -93,6 +107,17 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   assert.deepEqual(bangkokBase.options, []);
   assert.match(bangkokBase.why, /listing title claims 300 m to BTS Phrom Phong and EmQuartier/);
   assert.doesNotMatch(bangkokBase.selected.url, /[?#]|source_impression_id/i);
+
+  const hanoiBase = trip.legs.find((leg) => leg.id === "hanoi").stay;
+  assert.equal(hanoiBase.selected.status, "booked");
+  assert.equal(hanoiBase.selected.url, hanoiProperty.url);
+  assert.equal(hanoiBase.selected.dateRange, "Jan 5–9, 2027 · 4 nights");
+  assert.equal(hanoiBase.samePropertyAllNights, true);
+  assert.deepEqual(hanoiBase.options, []);
+  assert.match(hanoiBase.why, /west\/southwest lake-edge recommendation remains contextual/i);
+  assert.ok(trip.checklist.some((item) => item.id === "hanoi-arrival-transfer" && /Jan 5 HAN arrival transfer/i.test(item.item)));
+  assert.ok(trip.checklist.some((item) => item.id === "hanoi-stay-requests" && /luggage/i.test(item.item) && /quieter room/i.test(item.item)));
+  assert.ok(!trip.checklist.some((item) => /Book a Hanoi hotel|Jan 7 room/i.test(`${item.item} ${item.why}`)));
 });
 
 test("all itinerary place references resolve", () => {
@@ -135,13 +160,33 @@ test("Phuket is one base for three nights with no overnight-away option", () => 
   assert.ok(!trip.options.some((option) => option.id === "phuket-overnight"));
 });
 
-test("Hanoi stay recommendation prioritizes a walkable lake-edge base and quieter room", () => {
+test("Hanoi stay records the booked Old Quarter townhouse while retaining the lake-edge context", () => {
   const stay = trip.legs.find((leg) => leg.id === "hanoi").stay;
-  assert.match(stay.recommendation, /Hoan Kiem lake edge/);
-  assert.match(stay.area, /Hang Trong/);
-  assert.match(stay.why, /quiet room/i);
+  assert.match(stay.recommendation, /Booked Airbnb townhouse/);
+  assert.match(stay.area, /Old Quarter.*St Joseph's Cathedral/);
+  assert.match(stay.why, /5 bedrooms, 5 beds, and 5 baths/);
+  assert.match(stay.why, /quiet room\/floor/i);
   assert.match(stay.why, /Ta Hien/);
   assert.ok(trip.sources.some((source) => source.url === "https://www.roughguides.com/articles/where-to-stay-in-hanoi/"));
+});
+
+test("Hanoi Jan 5–9 plans use the continuous townhouse booking around the unbooked cruise", () => {
+  const days = Object.fromEntries(trip.days.filter((day) => day.date >= "2027-01-05" && day.date <= "2027-01-09").map((day) => [day.date, day]));
+  const text = (date) => `${days[date].title} ${days[date].summary} ${days[date].items.map((item) => `${item.title} ${item.desc}`).join(" ")}`;
+
+  assert.match(text("2027-01-05"), /transfer.*booked Old Quarter townhouse|booked Old Quarter townhouse.*transfer/i);
+  assert.match(text("2027-01-05"), /check in/i);
+  assert.match(text("2027-01-06"), /same booked Airbnb/i);
+  assert.match(text("2027-01-06"), /small cruise bag/i);
+  assert.match(text("2027-01-06"), /Main luggage can remain there/i);
+  assert.match(text("2027-01-07"), /without checking out/i);
+  assert.match(text("2027-01-07"), /pickup time, location.*eventual operator booking/i);
+  assert.match(text("2027-01-08"), /same booked Hanoi townhouse/i);
+  assert.match(text("2027-01-08"), /already reserved for Jan 8/i);
+  assert.match(text("2027-01-09"), /townhouse checkout/i);
+  assert.match(text("2027-01-09"), /still-to-be-arranged transfer to HAN/i);
+  const cruise = trip.itinerary.bookings.find((item) => /Lan Ha Bay 2D\/1N cruise/.test(item.title));
+  assert.equal(cruise.status, "to-arrange", "the Lan Ha cruise must remain unbooked");
 });
 
 test("trip data contains no photo assets", () => {
@@ -219,8 +264,9 @@ test("overview, stop tabs, decisions, and essentials render from shared trip dat
   assert.match(hanoiDetails, /Lan Ha Bay/);
   assert.match(hanoiDetails, /Do Ninh Binh as a day trip or overnight/);
   assert.match(hanoiDetails, /Which Lan Ha Bay cruise should we book/);
-  assert.match(hanoiDetails, /Hang Trong/);
   assert.match(hanoiDetails, /St Joseph&#39;s Cathedral/);
+  assert.match(hanoiDetails, /5 bedrooms, 5 beds, and 5 baths/);
+  assert.match(hanoiDetails, /PalmHouse\/ The Big Church\/ Old Quarter\/ Quites/);
   assert.match(hanoiDetails, /quiet room/i);
 
   const phuketPage = renderPage("stops", "#phuket");
