@@ -175,6 +175,7 @@ thailand-vietnam-trip/
 ├── itinerary.html             # locked-in facts / selection and dated booking placeholders
 ├── details.html               # three stop tabs, each with an Overview / Details selector
 ├── decisions.html             # group decisions, summarized by stop; no interactive voting
+├── restaurants.html           # restaurant picks by city and tier, with a My Maps CSV
 ├── essentials.html            # map, budget, checklist, culture, packing and practicals
 ├── assets/css/styles.css
 ├── assets/js/app.js          # renders everything from window.TRIP
@@ -222,6 +223,8 @@ window.TRIP = {
 
 **`decisions.html` — group decisions:** list every open decision by Phuket, Bangkok, and Hanoi. Include the choices, pros, cons, approximate cost, and effort. This page is a discussion guide only: no selectable voting, localStorage vote state, or copy-my-picks button.
 
+**`restaurants.html` — restaurant picks:** Phuket, Bangkok, and Hanoi, each grouped into fine dining, mid-range, and street food. The list lives in `window.TRIP.restaurants` in `data/trip.js`, and each place links to a Google Maps search. `docs/research/restaurants-my-maps.csv` is the My Maps import copy; `tests/trip-data.test.js` fails if the two drift apart. Keep the research caveats on the page: unverified prices and hours, and city-level addresses.
+
 **`essentials.html` — trip essentials:** Leaflet 1.9.x map from unpkg CDN with OpenStreetMap tiles (attribution required) and no API key; markers by category, filter by city, popups with an "Open in Google Maps" link (`https://www.google.com/maps/search/?api=1&query=LAT,LNG`), budget, booking checklist, culture tabs, packing, practicals, emergency information, and sources. Checklist checkboxes may be saved in `localStorage` and critical items are highlighted.
 
 All pages share the footer with a last-updated date, sources, and the disclaimer "prices are estimates; verify before booking". The site has **no photos or image assets**.
@@ -238,7 +241,7 @@ All pages share the footer with a last-updated date, sources, and the disclaimer
 ---
 
 ## Phase 4: Verify
-- Serve locally: `python3 -m http.server 8000` from the repo root and open `index.html`, `itinerary.html`, `details.html`, `decisions.html`, and `essentials.html`. Also open each HTML page directly via `file://`.
+- Serve locally: `python3 -m http.server 8000` from the repo root and open `index.html`, `itinerary.html`, `details.html`, `decisions.html`, `restaurants.html`, and `essentials.html`. Also open each HTML page directly via `file://`.
 - Check: the overview is concise; each city tab and its Overview / Details selector works; Ninh Binh and Lan Ha appear inside Hanoi; decisions are grouped by stop and have no interactive voting; map shows all markers and places list works as its text alternative; checklist persists across reload; layout works at 375px; print preview is clean; no console errors.
 - Check that every `placeId` in `days` exists in `places` (add a small console warning in `app.js` for missing IDs).
 

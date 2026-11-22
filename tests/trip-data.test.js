@@ -203,7 +203,7 @@ test("the TDAC is the last item in the deadline-ordered booking list", () => {
   assert.equal(trip.checklist.at(-1).id, "tdac");
 });
 
-test("overview, stop tabs, decisions, and essentials render from shared trip data", () => {
+test("overview, stop tabs, decisions, essentials, and restaurants render from shared trip data", () => {
   const appSource = fs.readFileSync(path.join(__dirname, "../assets/js/app.js"), "utf8");
 
   function renderPage(page, hash = "") {
@@ -320,4 +320,93 @@ test("overview, stop tabs, decisions, and essentials render from shared trip dat
   for (const section of ["Trip map", "Budget range", "Booking checklist", "Culture cheat sheet", "Packing and practicals"]) {
     assert.ok(essentials.includes(section), `essentials page is missing: ${section}`);
   }
+
+  const restaurants = render("restaurants");
+  assert.match(restaurants, /Restaurant shortlist/);
+  assert.match(restaurants, /Download CSV for Google My Maps/);
+  for (const city of trip.restaurants.cities) {
+    assert.match(restaurants, new RegExp(`<h3 id="city-${city.toLowerCase()}-title">${city}</h3>`));
+  }
+  assert.equal(restaurants.match(/class="card restaurant-card"/g)?.length, trip.restaurants.places.length);
+  assert.equal(restaurants.match(/google\.com\/maps\/search\/\?api=1&amp;query=/g)?.length, trip.restaurants.places.length);
+  assert.match(restaurants, /Kan&#39;s Haus Cafe and Bistro/);
+  assert.doesNotMatch(restaurants, /undefined|NaN|\[object Object\]|<img\b/);
+  assert.match(renderPage("overview").elements.get("#site-header").innerHTML, /href="restaurants\.html"/);
 });
+
+test("restaurant shortlist covers every city and tier with unique names", () => {
+  const { cities, tiers, places } = trip.restaurants;
+  assert.deepEqual(cities, ["Phuket", "Bangkok", "Hanoi"]);
+  assert.deepEqual(tiers, ["Fine dining", "Mid-range", "Street food"]);
+  for (const city of cities) {
+    for (const tier of tiers) {
+      assert.ok(places.some((place) => place.city === city && place.tier === tier), `${city} has no ${tier} picks`);
+    }
+  }
+  for (const place of places) {
+    assert.ok(cities.includes(place.city), `unknown city: ${place.city}`);
+    assert.ok(tiers.includes(place.tier), `unknown tier: ${place.tier}`);
+    for (const field of ["name", "address", "notes"]) {
+      assert.ok(String(place[field] ?? "").trim(), `${place.name || "(unnamed)"} is missing ${field}`);
+    }
+  }
+  const keys = places.map((place) => `${place.city}|${place.name.toLowerCase()}`);
+  assert.equal(new Set(keys).size, keys.length, "restaurant names must be unique within a city");
+});
+
+test("restaurant data matches the My Maps CSV row for row", () => {
+  assert.equal(trip.restaurants.source, "docs/research/restaurants-my-maps.csv");
+  const csv = fs.readFileSync(path.join(__dirname, "../docs/research/restaurants-my-maps.csv"), "utf8");
+  const rows = parseCsv(csv);
+  assert.deepEqual(rows[0], ["Name", "Address", "City", "Tier", "Notes"]);
+  const { places } = trip.restaurants;
+  assert.equal(rows.length - 1, places.length, "CSV row count differs from window.TRIP.restaurants");
+  rows.slice(1).forEach((row, index) => {
+    const place = places[index];
+    assert.deepEqual(
+      [place.name, place.address, place.city, place.tier, place.notes],
+      row,
+      `CSV row ${index + 2} differs from data/trip.js; update both copies together`,
+    );
+  });
+});
+
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let field = "";
+  let quoted = false;
+  for (let i = 0; i < text.length; i += 1) {
+    const char = text[i];
+    if (quoted) {
+      if (char === '"' && text[i + 1] === '"') {
+        field += '"';
+        i += 1;
+      } else if (char === '"') {
+        quoted = false;
+      } else {
+        field += char;
+      }
+    } else if (char === '"') {
+      quoted = true;
+    } else if (char === ",") {
+      row.push(field);
+      field = "";
+    } else if (char === "\n" || char === "\r") {
+      if (char === "\r" && text[i + 1] === "\n") i += 1;
+      if (field || row.length) {
+        row.push(field);
+        rows.push(row);
+      }
+      row = [];
+      field = "";
+    } else {
+      field += char;
+    }
+  }
+  if (field || row.length) {
+    row.push(field);
+    rows.push(row);
+  }
+  return rows;
+}

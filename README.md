@@ -8,6 +8,7 @@ A mobile-first, public planning site for five travelers on a Thailand and Vietna
 - `itinerary.html` is the official itinerary, separating locked-in facts, booked stays, and selected plans from dated booking and planning placeholders.
 - `details.html` has three stop tabs—Phuket, Bangkok, and Hanoi—with an Overview / Details selector for each. Ninh Binh and Lan Ha Bay are sections within Hanoi.
 - `decisions.html` summarizes open choices by stop. It is a discussion guide, not a voting form.
+- `restaurants.html` lists restaurant picks for Phuket, Bangkok, and Hanoi by fine dining, mid-range, and street food, with a CSV for Google My Maps.
 - `essentials.html` contains the map, budget, checklist, culture notes, packing, and practical information.
 
 No votes are collected by the site. Checklist marks are stored in the current browser only; there is no backend. **Do not put names, booking IDs, phone numbers, or other private information on this public site.**
@@ -24,7 +25,7 @@ Research and the itinerary are in `docs/`. Items marked **verify** need a curren
 python3 -m http.server 8000
 ```
 
-Open <http://localhost:8000/> for the overview, <http://localhost:8000/itinerary.html> for the official itinerary, <http://localhost:8000/details.html> for the stop tabs, <http://localhost:8000/decisions.html> for the group decision list, and <http://localhost:8000/essentials.html> for map and practicals. The site also loads its shared content when an HTML page is opened directly with `file://`.
+Open <http://localhost:8000/> for the overview, <http://localhost:8000/itinerary.html> for the official itinerary, <http://localhost:8000/details.html> for the stop tabs, <http://localhost:8000/decisions.html> for the group decision list, <http://localhost:8000/restaurants.html> for restaurant picks, and <http://localhost:8000/essentials.html> for map and practicals. The site also loads its shared content when an HTML page is opened directly with `file://`.
 
 ## Quality checks
 

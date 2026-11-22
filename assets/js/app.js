@@ -53,6 +53,7 @@
       ["overview", "index.html", "Overview"],
       ["itinerary", "itinerary.html", "Itinerary"],
       ["stops", "details.html", "Stops"],
+      ["restaurants", "restaurants.html", "Restaurants"],
       ["decisions", "decisions.html", "Decisions"],
       ["essentials", "essentials.html", "Essentials"],
     ];
@@ -413,6 +414,48 @@
       </section>`;
   }
 
+  function renderRestaurantCard(place) {
+    const mapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${place.name}, ${place.address}`)}`;
+    return `
+      <article class="card restaurant-card">
+        <h4>${escapeHtml(place.name)}</h4>
+        <p class="restaurant-address">${escapeHtml(place.address)}</p>
+        <p>${escapeHtml(place.notes)}</p>
+        ${renderExternalLink(mapsUrl, `Open ${place.name} in Google Maps`)}
+      </article>`;
+  }
+
+  function renderRestaurants() {
+    const data = trip.restaurants;
+    const cityId = (city) => `city-${city.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
+    const placesIn = (city, tier) => data.places.filter((place) => place.city === city && (!tier || place.tier === tier));
+    main.innerHTML = `
+      ${renderHero({ label: "Restaurant shortlist" })}
+      <section class="section" aria-labelledby="restaurants-title">
+        <div class="section-heading">
+          <div><p class="section-kicker">Where to eat</p><h2 id="restaurants-title">Phuket, Bangkok and Hanoi</h2></div>
+          <p>${escapeHtml(data.intro)}</p>
+        </div>
+        <p class="notice">${escapeHtml(data.caveat)}</p>
+        <div class="button-row">
+          <a class="button button-secondary" href="${escapeHtml(data.source)}" download>Download CSV for Google My Maps</a>
+        </div>
+        <p class="small muted">${escapeHtml(data.importNote)}</p>
+        <nav class="stop-tabs" aria-label="Restaurants by city">
+          ${data.cities.map((city) => `<a class="stop-tab" href="#${cityId(city)}">${escapeHtml(city)}<span>${placesIn(city).length} places</span></a>`).join("")}
+        </nav>
+        ${data.cities.map((city) => `
+          <section class="restaurant-city" id="${cityId(city)}" aria-labelledby="${cityId(city)}-title">
+            <h3 id="${cityId(city)}-title">${escapeHtml(city)}</h3>
+            ${data.tiers.map((tier) => {
+              const items = placesIn(city, tier);
+              if (!items.length) return "";
+              return `<div class="restaurant-tier"><p class="section-kicker">${escapeHtml(tier)} · ${items.length}</p><div class="restaurant-grid">${items.map(renderRestaurantCard).join("")}</div></div>`;
+            }).join("")}
+          </section>`).join("")}
+      </section>`;
+  }
+
   function renderEssentialsPage() {
     main.innerHTML = `
       ${renderHero({ label: "Trip essentials" })}
@@ -693,6 +736,11 @@
     renderDecisionPage();
   }
 
+  function renderRestaurantsPage() {
+    renderShell();
+    renderRestaurants();
+  }
+
   function renderEssentialsPageWithShell() {
     renderShell();
     renderEssentialsPage();
@@ -701,6 +749,7 @@
   if (currentPage === "itinerary") renderItineraryPageWithShell();
   else if (currentPage === "stops") renderStopsPage();
   else if (currentPage === "decisions") renderDecisionsPage();
+  else if (currentPage === "restaurants") renderRestaurantsPage();
   else if (currentPage === "essentials") renderEssentialsPageWithShell();
   else renderOverviewPage();
 })();
