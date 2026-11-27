@@ -50,10 +50,10 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   const phuketProperty = itinerary.locked.find((item) => item.status === "selected");
   assert.equal(phuketProperty.date, "2026-12-29");
   assert.equal(phuketProperty.endDate, "2027-01-01");
-  assert.match(phuketProperty.title, /Patong/);
-  assert.match(phuketProperty.detail, /300 m to Bangla Road/);
-  assert.match(phuketProperty.detail, /500 m to the beach/);
-  assert.match(phuketProperty.url, /^https:\/\/www\.airbnb\.com\/rooms\/1275269225698798502$/);
+  assert.match(phuketProperty.title, /Kamala/);
+  assert.match(phuketProperty.detail, /Kamala Beach/);
+  assert.match(phuketProperty.detail, /\$1,678/);
+  assert.match(phuketProperty.url, /^https:\/\/www\.airbnb\.com\/rooms\/15438690$/);
   assert.match(phuketProperty.detail, /does not establish payment or reservation confirmation/);
   assert.doesNotMatch(phuketProperty.detail, /reservation is paid or confirmed/i);
 
@@ -100,7 +100,7 @@ test("official itinerary distinguishes selected facts from outstanding arrangeme
   assert.ok(!trip.checklist.some((item) => /Bangkok hotel/i.test(item.item)), "checklist should not ask the group to book a Bangkok hotel");
 
   const phuketBase = trip.legs.find((leg) => leg.id === "phuket").stay;
-  assert.match(phuketBase.area, /Patong/);
+  assert.match(phuketBase.area, /Kamala/);
   assert.equal(phuketBase.selected.url, phuketProperty.url);
   const bangkokBase = trip.legs.find((leg) => leg.id === "bangkok").stay;
   assert.equal(bangkokBase.selected.status, "booked");
@@ -275,8 +275,8 @@ test("overview, stop tabs, decisions, essentials, and restaurants render from sh
     target: { closest: (selector) => selector === "[data-stop-view]" ? { dataset: { stopView: "details" } } : null },
   });
   const phuketDetails = phuketPage.elements.get("#stop-content").innerHTML;
-  assert.match(phuketDetails, /CozyStay 3BR CenterPatong/);
-  assert.match(phuketDetails, /Patong/);
+  assert.match(phuketDetails, /Ciara Kamala/);
+  assert.match(phuketDetails, /Kamala/);
   assert.match(phuketDetails, /Open selected Airbnb listing/);
   assert.match(phuketDetails, /class="tag tag-selected">Selected/);
   assert.doesNotMatch(phuketDetails, /Kamala base|pool villa/i);

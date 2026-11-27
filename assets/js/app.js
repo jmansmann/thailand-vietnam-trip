@@ -164,7 +164,7 @@
         <article class="panel">
           <p class="section-kicker">Budget range · flights excluded</p>
           <h2>$${trip.budget.total[0].toLocaleString("en-US")}–$${trip.budget.total[1].toLocaleString("en-US")} pp</h2>
-          <p class="muted">The range depends mainly on Phuket NYE lodging, private boats, cruise cabin choice, and dining. The selected Airbnb's price is not in the estimate yet.</p>
+          <p class="muted">The range depends mainly on Phuket NYE lodging, private boats, cruise cabin choice, and dining. The Phuket villa is $1,678 for three nights; the Hanoi Airbnb price is still not in the estimate.</p>
           <a class="inline-link" href="essentials.html#budget">See budget assumptions <span aria-hidden="true">→</span></a>
         </article>
         <article class="panel">

@@ -6,7 +6,7 @@
 
 | Stop | Nights | Dates | Base | Stay recommendation |
 |---|---:|---|---|---|
-| Phuket | 3 | Dec 29–Jan 1 | Central Patong (Airbnb listing title; exact pin unverified) | Same selected Airbnb for all three nights. The title claims about 300 m to Bangla Road and 500 m to the beach; verify exact pin, five separate beds, reservation, and rate. |
+| Phuket | 3 | Dec 29–Jan 1 | Kamala (listing; exact address sent after booking) | Kamala villa for all three nights at $1,678 total (about $336 pp). Listing shows 4 bedrooms and 4 king beds; confirm sleeping for five. Listing: https://www.airbnb.com/rooms/15438690 |
 | Bangkok | 4 | Jan 1–5 | Phrom Phong / EmQuartier area (per listing title) | Booked Airbnb for Jan 1–5, 2027 (four nights). The listing title claims 300 m to BTS Phrom Phong and EmQuartier; price and bed setup were not provided. |
 | Hanoi | 4 Airbnb nights (plus separate cruise night) | Jan 5–9 | Old Quarter / St Joseph's Cathedral (per listing description) | Booked Airbnb townhouse Jan 5–9, including Jan 7 while the group is away on the planned cruise. The listing describes 5 bedrooms, 5 beds, and 5 baths; its price is unknown. |
 
@@ -14,19 +14,19 @@
 
 ## Day by day
 
-### Tue Dec 29 — Phuket landing: settle into central Patong
+### Tue Dec 29 — Phuket landing: settle into the Kamala villa
 
-- **Morning:** Land HKT around 08:00; arrange a van for five with luggage to the selected Airbnb. Its title identifies central Patong; verify the exact map pin, bag drop, and early check-in before setting the ride.
-- **Afternoon:** Keep the first day flexible after the overnight journey. The listing title claims the beach is about 500 m away; confirm the walking route, then consider a short beach walk or Thai massage.
-- **Evening:** Choose an easy dinner near the property after confirming its location; do not assume the Airbnb has meal service or a kitchen.
+- **Morning:** Land HKT around 08:00; arrange a van for five with luggage to the Kamala villa. The exact address is sent after booking; confirm it, bag drop, and early check-in before setting the ride.
+- **Afternoon:** Keep the first day flexible after the overnight journey. Kamala Beach is about a 12-minute walk from the villa (listing); consider a short beach walk or Thai massage.
+- **Evening:** Choose an easy dinner near the villa in Kamala. The listing includes a kitchen; meal service is not stated.
 - **Chill alternative:** Rest at the property and call it an early night.
-- **Estimate:** **$350–950 pp** as a broad planning allowance; it includes lodging but does not use the selected Airbnb's unprovided price.
+- **Estimate:** **$350–950 pp** as a broad planning allowance. The villa's $1,678 total (about $336 pp) is now known; this range has not been recalculated.
 - **Booking notes:** Arrange the airport transfer and property arrival / baggage plan; confirm reservation status and five separate beds.
 
 ### Wed Dec 30 — Booked Phi Phi, Maya Bay and Bamboo catamaran
 
 - **Booked:** Seven Plus Travel full-day tour, 9:15 AM–6:15 PM, with hotel pickup and drop-off. Listing: [Phuket: Phi Phi, Maya & Bamboo Catamaran](https://www.airbnb.com/experiences/7176126), from $98 per guest; the booked total was not provided.
-- **Morning:** Hotel pickup in Patong, then transfer to Chalong Pier for the speed catamaran. The listing does not state the pickup time; confirm it with the operator.
+- **Morning:** Hotel pickup at the Kamala villa, then transfer to Chalong Pier for the speed catamaran. The listing does not state the pickup time; confirm it with the operator.
 - **Afternoon:** Buffet lunch on Phi Phi Don (included), snorkeling, Viking Cave and Pileh Lagoon depending on tides, Maya Bay, and Maiton snorkeling.
 - **Evening:** Return to Chalong Pier around 6:15 PM, then transfer back to the property. Choose dinner near the property; no late night before NYE.
 - **Estimate:** **$125–250 pp** for the tour, dinner, and drinks, based on the listing's from-price.
@@ -34,9 +34,9 @@
 
 ### Thu Dec 31 — Patong reset, then NYE plans
 
-- **Morning:** Sleep in, have a late breakfast, and keep the morning light; check the beach route from the Airbnb's exact map pin.
+- **Morning:** Sleep in, have a late breakfast, and keep the morning light. Kamala Beach is about a 12-minute walk from the villa.
 - **Afternoon:** Eat near the property, rest, and decide whether to celebrate locally in Patong or travel to a beach club.
-- **Evening:** NYE options remain open: **Catch Beach Club** in Bang Tao (current beach-club first check), **Café del Mar** in Kamala (event / operation verify), or local Patong nightlife. The Airbnb listing title claims Bangla Road is about 300 m away; verify the route and expect crowds. Arrange a driver if going to a beach club and a clear late-night return plan.
+- **Evening:** NYE options remain open: **Catch Beach Club** in Bang Tao (current beach-club first check), **Café del Mar** in Kamala (event / operation verify), or local Patong nightlife, about 20 minutes by car from the villa. Verify the route and expect crowds. Arrange a driver if going to a beach club and a clear late-night return plan.
 - **Chill alternative / backup:** Have dinner nearby and keep the celebration local rather than making a late cross-island trip.
 - **Estimate:** **$500–1,800 pp** including lodging, food, event/table spend, and return transport. The event range is a planning allowance, not an announced NYE price.
 - **Booking notes:** Choose the venue, then secure official NYE tickets / table and transport where needed. Keep tickets, IDs, pickup details, and post-midnight plan offline.
@@ -128,15 +128,15 @@
 
 ### Phuket lodging — selected, not an open group choice
 
-The group selected the same Airbnb property for Dec 29, 2026–Jan 1, 2027 (three nights): [CozyStay 3BR CenterPatong 300m Bangla, 500m Beach](https://www.airbnb.com/rooms/1275269225698798502). The listing title identifies central Patong and claims about 300 m to Bangla Road and 500 m to the beach; verify the exact map pin and walking routes. This records the group's selection, not payment or reservation confirmation. Confirm five separate beds, reservation status, arrival / bag-drop plan, rate, and stay terms. There is no remaining villa-versus-hotel decision for Phuket.
+The group selected the same villa for Dec 29, 2026–Jan 1, 2027 (three nights): [Ciara Kamala 4bedroom walk to the beach](https://www.airbnb.com/rooms/15438690), $1,678 total (about $336 pp). The listing places it in Kamala, a 12-minute walk from Kamala Beach, with Patong about 20 minutes by car. The exact address is sent after booking. This records the group's selection, not payment or reservation confirmation. Confirm five people can sleep there (the listing shows 4 king beds), the arrival and bag-drop plan, and stay terms. There is no remaining villa-versus-hotel decision for Phuket.
 
 ### NYE club
 
 | Choice | Pros | Cons | Cost pp | Effort |
 |---|---|---|---:|---|
-| **Catch Beach Club, Bang Tao (first beach-club check)** | Official site is advertising Festive Season 26/27; fits the group's beach-club preference. | Away from the central Patong base; NYE package, tickets, and table spend need verification, and rides must be planned. | Planning hold ~$150–1,000+ | Medium; book event and round-trip transport once the official package is clear. |
-| Café del Mar, Kamala | Another beach-club option. | Requires transport from Patong; its site fetch failed, and current 2026/27 event, tickets, and operation remain unverified. | Planning hold ~$150–1,000+ | Medium/high until verified. |
-| Patong / Bangla Road | Local nightlife may be walkable from the selected Airbnb; avoids an out-of-area ride if the group wants to stay nearby. | Not a beach-club night; confirm current NYE programming, crowd plan, and exact walk from the listing. | ~$50–250 | Low/medium. |
+| **Catch Beach Club, Bang Tao (first beach-club check)** | Official site is advertising Festive Season 26/27; fits the group's beach-club preference. | Away from the Kamala villa; NYE package, tickets, and table spend need verification, and rides must be planned. | Planning hold ~$150–1,000+ | Medium; book event and round-trip transport once the official package is clear. |
+| Café del Mar, Kamala | Another beach-club option in Kamala. | Its site fetch failed, and current 2026/27 event, tickets, and operation remain unverified. | Planning hold ~$150–1,000+ | Medium/high until verified. |
+| Patong / Bangla Road | Local nightlife about 20 minutes by car from the Kamala villa. | Not a beach-club night; confirm current NYE programming, crowd plan, and the return ride. | ~$50–250 | Low/medium. |
 
 ### Phuket Dec 30 — booked
 
@@ -193,7 +193,7 @@ The Dec 30 boat day is booked: the Phi Phi, Maya Bay and Bamboo catamaran tour. 
 
 | Category | Low | High | Assumptions |
 |---|---:|---:|---|
-| Lodging | $2,100 | $6,000 | Broad estimate, not a quote: Phuket 3 selected Airbnb nights and Bangkok 4 booked Airbnb nights; Hanoi 4 booked Airbnb nights Jan 5–9 (including Jan 7 while away) plus one separate cruise night aboard if booked. Hanoi Airbnb price is unknown. |
+| Lodging | $2,100 | $6,000 | Broad estimate, not a quote: Phuket Kamala villa $1,678 total for 3 nights (about $336 pp) and Bangkok 4 booked Airbnb nights; Hanoi 4 booked Airbnb nights Jan 5–9 (including Jan 7 while away) plus one separate cruise night aboard if booked. Hanoi Airbnb price is unknown. |
 | Food & drink | $650 | $1,800 | Mostly local restaurants, cafés, one upscale dinner, and a moderate number of cocktails. |
 | Activities / tours | $550 | $1,700 | One Phuket full-day boat, Bangkok sights / optional Muay Thai or Ayutthaya, Ninh Binh private vehicle, and Lan Ha cruise. Excludes extra shopping. |
 | NYE | $150 | $1,000 | Planning reserve for ticket / dinner or table package; no 2026 published price was verified. |
@@ -207,7 +207,7 @@ The Dec 30 boat day is booked: the Phi Phi, Maya Bay and Bamboo catamaran tour. 
 
 | Item | Book by | Why | Link |
 |---|---|---|---|
-| Confirm selected Phuket Airbnb reservation status, five-bed layout, and arrival plan | Before arrival | The property is selected for all three nights, but reservation/payment and bed details are not established here. | [Selected Airbnb listing](https://www.airbnb.com/rooms/1275269225698798502) |
+| Confirm the Kamala villa address, sleeping arrangement for five, and check-in plan | Before arrival | Selected for three nights at $1,678 total; the listing shows 4 bedrooms and 4 king beds. Confirm the bed plan and arrival details. | [Kamala villa listing](https://www.airbnb.com/rooms/15438690) |
 | NYE tickets / table + return van | **As soon as official 26/27 package is published** | Event capacity and transport home are limited; Catch is currently advertising festive season. | [Catch Beach Club](https://www.catchbeachclub.com/) |
 | Lan Ha 2D/1N cruise | **Now / once group selects cabin plan** | Small suite inventory and holiday transfers. | [Heritage Line itinerary](https://www.heritage-line.com/our-cruises/lan-ha-bay/) / [Orchid Cruises](https://www.orchidcruises.com/) |
 | Confirm Dec 30 catamaran pickup time and hotel address | Before Dec 30 | Booked Seven Plus Travel tour (9:15 AM–6:15 PM); the listing does not state the pickup time. | [Booked tour](https://www.airbnb.com/experiences/7176126) |
